@@ -1,7 +1,7 @@
 
 # 📘 Master_Ingenieria_Matematica_UCM_2025-2026
 
-**Central repository for the MSc in Mathematical Engineering (UCM 2025–26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
+**Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
 ---
 
