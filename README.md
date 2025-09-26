@@ -147,11 +147,28 @@ Document the application of mathematical and computational methods across course
 
 ## 🧭 How to Navigate
 
-1. Explore the [`Courses/`] folder to browse each course with its internal structure.  
-2. Inside each course, check the `README.md` for semester, objectives, and credits.  
-3. The `Featured-projects/` folder includes highlighted project examples.  
-4. The `Industry Internship/` folder gathers materials from the professional internship.  
-5. In `Master’s Thesis/` you will find the Modeling Week and the final project development.
+1. Explore the [Courses/] folder to browse all courses, organized into:
+- **Foundation-Courses/**: Basic preparatory courses, e.g., Scientific-Programming.
+- **Core-Curriculum/**: Mandatory courses for the MSc program.
+- **Specialization/**: Elective courses and advanced topics.
+- **Scientific-Programming-Practices/**: Practical exercises of the programming course.
+
+2. Inside each course folder, check the **README.md** for course description, objectives, semester, and credits.
+
+3. Each course contains:
+- **Theory/**: Lecture notes, slides, and theoretical material.
+- **Exercises/**: Practical exercises and assignments.
+- **Exams/**: Exams (if available).
+
+4. The **Master’s-Thesis/** folder includes:
+- **Modeling-Week/**: Intermediate modeling exercises and projects.
+- **Project/**: Final thesis work with code, datasets, and reports.
+
+5. The **Industry-Internship/** folder gathers materials, deliverables, and any project files developed during professional internships.
+
+6. The **Key-Projects/** folder highlights significant projects that serve as portfolio examples.
+
+7. The **Resources/** folder contains additional references, bibliographies, and useful links.
 
 ---
 
