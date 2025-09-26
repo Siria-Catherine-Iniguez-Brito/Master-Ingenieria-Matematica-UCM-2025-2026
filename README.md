@@ -24,6 +24,7 @@ This repository is designed for:
 
 Its applications span **academia**, **industry**, and data-driven fields such as **quantitative analysis**, **simulation**, and **applied research**.
 
+---
 
 ## 🚀 Featured Projects (Coming Soon)
 
@@ -36,7 +37,7 @@ This section will showcase key projects developed throughout the MSc program. Ex
 
 Stay tuned for updates and results that demonstrate practical application of the program's core concepts.
 
-
+---
 
 ## 📑 Index
 
@@ -63,7 +64,7 @@ Stay tuned for updates and results that demonstrate practical application of the
 - [📄 License](#-license)
 - [🚧 Repository Status](#-repository-status)
 
-
+---
 ## 🎓 MSc Program Structure
 
 **Total: 60 ECTS (European Credit Transfer System)**
@@ -124,7 +125,7 @@ Useful links from the official MSc program site:
 - [📄 MSc Brochure (PDF)](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)  
 - [📚 Study Plan (2025–26)](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)
 
-
+---
 
 ## 🗂️ Repository Structure
 
@@ -219,16 +220,18 @@ This repository serves as a comprehensive, well-organized archive of my MSc Math
 
 > **Note:** The names of the folders are in English to facilitate navigation; however, the course materials they contain are mainly in Spanish, reflecting the language of instruction.
 
-
+---
 ## 🎯 Repository Goals
 
 ### Academic Focus  
 Capture and reflect the official 2025–26 curriculum with thorough archiving of classes, exercises, and projects, emphasizing the deep learning process and the development of advanced mathematical and computational skills. This repository aims to showcase the academic rigor and practical value of the MSc in Mathematical Engineering at UCM as a foundation for research and applied science.
 
+---
+
 ### Professional Development  
 Document the practical application of mathematical and computational methods, building a comprehensive portfolio tailored for careers in data science, analytics, optimization, and simulation.
 
-
+---
 
 
 ## 🧠 Skills Showcased
@@ -244,12 +247,13 @@ Document the practical application of mathematical and computational methods, bu
 - Reproducible methodology and technical documentation (Markdown, LaTeX, Git)
 
 
-
+---
 
 ## 🏷️ Topics
 
 `projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering` · `data-science-analytics` · `optimization` · `simulation`
 
+---
 
 
 ## 🛠️ Tech Stack & Tools
@@ -258,6 +262,7 @@ Document the practical application of mathematical and computational methods, bu
 - Git, LaTeX
 - Jupyter Notebooks, VSCode
 
+---
 
 ## 📬 Contact 
 
@@ -266,6 +271,7 @@ If you want to collaborate, connect, or learn more about my profile — I'm alwa
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/siria-catherine-i%C3%B1iguez-brito-39a3a8242/)
 - 📧 **Email**: iniguezbritocatherine@gmail.com
 
+---
 
 ## 🤝 How to Contribute
 
@@ -274,6 +280,7 @@ If you want to collaborate, connect, or learn more about my profile — I'm alwa
 - Open a pull request describing your changes
 - Be respectful and follow the code of conduct
 
+---
 
 ## 📄 License
 
@@ -283,7 +290,7 @@ This repository is licensed under the [MIT License](./LICENSE).
 You are free to use, modify, and distribute the contents of this repository under the terms of the MIT License.  
 For full details, please see the [LICENSE](./LICENSE) file.
 
-
+---
 
 ## 🚧 Repository Status
 
