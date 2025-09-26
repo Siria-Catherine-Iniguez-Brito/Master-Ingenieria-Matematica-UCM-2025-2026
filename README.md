@@ -1,5 +1,6 @@
 
-# 📘 Master-Ingenieria-Matematica-UCM-2025-2026
+# 📘 MSc-Mathematical-Engineering-UCM-2025–2026
+
 
 **Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
@@ -15,7 +16,7 @@ The MSc in Mathematical Engineering at Universidad Complutense de Madrid is stru
 **Up to 12 ECTS** — Assigned based on the student’s academic background.  
 In my case:
 
-- `Programación Científica` *(Scientific Programming)* — **3 ECTS**
+- `Scientific Programming` *(Programación Científica)* — **3 ECTS**
   
 > **Note:** The complementos de formación (foundation courses) credits are additional and may be required depending on prior qualifications. Thus, the total ECTS count including these complementos is **63 ECTS** in my case.
 
@@ -25,23 +26,23 @@ In my case:
 ### 📚 2. Core Curriculum *(Módulo 1: Contenidos Fundamentales)*  
 **39 ECTS** — Required courses in applied mathematics and computation:
 
-- `Estadística Aplicada y Minería de Datos` *(Applied Statistics & Data Mining)* — 9 ECTS  
-- `Métodos Numéricos Avanzados` *(Advanced Numerical Methods)* — 4 ECTS  
-- `Modelización y Simulación en Sistemas Dinámicos` *(Modeling & Simulation in Dynamical Systems)* — 5 ECTS  
-- `Modelos Determinísticos en Logística` *(Deterministic Models in Logistics)* — 4.5 ECTS  
-- `Técnicas Avanzadas en Optimización` *(Advanced Optimization Techniques)* — 4.5 ECTS  
-- `Bases de Datos` *(Databases)* — 6 ECTS  
-- `Fundamentos en Matemática Financiera` *(Foundations in Financial Mathematics)* — 6 ECTS  
+- `Applied Statistics & Data Mining` *(Estadística Aplicada y Minería de Datos)* — 9 ECTS  
+- `Advanced Numerical Methods` *(Métodos Numéricos Avanzados)* — 4 ECTS  
+- `Modeling & Simulation in Dynamical Systems` *(Modelización y Simulación en Sistemas Dinámicos)* — 5 ECTS  
+- `Deterministic Models in Logistics` *(Modelos Determinísticos en Logística)* — 4.5 ECTS  
+- `Advanced Optimization Techniques` *(Técnicas Avanzadas en Optimización)* — 4.5 ECTS  
+- `Databases` *(Bases de Datos)* — 6 ECTS  
+- `Foundations in Financial Mathematics` *(Fundamentos en Matemática Financiera)* — 6 ECTS  
 
 ---
 
 ### 🧪 3. Specialization *(Módulo 2: Especialización)*  
 **12 ECTS** — Chosen electives:
 
-- `Técnicas de Simulación` *(Simulation Techniques)* — 3 ECTS  
-- `Técnicas de Predicción` *(Forecasting Techniques)* — 3 ECTS  
-- `Modelos Estocásticos en Logística` *(Stochastic Models in Logistics)* — 3 ECTS  
-- `Introducción a la Gestión de Riesgos Financieros` *(Introduction to Financial Risk Management)* — 3 ECTS  
+- `Simulation Techniques` *(Técnicas de Simulación)* — 3 ECTS  
+- `Forecasting Techniques` *(Técnicas de Predicción)* — 3 ECTS  
+- `Stochastic Models in Logistics` *(Modelos Estocásticos en Logística)* — 3 ECTS  
+- `Introduction to Financial Risk Management` *(Introducción a la Gestión de Riesgos Financieros)* — 3 ECTS  
 
 ---
 
@@ -50,11 +51,11 @@ In my case:
 
 ---
 
-### 🧑‍💻 5. Master's-Thesis 
+### 🧑‍💻 5. Master's Thesis 
 **6 ECTS**:
 
-- `Semana de la Modelización` *(Modeling Week)* — 3 ECTS  
-- `Proyecto` *(Project)* — 3 ECTS
+- `Modeling Week` *(Semana de la Modelización)* — 3 ECTS  
+- `Project` *(Proyecto)* — 3 ECTS
 
 
 ### 📎 Official Resources
@@ -181,7 +182,7 @@ Document the application of mathematical and computational methods across course
 
 7. The **Resources/** folder contains additional references, bibliographies, and useful links.
 
-> **Note:**  Folder's names are in English to fcilitate navegation, however course materials inside are primaly in Spanish, reflecting the language of instruction.
+> **Note:** The names of the folders are in English to facilitate navigation; however, the course materials they contain are mainly in Spanish, reflecting the language of instruction.
 ---
 
 ## 🏷️ Topics
@@ -192,10 +193,10 @@ Document the application of mathematical and computational methods across course
 
 ## 📬 Contact
 
-If you want to collaborate, connect, or learn more about my profile:
+If you want to collaborate, connect, or learn more about my profile — I'm always open to networking, sharing ideas, or exploring opportunities in STEM, data science, or applied mathematics.
 
-- **LinkedIn**: https://www.linkedin.com/in/siria-catherine-i%C3%B1iguez-brito-39a3a8242/
-- **Email**: iniguezbritocatherine@gmail.com
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/siria-catherine-i%C3%B1iguez-brito-39a3a8242/)
+- 📧 **Email**: iniguezbritocatherine@gmail.com
 
 ---
 
