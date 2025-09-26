@@ -6,15 +6,22 @@
 ---
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-
-
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
-Driven by curiosity and a passion for problem-solving, this repository chronicles my experience in the MSc in Mathematical Engineering at UCM. It reflects a hands-on approach to learning — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance. Along the way, it also serves as a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
+Driven by curiosity and a passion for problem-solving, this repository chronicles my MSc journey at UCM. It reflects a hands-on learning approach — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance.
+
+Along the way, it serves as both a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
 
 ---
-# 🎯 Target Audience
-This repository is designed for graduate students, researchers, and professionals interested in mathematical engineering, scientific computing, numerical analysis, and mathematical modeling. It also serves as a reference for those looking for structured materials and practical examples to strengthen skills in scientific programming, optimization, applied statistics, and financial mathematics — with applications across academia, industry, and data-driven fields such as data science, quantitative analysis, and optimization.
+## 🎯 Target Audience
+
+This repository is designed for:
+
+- Graduate students, researchers, and professionals in **mathematical engineering** and **scientific computing**.  
+- Those interested in **numerical analysis**, **mathematical modeling**, and **data science**.  
+- Recruiters and hiring managers seeking a well-structured portfolio demonstrating practical skills in **optimization**, **statistics**, and **financial mathematics**.
+
+Its applications span **academia**, **industry**, and data-driven fields such as **quantitative analysis**, **simulation**, and **applied research**.
 
 
 ## 📑 Index
@@ -197,10 +204,11 @@ Master-Ingenieria-Matematica-UCM/
 ## 🎯 Repository Goals
 
 ### Academic Focus  
-Accurately reflect the official 2025–26 curriculum by archiving classes, exercises, and projects with faithful structural organization.
+Capture and reflect the official 2025–26 curriculum with thorough archiving of classes, exercises, and projects, emphasizing the deep learning process and the development of advanced mathematical and computational skills. This repository aims to showcase the academic rigor and practical value of the MSc in Mathematical Engineering at UCM as a foundation for research and applied science.
 
 ### Professional Development  
-Document the application of mathematical and computational methods across courses and projects, building a technical portfolio that shows gradual growth towards roles in data science, analytics, optimization, and simulation.
+Document the practical application of mathematical and computational methods, building a comprehensive portfolio tailored for careers in data science, analytics, optimization, and simulation.
+
 
 ---
 
