@@ -294,6 +294,6 @@ For full details, please see the [LICENSE](./LICENSE) file.
 
 ## 🚧 Repository Status
 
-This repository is under continuous development during the 2025–26 academic year and reflects the official master's program structure as defined in the 2025–26 study plan.
+This repository is under continuous development during the 2025–2026 academic year and reflects the official master's program structure as defined in the 2025–26 study plan.
 
 **Updates will be made regularly, approximately monthly, aligned with the MSc academic calendar and project milestones.**
