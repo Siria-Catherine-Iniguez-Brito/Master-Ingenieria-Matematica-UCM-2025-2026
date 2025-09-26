@@ -83,7 +83,7 @@ Master_Ingenieria_Matematica_ucm_25-26/
 │   └── ...
 │
 └── docs/                             ← General notes, references, and summaries
-
+```
 ---
 
 **## 🎯 Repository Goals**
