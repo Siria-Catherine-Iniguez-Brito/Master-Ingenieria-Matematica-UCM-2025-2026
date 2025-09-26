@@ -79,14 +79,14 @@ Master-Ingenieria-Matematica-UCM/
 │   │       ├── Theory/
 │   │       ├── Exercises/
 │   │       └── Exams/
-|   │
+│   │
 │   ├── Core-Curriculum/
-│   │   └── Applied-Statistics-and-Data-Mining/
-│   │   │    ├── README.md
-│   │   │    ├── Theory/
-│   │   │    ├── Exercises/
-│   │   │    └── Exams/
-|   |   ├── Advanced-Numerical-Methods/
+│   │   ├── Applied-Statistics-and-Data-Mining/
+│   │   │   ├── README.md
+│   │   │   ├── Theory/
+│   │   │   ├── Exercises/
+│   │   │   └── Exams/
+│   │   ├── Advanced-Numerical-Methods/
 │   │   │   └── …
 │   │   ├── Modeling-and-Simulation-in-Dynamic-Systems/
 │   │   │   └── …
@@ -103,31 +103,31 @@ Master-Ingenieria-Matematica-UCM/
 │   │       └── Exams/
 │   │
 │   └── Specialization/
-│   │   ├── Stochastic-Models-in-Logistics/
-│   │   │   └── …
-│   │   ├── Prediction-Techniques/
-│   │   │   └── …
-│   │   ├── Simulation-Techniques/
-│   │   │   └── …
-│   │   └── Introduction-to-Financial-Risk-Management/
-│   │       ├── README.md
-│   │       ├── Theory/
-│   │       ├── Exercises/
-│   │       └── Exams/
-|   |
-│   ├── Master's-Thesis/
-│   │   ├── README.md
-│   │   ├── Modeling-Week/
-│   │   └── Project/
-│   │ 
-│   └── Industry-Internship/
-│       ├── README.md
-│       ├── Deliverables/
-│       └── Code-or-Data/  
+│       ├── Stochastic-Models-in-Logistics/
+│       │   └── …
+│       ├── Prediction-Techniques/
+│       │   └── …
+│       ├── Simulation-Techniques/
+│       │   └── …
+│       └── Introduction-to-Financial-Risk-Management/
+│           ├── README.md
+│           ├── Theory/
+│           ├── Exercises/
+│           └── Exams/
+│
+├── Master's-Thesis/
+│   ├── README.md
+│   ├── Modeling-Week/
+│   └── Project/
+│
+├── Industry-Internship/
+│   ├── README.md
+│   ├── Deliverables/
+│   └── Code-or-Data/
 │
 ├── Key-Projects/                       <– Key Projects & Portfolio
-│   │ 
-└── Resources/                          <-- Additional materials, bibliographies, useful links
+│
+└── Resources/                          <– Additional materials, bibliographies, useful links
 ```
 ---
 
