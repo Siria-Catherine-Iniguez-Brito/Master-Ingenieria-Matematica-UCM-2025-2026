@@ -71,8 +71,8 @@ Useful links from the official MSc program site:
 ```plaintext
 Master-Ingenieria-Matematica-UCM/
 │
-├── README.md                           <– Main Repository Overview
-├── Courses/                            <– Folder Containing All Courses
+├── README.md                           # Main Repository Overview
+├── Courses/                            # Folder Containing All Courses
 │   ├── Foundation-Courses/
 │   │   └── Scientific-Programming/
 │   │       ├── README.md
@@ -125,9 +125,9 @@ Master-Ingenieria-Matematica-UCM/
 │   ├── Deliverables/
 │   └── Code-or-Data/
 │
-├── Key-Projects/                       <– Key Projects & Portfolio
+├── Key-Projects/                       # Key Projects & Portfolio
 │
-└── Resources/                          <– Additional materials, bibliographies, useful links
+└── Resources/                          # Additional materials, bibliographies, useful links
 ```
 ---
 
@@ -181,6 +181,7 @@ Document the application of mathematical and computational methods across course
 
 7. The **Resources/** folder contains additional references, bibliographies, and useful links.
 
+> **Note:**  Folder's names are in English to fcilitate navegation, however course materials inside are primaly in Spanish, reflecting the language of instruction.
 ---
 
 ## 🏷️ Topics
