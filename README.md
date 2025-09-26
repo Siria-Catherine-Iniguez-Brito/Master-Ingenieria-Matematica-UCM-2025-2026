@@ -36,7 +36,6 @@ This section will showcase key projects developed throughout the MSc program. Ex
 
 Stay tuned for updates and results that demonstrate practical application of the program's core concepts.
 
----
 
 
 ## 📑 Index
