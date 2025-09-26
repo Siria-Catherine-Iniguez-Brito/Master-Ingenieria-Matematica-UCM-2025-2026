@@ -86,7 +86,7 @@ Master_Ingenieria_Matematica_ucm_25-26/
 ```
 ---
 
-**## 🎯 Repository Goals**
+## 🎯 Repository Goals
 
 ### Academic Focus  
 Accurately reflect the official 2025–26 curriculum by archiving classes, exercises, and projects with faithful structural organization.
@@ -96,7 +96,7 @@ Document the application of mathematical and computational methods across course
 
 ---
 
-**## 🧠 Skills Showcased**
+## 🧠 Skills Showcased
 
 - Scientific computing (Python, MATLAB, C/C++, Fortran)  
 - Numerical analysis (solvers, PDEs, ODEs, finite elements)  
@@ -110,7 +110,7 @@ Document the application of mathematical and computational methods across course
 
 ---
 
-**## 🧭 How to Navigate**
+## 🧭 How to Navigate
 
 1. Explore the [`asignaturas/`] folder to browse each course with its internal structure.  
 2. Inside each course, check the `README.md` for semester, objectives, and credits.  
@@ -120,13 +120,13 @@ Document the application of mathematical and computational methods across course
 
 ---
 
-**## 🏷️ Topics**
+## 🏷️ Topics
 
 `projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering`
 
 ---
 
-**## 📬 Contact**
+## 📬 Contact
 
 If you want to collaborate, connect, or learn more about my profile:
 
@@ -136,7 +136,7 @@ If you want to collaborate, connect, or learn more about my profile:
 
 ---
 
-**## 🚧 Repository Status**
+## 🚧 Repository Status
 
 This repository is under continuous development during the 2025–26 academic year and reflects the official master's program structure as defined in the 2025–26 study plan.
 
