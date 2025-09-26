@@ -23,7 +23,7 @@ This repository is designed for:
 - Recruiters and hiring managers seeking a well-structured portfolio demonstrating practical skills in **optimization**, **statistics**, and **financial mathematics**.
 
 Its applications span **academia**, **industry**, and data-driven fields such as **quantitative analysis**, **simulation**, and **applied research**.
----
+
 
 ## 🚀 Featured Projects (Coming Soon)
 
