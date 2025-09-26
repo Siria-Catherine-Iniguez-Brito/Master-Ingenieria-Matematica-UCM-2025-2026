@@ -3,12 +3,14 @@
 
 **Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
+
 ---
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Driven by curiosity and a passion for problem-solving, this repository chronicles my MSc journey at UCM. It reflects a hands-on learning approach — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance.
+
 
 Along the way, it serves as both a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
 
