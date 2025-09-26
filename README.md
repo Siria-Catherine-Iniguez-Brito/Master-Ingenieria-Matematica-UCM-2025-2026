@@ -47,11 +47,11 @@ In my case:
 
 ---
 
-### 🧑‍💻 5. Final Activities  
+### 🧑‍💻 5. Master’s-Thesis 
 **6 ECTS**:
 
 - `Semana de la Modelización` *(Modeling Week)* — 3 ECTS  
-- `Trabajo Fin de Máster` *(Master’s Thesis)* — 3 ECTS
+- `Proyecto` *(Proyect)* — 3 ECTS
 
 
 Official resources:  
@@ -67,13 +67,13 @@ Master-Ingenieria-Matematica-UCM/
 │
 ├── README.md                           <– Main Repository Overview
 ├── Courses/                            <– Folder Containing All Courses
-│   ├── Supplementary-Training/
+│   ├── Foundation-Courses/
 │   |   └── Scientific-Programming/
 │   |       ├── README.md
 │   |       ├── Theory/
 │   |       ├── Exercises/
 │   |       └── Exams/
-│   ├── Mandatory-Courses/
+│   ├── Core-Curriculum/
 │   │   ├── Modeling-and-Simulation/
 │   │   │   ├── README.md
 │   │   │   ├── Theory/
@@ -94,7 +94,7 @@ Master-Ingenieria-Matematica-UCM/
 │   │       ├── Exercises/
 │   │       └── Exams/
 │   │
-│   └── Elective-Courses/
+│   └── Specialization/
 │   │   ├── Databases-and-Advanced-Numerical-Methods/
 │   │   │   └── …
 │   │   ├── Simulation-Techniques/
@@ -105,7 +105,7 @@ Master-Ingenieria-Matematica-UCM/
 │   │   │   └── …
 │   │   └── Introduction-to-Financial-Risk-Management/
 │   │       └── …
-│   ├── Master-Thesis/
+│   ├── Master’s-Thesis/
 │   │   ├── README.md
 │   │   ├── Modeling-Week/
 │   │   │   └── …
@@ -117,15 +117,6 @@ Master-Ingenieria-Matematica-UCM/
 │       └── Code-or-Data/  
 │
 ├── Key-Projects/                       <– Key Projects & Portfolio
-│   ├── Master-Thesis/
-│   │   ├── README.md
-│   │   ├── Code/
-│   │   ├── Data/
-│   │   └── Report/
-│   └── Industry-Internship/
-│       ├── README.md
-│       ├── Deliverables/
-│       └── Code-or-Data/
 └── Resources/ <-- Additional materials, bibliographies, useful links
 ```
 ---
