@@ -16,6 +16,9 @@ The MSc in Mathematical Engineering at Universidad Complutense de Madrid is stru
 In my case:
 
 - `Programación Científica` *(Scientific Programming)* — **3 ECTS**
+  
+> **Note:** The complementos de formación (foundation courses) credits are additional and may be required depending on prior qualifications. Thus, the total ECTS count including these complementos is **63 ECTS** in my case.
+
 
 ---
 
@@ -85,11 +88,11 @@ Master-Ingenieria-Matematica-UCM/
 │   │   │    └── Exams/
 |   |   ├── Advanced-Numerical-Methods/
 │   │   │   └── …
-│   │   ├── Modeling-and-Simulation-in-Dynamic-Systems
+│   │   ├── Modeling-and-Simulation-in-Dynamic-Systems/
 │   │   │   └── …
 │   │   ├── Deterministic-Models-in-Logistics/
 │   │   │   └── …
-│   │   ├── Advanced Optimization Techniques
+│   │   ├── Advanced-Optimization-Techniques/
 │   │   │   └── …
 │   │   ├── Databases/
 │   │   │   └── …
@@ -112,7 +115,7 @@ Master-Ingenieria-Matematica-UCM/
 │   │       ├── Exercises/
 │   │       └── Exams/
 |   |
-│   ├── Master’s-Thesis/
+│   ├── Master's-Thesis/
 │   │   ├── README.md
 │   │   ├── Modeling-Week/
 │   │   └── Project/
@@ -123,6 +126,7 @@ Master-Ingenieria-Matematica-UCM/
 │       └── Code-or-Data/  
 │
 ├── Key-Projects/                       <– Key Projects & Portfolio
+│   │ 
 └── Resources/                          <-- Additional materials, bibliographies, useful links
 ```
 ---
@@ -157,16 +161,17 @@ Document the application of mathematical and computational methods across course
 - **Foundation-Courses/**: Basic preparatory courses, e.g., Scientific-Programming.
 - **Core-Curriculum/**: Mandatory courses for the MSc program.
 - **Specialization/**: Elective courses and advanced topics.
-- **Scientific-Programming-Practices/**: Practical exercises of the programming course.
 
 2. Inside each course folder, check the **README.md** for course description, objectives, semester, and credits.
 
-3. Each course contains:
+3. Each course contains the following standard subfolders:
 - **Theory/**: Lecture notes, slides, and theoretical material.
-- **Exercises/**: Practical exercises and assignments.
-- **Exams/**: Exams (if available).
+- **Exercises/**: Practical exercises, assignments, and lab work.
+- **Exams/**: Exams and evaluation materials (if available).
+  
+> **Note:**  The structure may vary slightly depending on the course.
 
-4. The **Master’s-Thesis/** folder includes:
+4. The **Master's-Thesis/** folder includes:
 - **Modeling-Week/**: Intermediate modeling exercises and projects.
 - **Project/**: Final thesis work with code, datasets, and reports.
 
