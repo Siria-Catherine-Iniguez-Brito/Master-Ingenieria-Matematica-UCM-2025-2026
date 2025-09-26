@@ -112,11 +112,11 @@ Document the application of mathematical and computational methods across course
 
 ## 🧭 How to Navigate
 
-1. Explore the [`asignaturas/`] folder to browse each course with its internal structure.  
+1. Explore the [`Courses/`] folder to browse each course with its internal structure.  
 2. Inside each course, check the `README.md` for semester, objectives, and credits.  
-3. The `trabajos-importantes/` folder includes highlighted project examples.  
-4. The `practicas-externas/` folder gathers materials from the professional internship.  
-5. In `fin-master/` you will find the Modeling Week and the final project development.
+3. The `Featured-projects/` folder includes highlighted project examples.  
+4. The `Industry Internship/` folder gathers materials from the professional internship.  
+5. In `Master’s Thesis/` you will find the Modeling Week and the final project development.
 
 ---
 
