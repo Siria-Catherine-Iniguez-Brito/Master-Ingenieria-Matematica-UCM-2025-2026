@@ -27,7 +27,7 @@ Its applications span **academia**, **industry**, and data-driven fields such as
 
 ## 🚀 Featured Projects (Coming Soon)
 
-This section will showcase key projects developed throughout the MSc program. Examples of upcoming projects include:
+This section will showcase key projects developed throughout the MSc program. Examples of upcoming projects will include:
 
 - Advanced optimization applied to logistics and transportation.
 - Predictive models for financial analysis and risk management.
