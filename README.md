@@ -185,7 +185,7 @@ Document the application of mathematical and computational methods across course
 
 ## 🏷️ Topics
 
-`projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering` · `data-science-analytics` · `optimization· `simulation`
+`projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering` · `data-science-analytics` · `optimization` · `simulation`
 
 ---
 
