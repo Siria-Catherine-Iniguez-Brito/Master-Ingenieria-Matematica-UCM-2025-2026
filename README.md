@@ -109,8 +109,8 @@ Master-Ingenieria-Matematica-UCM/
 │   │   ├── README.md
 │   │   ├── Modeling-Week/
 │   │   │   └── …
-│   │   ├── Proyect/
-│   │   │   └── …
+│   │   └──  Proyect/
+│   │       └── …
 │   └── Industry-Internship/
 │       ├── README.md
 │       ├── Deliverables/
