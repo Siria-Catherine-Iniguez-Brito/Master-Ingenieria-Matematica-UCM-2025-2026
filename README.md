@@ -1,2 +1,2 @@
 # Master_Ingenieria_Matematica_ucm_25-26
-Repositorio central del Máster en Ingeniería Matemática (UCM 2025-26), que recopila trabajos, proyectos y ejercicios que muestran los conocimientos, las habilidades técnicas y la capacidad de resolución de problemas desarrollados a lo largo del programa, preparando para puestos avanzados en STEM en la investigación y la industria.
+Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises that showcase the knowledge, technical skills, and problem-solving abilities developed throughout the program, preparing for advanced STEM roles in research and industry.
