@@ -23,11 +23,27 @@ This repository is designed for:
 - Recruiters and hiring managers seeking a well-structured portfolio demonstrating practical skills in **optimization**, **statistics**, and **financial mathematics**.
 
 Its applications span **academia**, **industry**, and data-driven fields such as **quantitative analysis**, **simulation**, and **applied research**.
+---
+
+## 🚀 Featured Projects (Coming Soon)
+
+This section will showcase key projects developed throughout the MSc program. Examples of upcoming projects include:
+
+- Advanced optimization applied to logistics and transportation.
+- Predictive models for financial analysis and risk management.
+- Numerical simulations for complex dynamical systems.
+- Master's thesis projects focused on mathematical and computational modeling.
+
+Stay tuned for updates and results that demonstrate practical application of the program's core concepts.
+
+---
 
 
 ## 📑 Index
 
 - [📘 MSc-Mathematical-Engineering-UCM-2025–2026](#-msc-mathematical-engineering-ucm-2025–2026)
+- [🚀 Featured Projects (Coming Soon)](#-featured-projects-coming-soon)
+- [🎯 Target Audience](#-target-audience)
 - [🎓 MSc Program Structure](#-msc-program-structure)
   - [🧱 1. Foundation Courses (Complementos de Formación)](#-1-foundation-courses-complementos-de-formación)
   - [📚 2. Core Curriculum (Módulo 1: Contenidos Fundamentales)](#-2-core-curriculum-módulo-1-contenidos-fundamentales)
@@ -45,6 +61,7 @@ Its applications span **academia**, **industry**, and data-driven fields such as
 - [🛠️ Tech Stack & Tools](#-tech-stack--tools)
 - [📬 Contact](#-contact)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📄 License](#-license)
 - [🚧 Repository Status](#-repository-status)
 
 
@@ -174,6 +191,7 @@ Master-Ingenieria-Matematica-UCM/
 ```
 ---
 ## 🧭 How to Navigate
+This repository serves as a comprehensive, well-organized archive of my MSc Mathematical Engineering journey, aiming to provide easy access to coursework, projects, and resources for anyone interested in the field.
 
 1. Explore the [Courses/] folder to browse all courses, organized into:
 - **Foundation-Courses/**: Basic preparatory courses, e.g., Scientific-Programming.
@@ -259,9 +277,18 @@ If you want to collaborate, connect, or learn more about my profile — I'm alwa
 - Be respectful and follow the code of conduct
 
 ---
+## 📄 License
+
+This repository is licensed under the [MIT License](./LICENSE).  
+© 2025 Siria-Catherine-Iniguez-Brito.
+
+You are free to use, modify, and distribute the contents of this repository under the terms of the MIT License.  
+For full details, please see the [LICENSE](./LICENSE) file.
+
+---
 
 ## 🚧 Repository Status
 
 This repository is under continuous development during the 2025–26 academic year and reflects the official master's program structure as defined in the 2025–26 study plan.
 
-
+**Updates will be made regularly, approximately monthly, aligned with the MSc academic calendar and project milestones.**
