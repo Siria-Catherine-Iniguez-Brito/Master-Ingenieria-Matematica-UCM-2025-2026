@@ -4,7 +4,32 @@
 **Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
 ---
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 Driven by curiosity and a passion for problem-solving, this repository chronicles my experience in the MSc in Mathematical Engineering at UCM. It reflects a hands-on approach to learning — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance. Along the way, it also serves as a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
+
+## 📑 Índice
+
+- [📘 MSc-Mathematical-Engineering-UCM-2025–2026](#-msc-mathematical-engineering-ucm-2025–2026)
+- [🎓 MSc Program Structure](#-msc-program-structure)
+  - [🧱 1. Foundation Courses (Complementos de Formación)](#-1-foundation-courses-complementos-de-formación)
+  - [📚 2. Core Curriculum (Módulo 1: Contenidos Fundamentales)](#-2-core-curriculum-módulo-1-contenidos-fundamentales)
+  - [🧪 3. Specialization (Módulo 2: Especialización)](#-3-specialization-módulo-2-especialización)
+  - [🏢 4. Industry Internship (Prácticas Externas)](#-4-industry-internship-prácticas-externas)
+  - [🧑‍💻 5. Master's Thesis](#-5-masters-thesis)
+  - [📎 Official Resources](#-official-resources)
+- [🗂️ Repository Structure](#-repository-structure)
+- [🎯 Repository Goals](#-repository-goals)
+  - [Academic Focus](#academic-focus)
+  - [Professional Development](#professional-development)
+- [🧠 Skills Showcased](#-skills-showcased)
+- [🧭 How to Navigate](#-how-to-navigate)
+- [🏷️ Topics](#-topics)
+- [🛠️ Tech Stack & Tools](#-tech-stack--tools)
+- [📬 Contact](#-contact)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [🚧 Repository Status](#-repository-status)
 
 
 ## 🎓 MSc Program Structure
@@ -192,12 +217,29 @@ Document the application of mathematical and computational methods across course
 
 ---
 
-## 📬 Contact
+## 🛠️ Tech Stack & Tools
+
+- Python, MATLAB, C/C++, Fortran, SQL, SAS
+- Git, LaTeX
+- Jupyter Notebooks, VSCode
+
+---
+
+## 📬 Contact 
 
 If you want to collaborate, connect, or learn more about my profile — I'm always open to networking, sharing ideas, or exploring opportunities in STEM, data science, or applied mathematics.
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/siria-catherine-i%C3%B1iguez-brito-39a3a8242/)
 - 📧 **Email**: iniguezbritocatherine@gmail.com
+
+---
+
+## 🤝 How to Contribute
+
+- Fork the repository
+- Create a branch for your feature or fix
+- Open a pull request describing your changes
+- Be respectful and follow the code of conduct
 
 ---
 
