@@ -63,26 +63,96 @@ Official resources:
 ## 🗂️ Repository Structure
 
 ```plaintext
-Master_Ingenieria_Matematica_ucm_25-26/
+Master-Ingenieria-Matematica-UCM/
+
 │
-├── README.md                          ← This file
-│
-├── Courses/                           ← One folder per subject/course
-│   ├── Scientific-Programming/
+
+├── README.md                           <– Main Repository Overview
+
+├── Courses/                            <– Folder Containing All Courses
+
+│   ├── Modeling-and-Simulation/        <– Modeling & Simulation in Dynamic Systems
+
+│   │   ├── README.md                   <– Course Description and Objectives
+
+│   │   ├── Theory/                     <– Theoretical Material
+
+│   │   ├── Exercises/                  <– Practical Exercises
+
+│   │   └── Exams/                      <– Exams (If Available)
+
+│   ├── Financial-Mathematics/
+
 │   │   ├── README.md
-│   │   ├── Theory/                    ← Lecture notes and theoretical content
-│   │   ├── Exercises/                 ← Practical exercises and problem sets
-│   │   └── Exams/                     ← Exams or assessments (if available)
-│   ├── Advanced-Numerical-Methods/
-│   ├── Modeling-Dynamical-Systems/
-│   ├── ...
+
+│   │   ├── Theory/
+
+│   │   ├── Exercises/
+
+│   │   └── Exams/
+
+│   ├── Deterministic-Models-in-Logistics/
+
+│   │   └── …
+
+│   ├── Advanced-Optimization-and-Data-Mining/
+
+│   │   └── …
+
+│   ├── Databases-and-Advanced-Numerical-Methods/
+
+│   │   └── …
+
+│   ├── Simulation-Techniques/
+
+│   │   └── …
+
+│   ├── Prediction-Techniques/
+
+│   │   └── …
+
+│   ├── Stochastic-Models-in-Logistics/
+
+│   │   └── …
+
+│   ├── Introduction-to-Financial-Risk-Management/
+
+│   │   └── …
+
+│   └── Supplementary-Training/
+
+│       └── Scientific-Programming/
+
+│           ├── README.md
+
+│           ├── Theory/
+
+│           ├── Exercises/
+
+│           └── Exams/
+
 │
-├── Featured-projects/                ← Key academic projects and deliverables
-│   ├── Logistics-Modeling/
-│   ├── Financial-Simulation/
-│   └── ...
-│
-└── docs/                             ← General notes, references, and summaries
+
+├── Key-Projects/                       <– Key Projects & Portfolio
+
+│   ├── Master-Thesis/                  <– Master Thesis / Final Project
+
+│   │   ├── README.md                   <– Overview, Objectives, and Results
+
+│   │   ├── Code/                       <– Source Code (If Applicable)
+
+│   │   ├── Data/                       <– Datasets Used
+
+│   │   └── Report/                     <– Final Thesis Report
+
+│   └── Industry-Internship/
+
+│       ├── README.md                   <– Overview of Internship
+
+│       ├── Deliverables/               <– Reports, Presentations
+
+│       └── Code-or-Data/               <– Any Project Files Developed
+└── Resources/ <-- Additional materials, bibliographies, useful links
 ```
 ---
 
