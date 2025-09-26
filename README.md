@@ -68,11 +68,11 @@ Master-Ingenieria-Matematica-UCM/
 ├── README.md                           <– Main Repository Overview
 ├── Courses/                            <– Folder Containing All Courses
 │   ├── Supplementary-Training/
-│       └── Scientific-Programming/
-│           ├── README.md
-│           ├── Theory/
-│           ├── Exercises/
-│           └── Exams/
+│   |   └── Scientific-Programming/
+│   |       ├── README.md
+│   |       ├── Theory/
+│   |       ├── Exercises/
+│   |       └── Exams/
 │   ├── Mandatory-Courses/
 │   │   ├── Modeling-and-Simulation/
 │   │   │   ├── README.md
@@ -95,16 +95,26 @@ Master-Ingenieria-Matematica-UCM/
 │   │       └── Exams/
 │   │
 │   └── Elective-Courses/
-│       ├── Databases-and-Advanced-Numerical-Methods/
-│       │   └── …
-│       ├── Simulation-Techniques/
-│       │   └── …
-│       ├── Prediction-Techniques/
-│       │   └── …
-│       ├── Stochastic-Models-in-Logistics/
-│       │   └── …
-│       └── Introduction-to-Financial-Risk-Management/
-│           └── …    
+│   │   ├── Databases-and-Advanced-Numerical-Methods/
+│   │   │   └── …
+│   │   ├── Simulation-Techniques/
+│   │   │   └── …
+│   │   ├── Prediction-Techniques/
+│   │   │   └── …
+│   │   ├── Stochastic-Models-in-Logistics/
+│   │   │   └── …
+│   │   └── Introduction-to-Financial-Risk-Management/
+│   │       └── …
+│   ├── Master-Thesis/
+│   │   ├── README.md
+│   │   ├── Modeling-Week/
+│   │   │   └── …
+│   │   ├── Proyect/
+│   │   │   └── …
+│   └── Industry-Internship/
+│       ├── README.md
+│       ├── Deliverables/
+│       └── Code-or-Data/  
 │
 ├── Key-Projects/                       <– Key Projects & Portfolio
 │   ├── Master-Thesis/
