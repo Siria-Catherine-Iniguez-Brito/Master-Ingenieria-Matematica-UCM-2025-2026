@@ -5,11 +5,19 @@
 
 ---
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
+
+
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Driven by curiosity and a passion for problem-solving, this repository chronicles my experience in the MSc in Mathematical Engineering at UCM. It reflects a hands-on approach to learning — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance. Along the way, it also serves as a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
 
-## 📑 Índice
+---
+# 🎯 Target Audience
+This repository is designed for graduate students, researchers, and professionals interested in mathematical engineering, scientific computing, numerical analysis, and mathematical modeling. It also serves as a reference for those looking for structured materials and practical examples to strengthen skills in scientific programming, optimization, applied statistics, and financial mathematics — with applications across academia, industry, and data-driven fields such as data science, quantitative analysis, and optimization.
+
+
+## 📑 Index
 
 - [📘 MSc-Mathematical-Engineering-UCM-2025–2026](#-msc-mathematical-engineering-ucm-2025–2026)
 - [🎓 MSc Program Structure](#-msc-program-structure)
@@ -20,11 +28,11 @@ Driven by curiosity and a passion for problem-solving, this repository chronicle
   - [🧑‍💻 5. Master's Thesis](#-5-masters-thesis)
   - [📎 Official Resources](#-official-resources)
 - [🗂️ Repository Structure](#-repository-structure)
+- [🧭 How to Navigate](#-how-to-navigate)
 - [🎯 Repository Goals](#-repository-goals)
   - [Academic Focus](#academic-focus)
   - [Professional Development](#professional-development)
 - [🧠 Skills Showcased](#-skills-showcased)
-- [🧭 How to Navigate](#-how-to-navigate)
 - [🏷️ Topics](#-topics)
 - [🛠️ Tech Stack & Tools](#-tech-stack--tools)
 - [📬 Contact](#-contact)
@@ -157,31 +165,6 @@ Master-Ingenieria-Matematica-UCM/
 └── Resources/                          # Additional materials, bibliographies, useful links
 ```
 ---
-
-## 🎯 Repository Goals
-
-### Academic Focus  
-Accurately reflect the official 2025–26 curriculum by archiving classes, exercises, and projects with faithful structural organization.
-
-### Professional Development  
-Document the application of mathematical and computational methods across courses and projects, building a technical portfolio that shows gradual growth towards roles in data science, analytics, optimization, and simulation.
-
----
-
-## 🧠 Skills Showcased
-
-- Scientific computing (Python, MATLAB, C/C++, Fortran)  
-- Numerical analysis (solvers, PDEs, ODEs, finite elements)  
-- Mathematical modeling (deterministic & stochastic)  
-- Statistical methods, data analysis, and forecasting  
-- Optimization techniques (linear, nonlinear)  
-- Database management (SQL, relational design)  
-- Financial mathematics, risk, and valuation  
-- Simulation (Monte Carlo, discrete-event)  
-- Reproducible methodology and technical documentation (Markdown, LaTeX, Git)
-
----
-
 ## 🧭 How to Navigate
 
 1. Explore the [Courses/] folder to browse all courses, organized into:
@@ -210,6 +193,31 @@ Document the application of mathematical and computational methods across course
 
 > **Note:** The names of the folders are in English to facilitate navigation; however, the course materials they contain are mainly in Spanish, reflecting the language of instruction.
 ---
+
+## 🎯 Repository Goals
+
+### Academic Focus  
+Accurately reflect the official 2025–26 curriculum by archiving classes, exercises, and projects with faithful structural organization.
+
+### Professional Development  
+Document the application of mathematical and computational methods across courses and projects, building a technical portfolio that shows gradual growth towards roles in data science, analytics, optimization, and simulation.
+
+---
+
+## 🧠 Skills Showcased
+
+- Scientific computing (Python, MATLAB, C/C++, Fortran)  
+- Numerical analysis (solvers, PDEs, ODEs, finite elements)  
+- Mathematical modeling (deterministic & stochastic)  
+- Statistical methods, data analysis, and forecasting  
+- Optimization techniques (linear, nonlinear)  
+- Database management (SQL, relational design)  
+- Financial mathematics, risk, and valuation  
+- Simulation (Monte Carlo, discrete-event)  
+- Reproducible methodology and technical documentation (Markdown, LaTeX, Git)
+
+---
+
 
 ## 🏷️ Topics
 
