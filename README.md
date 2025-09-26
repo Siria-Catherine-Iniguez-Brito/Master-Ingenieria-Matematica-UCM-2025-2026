@@ -64,94 +64,58 @@ Official resources:
 
 ```plaintext
 Master-Ingenieria-Matematica-UCM/
-
 │
-
 ├── README.md                           <– Main Repository Overview
-
 ├── Courses/                            <– Folder Containing All Courses
-
-│   ├── Modeling-and-Simulation/        <– Modeling & Simulation in Dynamic Systems
-
-│   │   ├── README.md                   <– Course Description and Objectives
-
-│   │   ├── Theory/                     <– Theoretical Material
-
-│   │   ├── Exercises/                  <– Practical Exercises
-
-│   │   └── Exams/                      <– Exams (If Available)
-
-│   ├── Financial-Mathematics/
-
-│   │   ├── README.md
-
-│   │   ├── Theory/
-
-│   │   ├── Exercises/
-
-│   │   └── Exams/
-
-│   ├── Deterministic-Models-in-Logistics/
-
-│   │   └── …
-
-│   ├── Advanced-Optimization-and-Data-Mining/
-
-│   │   └── …
-
-│   ├── Databases-and-Advanced-Numerical-Methods/
-
-│   │   └── …
-
-│   ├── Simulation-Techniques/
-
-│   │   └── …
-
-│   ├── Prediction-Techniques/
-
-│   │   └── …
-
-│   ├── Stochastic-Models-in-Logistics/
-
-│   │   └── …
-
-│   ├── Introduction-to-Financial-Risk-Management/
-
-│   │   └── …
-
-│   └── Supplementary-Training/
-
+│   ├── Supplementary-Training/
 │       └── Scientific-Programming/
-
 │           ├── README.md
-
 │           ├── Theory/
-
 │           ├── Exercises/
-
 │           └── Exams/
-
+│   ├── Mandatory-Courses/
+│   │   ├── Modeling-and-Simulation/
+│   │   │   ├── README.md
+│   │   │   ├── Theory/
+│   │   │   ├── Exercises/
+│   │   │   └── Exams/
+│   │   ├── Financial-Mathematics/
+│   │   │   ├── README.md
+│   │   │   ├── Theory/
+│   │   │   ├── Exercises/
+│   │   │   └── Exams/
+│   │   ├── Deterministic-Models-in-Logistics/
+│   │   │   └── …
+│   │   ├── Advanced-Optimization-and-Data-Mining/
+│   │   │   └── …
+│   │   └── Scientific-Programming-Practices/
+│   │       ├── README.md
+│   │       ├── Theory/
+│   │       ├── Exercises/
+│   │       └── Exams/
+│   │
+│   └── Elective-Courses/
+│       ├── Databases-and-Advanced-Numerical-Methods/
+│       │   └── …
+│       ├── Simulation-Techniques/
+│       │   └── …
+│       ├── Prediction-Techniques/
+│       │   └── …
+│       ├── Stochastic-Models-in-Logistics/
+│       │   └── …
+│       └── Introduction-to-Financial-Risk-Management/
+│           └── …    
 │
-
 ├── Key-Projects/                       <– Key Projects & Portfolio
-
-│   ├── Master-Thesis/                  <– Master Thesis / Final Project
-
-│   │   ├── README.md                   <– Overview, Objectives, and Results
-
-│   │   ├── Code/                       <– Source Code (If Applicable)
-
-│   │   ├── Data/                       <– Datasets Used
-
-│   │   └── Report/                     <– Final Thesis Report
-
+│   ├── Master-Thesis/
+│   │   ├── README.md
+│   │   ├── Code/
+│   │   ├── Data/
+│   │   └── Report/
 │   └── Industry-Internship/
-
-│       ├── README.md                   <– Overview of Internship
-
-│       ├── Deliverables/               <– Reports, Presentations
-
-│       └── Code-or-Data/               <– Any Project Files Developed
+│       ├── README.md
+│       ├── Deliverables/
+│       └── Code-or-Data/
 └── Resources/ <-- Additional materials, bibliographies, useful links
 ```
 ---
