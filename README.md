@@ -1,10 +1,11 @@
 
 # 📘 MSc-Mathematical-Engineering-UCM-2025–2026
 
-
 **Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
 ---
+Driven by curiosity and a passion for problem-solving, this repository chronicles my experience in the MSc in Mathematical Engineering at UCM. It reflects a hands-on approach to learning — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance. Along the way, it also serves as a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
+
 
 ## 🎓 MSc Program Structure
 
