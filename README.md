@@ -130,9 +130,8 @@ Document the application of mathematical and computational methods across course
 
 If you want to collaborate, connect, or learn more about my profile:
 
-- **LinkedIn**: _[your profile here]_  
-- **Email**: _[your professional email]_  
-- **Website / Portfolio**: _[if applicable]_
+- **LinkedIn**: https://www.linkedin.com/in/siria-catherine-i%C3%B1iguez-brito-39a3a8242/
+- **Email**: iniguezbritocatherine@gmail.com
 
 ---
 
