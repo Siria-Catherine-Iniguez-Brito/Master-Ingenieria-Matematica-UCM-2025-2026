@@ -116,6 +116,7 @@ In my case:
 - `Modeling Week` *(Semana de la Modelización)* — 3 ECTS  
 - `Project` *(Proyecto)* — 3 ECTS
 
+---
 
 ### 📎 Official Resources
 
