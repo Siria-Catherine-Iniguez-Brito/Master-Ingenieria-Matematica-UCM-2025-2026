@@ -19,7 +19,7 @@ In my case:
 
 ---
 
-### 📘 2. Core Curriculum *(Módulo 1: Contenidos Fundamentales)*  
+### 📚 2. Core Curriculum *(Módulo 1: Contenidos Fundamentales)*  
 **39 ECTS** — Required courses in applied mathematics and computation:
 
 - `Estadística Aplicada y Minería de Datos` *(Applied Statistics & Data Mining)* — 9 ECTS  
@@ -38,7 +38,7 @@ In my case:
 - `Técnicas de Simulación` *(Simulation Techniques)* — 3 ECTS  
 - `Técnicas de Predicción` *(Forecasting Techniques)* — 3 ECTS  
 - `Modelos Estocásticos en Logística` *(Stochastic Models in Logistics)* — 3 ECTS  
-- `Introducción a la Gestión de Riesgos Financieros` *(Intro to Financial Risk Management)* — 3 ECTS  
+- `Introducción a la Gestión de Riesgos Financieros` *(Introduction to Financial Risk Management)* — 3 ECTS  
 
 ---
 
@@ -51,12 +51,15 @@ In my case:
 **6 ECTS**:
 
 - `Semana de la Modelización` *(Modeling Week)* — 3 ECTS  
-- `Proyecto` *(Proyect)* — 3 ECTS
+- `Proyecto` *(Project)* — 3 ECTS
 
 
-Official resources:  
-- [MSc Brochure PDF](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)  
-- [Program Study Plan 2025-26](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)
+### 📎 Official Resources
+
+Useful links from the official MSc program site:
+
+- [📄 MSc Brochure (PDF)](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)  
+- [📚 Study Plan (2025–26)](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)
 
 ---
 
@@ -73,43 +76,63 @@ Master-Ingenieria-Matematica-UCM/
 │   |       ├── Theory/
 │   |       ├── Exercises/
 │   |       └── Exams/
+|   |
 │   ├── Core-Curriculum/
+│   │   └── Applied-Statistics-and-Data-Mining/
+│   │   │    ├── README.md
+│   │   │    ├── Theory/
+│   │   │    ├── Exercises/
+│   │   │    └── Exams/
 │   │   ├── Modeling-and-Simulation/
 │   │   │   ├── README.md
 │   │   │   ├── Theory/
 │   │   │   ├── Exercises/
 │   │   │   └── Exams/
+|   |   ├── Advanced Numerical Methods/
+│   │   │   └── …
+│   │   ├── Modeling and Simulation in Dynamic Systems
+│   │   │   └── …
+│   │   ├── Deterministic-Models-in-Logistics/
+│   │   │   └── …
+│   │   ├── Deterministic-Models-in-Logistics/
+│   │   │   └── …
+│   │   ├── Data-Base/
+│   │   │   └── …
 │   │   ├── Financial-Mathematics/
 │   │   │   ├── README.md
 │   │   │   ├── Theory/
 │   │   │   ├── Exercises/
 │   │   │   └── Exams/
+│   │   ├── Modeling and Simulation in Dynamic Systems
+│   │   │   └── …
 │   │   ├── Deterministic-Models-in-Logistics/
 │   │   │   └── …
-│   │   ├── Advanced-Optimization-and-Data-Mining/
+│   │   ├── Advanced Numerical Methods/
 │   │   │   └── …
-│   │   └── Scientific-Programming-Practices/
+│   │   └── Fundamentals of Financial Mathematics/
 │   │       ├── README.md
 │   │       ├── Theory/
 │   │       ├── Exercises/
 │   │       └── Exams/
 │   │
 │   └── Specialization/
-│   │   ├── Databases-and-Advanced-Numerical-Methods/
-│   │   │   └── …
-│   │   ├── Simulation-Techniques/
+│   │   ├── Stochastic-Models-in-Logistics/
 │   │   │   └── …
 │   │   ├── Prediction-Techniques/
 │   │   │   └── …
-│   │   ├── Stochastic-Models-in-Logistics/
+│   │   ├── Simulation-Techniques/
 │   │   │   └── …
 │   │   └── Introduction-to-Financial-Risk-Management/
-│   │       └── …
+│   │       ├── README.md
+│   │       ├── Theory/
+│   │       ├── Exercises/
+│   │       └── Exams/
+|   |
 │   ├── Master’s-Thesis/
 │   │   ├── README.md
 │   │   ├── Modeling-Week/
 │   │   │   └── …
-│   │   └──  Proyect/
+│   │   └──  Project/
 │   │       └── …
 │   └── Industry-Internship/
 │       ├── README.md
