@@ -117,7 +117,7 @@ Master-Ingenieria-Matematica-UCM/
 │       └── Code-or-Data/  
 │
 ├── Key-Projects/                       <– Key Projects & Portfolio
-└── Resources/ <-- Additional materials, bibliographies, useful links
+└── Resources/                          <-- Additional materials, bibliographies, useful links
 ```
 ---
 
