@@ -50,7 +50,7 @@ In my case:
 
 ---
 
-### 🧑‍💻 5. Master’s-Thesis 
+### 🧑‍💻 5. Master's-Thesis 
 **6 ECTS**:
 
 - `Semana de la Modelización` *(Modeling Week)* — 3 ECTS  
@@ -185,7 +185,7 @@ Document the application of mathematical and computational methods across course
 
 ## 🏷️ Topics
 
-`projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering`
+`projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering` · `data-science-analytics` · `optimization· `simulation`
 
 ---
 
