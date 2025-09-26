@@ -1,5 +1,5 @@
 
-# 📘 Master_Ingenieria_Matematica_UCM_2025-2026
+# 📘 Master-Ingenieria-Matematica-UCM-2025-2026
 
 **Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
@@ -71,45 +71,29 @@ Master-Ingenieria-Matematica-UCM/
 ├── README.md                           <– Main Repository Overview
 ├── Courses/                            <– Folder Containing All Courses
 │   ├── Foundation-Courses/
-│   |   └── Scientific-Programming/
-│   |       ├── README.md
-│   |       ├── Theory/
-│   |       ├── Exercises/
-│   |       └── Exams/
-|   |
+│   │   └── Scientific-Programming/
+│   │       ├── README.md
+│   │       ├── Theory/
+│   │       ├── Exercises/
+│   │       └── Exams/
+|   │
 │   ├── Core-Curriculum/
 │   │   └── Applied-Statistics-and-Data-Mining/
 │   │   │    ├── README.md
 │   │   │    ├── Theory/
 │   │   │    ├── Exercises/
 │   │   │    └── Exams/
-│   │   ├── Modeling-and-Simulation/
-│   │   │   ├── README.md
-│   │   │   ├── Theory/
-│   │   │   ├── Exercises/
-│   │   │   └── Exams/
-|   |   ├── Advanced Numerical Methods/
+|   |   ├── Advanced-Numerical-Methods/
 │   │   │   └── …
-│   │   ├── Modeling and Simulation in Dynamic Systems
+│   │   ├── Modeling-and-Simulation-in-Dynamic-Systems
 │   │   │   └── …
 │   │   ├── Deterministic-Models-in-Logistics/
 │   │   │   └── …
-│   │   ├── Deterministic-Models-in-Logistics/
+│   │   ├── Advanced Optimization Techniques
 │   │   │   └── …
-│   │   ├── Data-Base/
+│   │   ├── Databases/
 │   │   │   └── …
-│   │   ├── Financial-Mathematics/
-│   │   │   ├── README.md
-│   │   │   ├── Theory/
-│   │   │   ├── Exercises/
-│   │   │   └── Exams/
-│   │   ├── Modeling and Simulation in Dynamic Systems
-│   │   │   └── …
-│   │   ├── Deterministic-Models-in-Logistics/
-│   │   │   └── …
-│   │   ├── Advanced Numerical Methods/
-│   │   │   └── …
-│   │   └── Fundamentals of Financial Mathematics/
+│   │   └── Fundamentals-of-Financial-Mathematics/
 │   │       ├── README.md
 │   │       ├── Theory/
 │   │       ├── Exercises/
@@ -131,9 +115,8 @@ Master-Ingenieria-Matematica-UCM/
 │   ├── Master’s-Thesis/
 │   │   ├── README.md
 │   │   ├── Modeling-Week/
-│   │   │   └── …
-│   │   └──  Project/
-│   │       └── …
+│   │   └── Project/
+│   │ 
 │   └── Industry-Internship/
 │       ├── README.md
 │       ├── Deliverables/
