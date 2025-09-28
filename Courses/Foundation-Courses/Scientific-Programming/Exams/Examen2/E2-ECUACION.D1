@@ -1,0 +1,27 @@
+   EJERCICIO  2: ECUACION TRANSCENDENTE
+                 ======================
+
+                =====              ===============================================
+   Nº de orden: |  8|  Estudiante: |                                             |
+                =====              ===============================================
+
+   Resolver la ecuacion en la variable real x
+
+         ============================================================
+         | r*LN(1+x**2) + s*SQRT(1+x**4) + t*EXP(-1/x) + u*x**2 = v |
+         ============================================================
+
+   siendo los coeficientes:
+
+        ============================
+        | r =   2.8321177655980541 |
+        | s =   0.4403286406492482 |
+        | t =   6.5865847978678467 |
+        | u =   0.3092279105955865 |
+        | v =  78.5514286476349071 |
+        ============================
+
+   mediante el uso de librerias.
+
+   Escribir la solucion con 9 cifras significativas y la informacion que
+   consideres relevante.

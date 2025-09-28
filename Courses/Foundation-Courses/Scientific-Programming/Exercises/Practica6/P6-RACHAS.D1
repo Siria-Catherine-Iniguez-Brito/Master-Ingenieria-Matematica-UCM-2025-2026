@@ -1,0 +1,87 @@
+   PRACTICA   6: ANALISIS DE RACHAS EN SECUENCIAS                                  
+                 ================================                                  
+                                                                                   
+   Ejemplo. Para la secuencia 0011101011110011, de n = 16 elementos, se tiene:     
+                                                                                   
+            inicial =  0 (elemento inicial de la secuencia)                        
+            numero0 =  6 (numero de 0 en la secuencia)                             
+            numero1 = 10 (numero de 1 en la secuencia)                             
+            nrachas =  8 (numero de rachas; hay 8 rachas: 00,111,0,1,0,1111,00,11) 
+            lmayor0 =  2 (longitud de la mayor racha de 0)                         
+            lmayor1 =  4 (longitud de la mayor racha de 1)                         
+            long(:) =  2 3 1 1 1 4 2 2 (longitudes de las rachas)                  
+                                                                                   
+   --------------------------------------------------------------------------------
+                                                                                   
+   Para cada una de las siguientes secuencias binarias escribir la siguiente       
+   informacion                                                                     
+                                                                                   
+      inicial <=> elemento inicial de la secuencia                                 
+      numero0 <=> numero de 0 en la secuencia                                      
+      numero1 <=> numero de 1 en la secuencia                                      
+      nrachas <=> numero de rachas                                                 
+      lmayor0 <=> longitud de la mayor racha de 0                                  
+      lmayor1 <=> longitud de la mayor racha de 1                                  
+      long(:) <=> longitudes de las rachas                                         
+                                                                                   
+   ================================================================================
+
+   CASO 1. Secuencia de longitud 21:
+           x = 111010100011011010001
+
+           inicial =
+           numero0 =
+           numero1 =
+           nrachas =
+           lmayor0 =
+           lmayor1 =
+           long(:) =
+
+   --------------------------------------------------------------------------------
+
+   CASO 2. Secuencia de longitud 75:
+           x = 11000110111100110010010011011010110001111110100010
+               1010010001100111101101000
+
+           inicial =
+           numero0 =
+           numero1 =
+           nrachas =
+           lmayor0 =
+           lmayor1 =
+           long(:) =
+
+   --------------------------------------------------------------------------------
+
+   CASO 3. Secuencia de longitud 323:
+           x = 10111001011010111000000011101111110001110111101010
+               11100110111001001100011000010110101111100100111001
+               01001100000010011011011100000111100011110010101001
+               10011111101011011000010010011101101010101000100001
+               00100001110111000010010111001011001001010100110100
+               01100010010110100011100101110101100110100000100001
+               10110000001101101111010
+
+           inicial =
+           numero0 =
+           numero1 =
+           nrachas =
+           lmayor0 =
+           lmayor1 =
+           long(:) =
+
+   --------------------------------------------------------------------------------
+
+   CASO 4. Secuencia de longitud 5652:
+           a = 6.66884d0  b = 4.70067d0
+           x(i) = FLOOR(i*MOD(8*i,7)/(1+a*i)+TANH(2*i*MOD(i,5)/(4+b*i)))
+
+           inicial =
+           numero0 =
+           numero1 =
+           nrachas =
+           lmayor0 =
+           lmayor1 =
+           long(:) =
+
+   --------------------------------------------------------------------------------
