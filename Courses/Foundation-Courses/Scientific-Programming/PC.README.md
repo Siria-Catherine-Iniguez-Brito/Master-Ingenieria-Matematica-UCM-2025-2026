@@ -169,26 +169,3 @@ Scientific-Programming/
 └── README.md
 ```
 
----
-
-## 🛠️ Compilación y Librerías
-
-### 🧾 Requisitos
-
-- Compilador Fortran 95 (`gfortran`)  
-- Compilador C (`gcc`)  
-- Librerías necesarias:
-  - `Minpack` → práctica 7
-  - `Quadpack` → práctica 8
-
-### ⚙️ Ejemplos de compilación
-
-```bash
-# Prácticas generales en Fortran
-gfortran -o PracticaX PracticaX.f90
-
-# Práctica 7 (Minpack)
-gfortran -o Practica7 Practica7.f90 -lminpack
-
-# Práctica 8 (Quadpack)
-gfortran -o Practica8 Practica8.f90 -lquadpack
