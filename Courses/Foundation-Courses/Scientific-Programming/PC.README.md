@@ -8,17 +8,17 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
 
 ## 📑 Índice
 
- [📘 Guía Docente](#-guía-docente)  
-    [📌 Datos Generales](#-datos-generales)  
-    [🎯 Objetivos del Curso](#-objetivos-del-curso)  
-    [🧠 Competencias](#-competencias)  
-    [🔄 Dinámica de la Asignatura](#-dinámica-de-la-asignatura)  
+ - [📘 Guía Docente](#-guía-docente)  
+   - [📌 Datos Generales](#-datos-generales)  
+   - [🎯 Objetivos del Curso](#-objetivos-del-curso)  
+   - [🧠 Competencias](#-competencias)  
+   - [🔄 Dinámica de la Asignatura](#-dinámica-de-la-asignatura)  
 
- [🧪 Prácticas del Curso 2025-26](#prácticas-del-curso-2025-26)  
- [📊 Evaluación de Prácticas](#-evaluación-de-prácticas)  
- [📦 Normas para la Entrega y Evaluación](#-normas-para-la-entrega-y-evaluación)  
- [🗂️ Estructura del Repositorio](#-estructura-del-repositorio)  
- [🛠️ Compilación y Librerías](#️-compilación-y-librerías)
+- [🧪 Prácticas del Curso 2025-26](#prácticas-del-curso-2025-26)  
+- [📊 Evaluación de Prácticas](#-evaluación-de-prácticas)  
+- [📦 Normas para la Entrega y Evaluación](#-normas-para-la-entrega-y-evaluación)  
+- [🗂️ Estructura del Repositorio](#-estructura-del-repositorio)  
+- [🛠️ Compilación y Librerías](#️-compilación-y-librerías)
 
 
 
