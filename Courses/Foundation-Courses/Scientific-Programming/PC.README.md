@@ -1,5 +1,5 @@
 
-# Programación Científica - Curso 2025-26
+# 🧪 Scientific Programming 
 
 ## Guía Docente
 
@@ -10,13 +10,13 @@
 - **ECTS:** 3.0
 - **Semestre:** 1º
 
-### Objetivos
+## 🎯 Objetivos
 - Asimilar y practicar la programación en Fortran 95 y C.
 - Utilizar librerías científicas para resolución de problemas numéricos.
 - Implementar y analizar algoritmos numéricos complejos.
 - Desarrollar habilidades para la detección y corrección de errores en código.
 
-### Competencias
+## 🧠 Competencias
 - **Generales (CG5):** Resolver problemas matemáticos computacionalmente usando software adecuado.
 - **Específicas (CE3 y CE6):** Conocimiento de Fortran y C, uso de librerías científicas, implementación de algoritmos y resolución de problemas numéricos.
 
@@ -81,7 +81,7 @@ con valor máximo 1.0 puntos.
 
 ---
 
-## Organización del Repositorio
+## 🗂️ Estructura del Repositorio
 
 ```plaintext
 Scientific-Programming/
