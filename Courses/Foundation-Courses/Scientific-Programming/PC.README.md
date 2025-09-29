@@ -89,7 +89,8 @@ Scientific-Programming/
 │ └── Ejercicio2/
 │
 └── README.md
-```plaintext
+```
+
 ---
 
 ## Uso y Compilación
