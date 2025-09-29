@@ -213,7 +213,7 @@ Estas herramientas profesionales permiten abordar los problemas con algoritmos y
 
 ---
 
-## ⚙️ [Instalación del entorno en macOS]
+## ⚙️ Instalación del entorno en macOS
 
  Guía de instalación y uso de Fortran (gfortran) en macOS con Visual Studio Code — sin utilizar Homebrew
 
