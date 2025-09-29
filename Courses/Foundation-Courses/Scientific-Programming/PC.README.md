@@ -171,10 +171,10 @@ Scientific-Programming/
 
 ## 🖥️ Entorno utilizado
 
-Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:
+- Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:
 
-Sistema operativo: macOS
+- Sistema operativo: macOS
 
-Compilador: gfortran versión 9.0 o superior
+- Compilador: gfortran versión 9.0 o superior
 
-Editor utilizado: Visual Studio Code, con extensiones para soporte de Fortran y C, que facilita la escritura y depuración del código.
+- Editor utilizado: Visual Studio Code, con extensiones para soporte de Fortran y C, que facilita la escritura y depuración del código.
