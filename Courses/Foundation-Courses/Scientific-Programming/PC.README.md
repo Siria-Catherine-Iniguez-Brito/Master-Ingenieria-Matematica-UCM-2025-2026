@@ -146,8 +146,11 @@ Scientific-Programming/
 │ │ └── ...
 │ ├── Practica7/
 │ │ └── ...
-│ ├── Practica8/
-│ └── ... (Practica3 a Practica8)
+│ └── Practica8/
+│   ├── Practica8.f90 / Practica1.c
+│   ├── Datos8.dat
+│   ├── Solucion8.sol
+│   └── P8-INTEGRAL-1.D1
 │
 ├── Teoria/
 │ └── Material_teorico.pdf (u otros recursos)
