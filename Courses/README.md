@@ -66,8 +66,9 @@
 ---
 
 ## Organización del Repositorio
-Scientific-Programming/
 
+```plaintext
+Scientific-Programming/
 │
 ├── Practicas/
 │ ├── Practica1/
@@ -87,7 +88,7 @@ Scientific-Programming/
 │ └── Ejercicio2/
 │
 └── README.md
-
+```plaintext
 ---
 
 ## Uso y Compilación
