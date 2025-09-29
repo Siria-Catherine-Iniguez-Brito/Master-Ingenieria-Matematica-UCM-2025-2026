@@ -3,8 +3,6 @@
 Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes** (`ExamenX`) correspondientes a la asignatura de **Programación Científica** del Máster en Ingeniería Matemática (UCM).
 
 ## 📑 Índice
-
-- [📁 Carpeta Exercises_Exams: Prácticas y Exámenes](#-carpeta-exercises_exams-prácticas-y-exámenes)
 - [📂 Estructura de la carpeta](#-estructura-de-la-carpeta)
 - [🗂️ Contenido de cada carpeta](#️-contenido-de-cada-carpeta)
   - [📦 Archivos comunes por práctica](#-archivos-comunes-por-práctica)
@@ -20,7 +18,7 @@ Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes*
   - [🧠 MINPACK – Resolución de sistemas no lineales](#-minpack--resolución-de-sistemas-no-lineales)
   - [∫ QUADPACK – Integración numérica adaptativa](#-quadpack--integración-numérica-adaptativa)
 - [💻 Entorno utilizado](#-entorno-utilizado)
-- [⚙️ Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos-mi-ordenador-personal)
+- [⚙️ Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos)
   - [⚖️ Aviso legal](#️-aviso-legal)
   - [🚫 Buenas prácticas generales](#-buenas-prácticas-generales)
   - [🛠 Instalación paso a paso](#-instalación-paso-a-paso)
@@ -215,7 +213,7 @@ Estas herramientas profesionales permiten abordar los problemas con algoritmos y
 
 ---
 
-## ⚙️ [Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos-mi-ordenador-personal)
+## ⚙️ [Instalación del entorno en macOS]
 
  Guía de instalación y uso de Fortran (gfortran) en macOS con Visual Studio Code — sin utilizar Homebrew
 
