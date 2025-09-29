@@ -1,7 +1,7 @@
 
 # 🚀  Scientific Programming 
 
-📁 Este subrepositorio pertenece a la carpeta Foundation-Courses, dentro de Courses, del repositorio general del Máster en Ingeniería Matemática (UCM).
+📁 Este subrepositorio pertenece a la carpeta `Foundation-Courses`, dentro de `Courses`, del repositorio general del Máster en Ingeniería Matemática (UCM).
 Corresponde a la asignatura Programación Científica del Máster en Ingeniería Matemática (Universidad Complutense de Madrid).
 Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
 
@@ -174,5 +174,5 @@ Scientific-Programming/
 
 - Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:
 - Sistema operativo: macOS
-- Compilador: gfortran versión 9.0 o superior
+- Compilador: `gfortran` versión 9.0 o superior
 - Editor utilizado: Visual Studio Code, con extensiones para soporte de Fortran y C, que facilita la escritura y depuración del código.
