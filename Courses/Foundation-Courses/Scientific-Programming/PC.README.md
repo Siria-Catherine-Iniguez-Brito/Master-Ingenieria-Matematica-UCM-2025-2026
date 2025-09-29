@@ -1,30 +1,48 @@
 
 # 🧪 Scientific Programming 
 
-## Guía Docente
+📁 Subrepositorio de la asignatura **Programación Científica** del *Máster en Ingeniería Matemática* (Universidad Complutense de Madrid).  
+Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
 
-### Datos Generales
+--
+
+## 📘 Guía Docente
+
+### 📌 Datos Generales
 - **Asignatura:** Programación Científica (Código: 608063)
 - **Plan de Estudios:** Máster Universitario en Ingeniería Matemática (2010-11)
 - **Carácter:** Complemento de Formación
 - **ECTS:** 3.0
 - **Semestre:** 1º
 
-## 🎯 Objetivos
-- Asimilar y practicar la programación en Fortran 95 y C.
-- Utilizar librerías científicas para resolución de problemas numéricos.
-- Implementar y analizar algoritmos numéricos complejos.
-- Desarrollar habilidades para la detección y corrección de errores en código.
+## 🎯 Objetivos del Curso
+
+- 🧮 Asimilar y practicar la programación en **Fortran 95** y **C**.  
+- 🔧 Utilizar **librerías científicas** para la resolución de problemas numéricos.  
+- 💻 Implementar y analizar **algoritmos numéricos complejos**.  
+- 🛠️ Desarrollar habilidades para la **detección y corrección de errores** en código.  
+
+---
 
 ## 🧠 Competencias
-- **Generales (CG5):** Resolver problemas matemáticos computacionalmente usando software adecuado.
-- **Específicas (CE3 y CE6):** Conocimiento de Fortran y C, uso de librerías científicas, implementación de algoritmos y resolución de problemas numéricos.
 
-### Dinámica de la Asignatura
-- Clases teóricas (1/3 del tiempo presencial): Explicaciones y ejemplos de características de los lenguajes y librerías.
-- Clases prácticas (2/3 del tiempo presencial): Desarrollo, pruebas, análisis y corrección de programas.
-- Laboratorios: Uso libre para experimentación y aprendizaje.
+- **Generales (CG5):** Resolver problemas matemáticos computacionalmente utilizando software adecuado.  
+- **Específicas (CE3 y CE6):**  
+  - Conocimiento de Fortran y C.  
+  - Uso de librerías científicas.  
+  - Implementación de algoritmos.  
+  - Resolución de problemas numéricos.  
 
+## 🧪 Dinámica de la Asignatura
+
+- 📚 **Clases teóricas** *(1/3 del tiempo presencial)*  
+  → Explicación de características del lenguaje y librerías con ejemplos.  
+
+- 💻 **Clases prácticas** *(2/3 del tiempo presencial)*  
+  → Desarrollo, prueba y depuración de programas científicos.  
+
+- 🧪 **Laboratorios**  
+  → Tiempo libre para experimentación, práctica y refuerzo de conceptos.  
 ---
 
 ## Prácticas del Curso 2025-26
@@ -41,43 +59,52 @@
 | 8           | Integral                     | P8-INTEGRAL-1.D1                        | Jueves 25-septiembre-2025 |
 
 
-
-- El valor conjunto de las prácticas 1 y 2 será a lo sumo 1.8 puntos. El valor máximo de cada
+## 📊 Evaluación de Prácticas
+- 🔹 El valor conjunto de las prácticas 1 y 2 será a lo sumo 1.8 puntos. El valor máximo de cada
 una es 1.0 puntos. Fecha límite de entrega: Jueves 11-septiembre-2025.
 
-- El valor conjunto de las prácticas 3 y 4 será a lo sumo 2.4 puntos. El valor máximo de cada
+- 🔹 El valor conjunto de las prácticas 3 y 4 será a lo sumo 2.4 puntos. El valor máximo de cada
 una es 1.3 puntos. Fecha límite de entrega: Jueves 18-septiembre-2025.
 
-- El valor conjunto de las prácticas 7 y 8 será a lo sumo 1.6 puntos. El valor máximo de cada
+- 🔹 El valor conjunto de las prácticas 7 y 8 será a lo sumo 1.6 puntos. El valor máximo de cada
 una es 0.9 puntos. Fecha límite de entrega: Jueves 25-septiembre-2025.
 
-- El valor conjunto de las prácticas 5 y 6 será a lo sumo 3.2 puntos. El valor máximo de cada
+- 🔹 El valor conjunto de las prácticas 5 y 6 será a lo sumo 3.2 puntos. El valor máximo de cada
 una es 1.7 puntos. Fecha límite de entrega: Jueves 2-octubre-2025.
 
-- El último día del curso, Viernes 12 Septiembre-2025, se realizarán en clase unos ejercicios
+-🔹 El último día del curso, Viernes 12 Septiembre-2025, se realizarán en clase unos ejercicios
 con valor máximo 1.0 puntos.
 
 ---
 
-### Normas para la entrega y evaluación
+## 📦 Normas para la Entrega y Evaluación
 
-- Cada práctica puede realizarse en **Fortran** o en **C**; en cada lenguaje se debe hacer al menos una práctica.
-- Para evaluar, se deben enviar los siguientes archivos:
-  - Código fuente: `Px.f90` o `Px.c` (donde X es el número de práctica)
-  - Archivo de datos: `DatosX.dat`
-  - Archivo de resultados: `SolucionX.sol`
-- El archivo de enunciado correspondiente es `PX-Nombre_de_la_practica.D1`.
-- Los archivos deben enviarse a:
-  - **Fortran:** afelipe@ucm.es
-  - **C:** crisande@ucm.es
-- **Importante:** Las soluciones mostradas sólo por pantalla **no se valoran**.
-- Las prácticas entregadas después de la fecha límite tendrán penalización en la nota.
-- Una vez calificada una práctica, su valoración será definitiva.
-- Las prácticas son de realización **individual**.
-- Cualquier copia o plagio supondrá:
-  - Cero puntos en la práctica afectada,
-  - Probable suspenso en la asignatura,
-  - Posible inicio de expediente disciplinario.
+✅ **Formato de entrega:**
+
+- Código fuente: `Px.f90` o `Px.c` *(según lenguaje y número de práctica)*  
+- Archivo de datos: `DatosX.dat`  
+- Archivo de resultados: `SolucionX.sol`  
+- Enunciado: `PX-Nombre_de_la_practica.D1`
+
+📤 **Envío por correo:**
+
+- 📧 Fortran: `afelipe@ucm.es`  
+- 📧 C: `crisande@ucm.es`
+
+---
+
+⚠️ **Normas importantes:**
+
+- No se valoran **soluciones solo por pantalla**.
+- Las entregas fuera de plazo tienen **penalización**.
+- Una vez corregida una práctica, su nota es **definitiva**.
+- Las prácticas son de **realización individual**.
+
+🚫 **Copia o plagio implica:**
+
+- Cero puntos en la práctica afectada.  
+- Posible **suspenso** en la asignatura.  
+- Posible **expediente disciplinario**.
 
 ---
 
@@ -108,20 +135,24 @@ Scientific-Programming/
 
 ---
 
-## Uso y Compilación
+## 🛠️ Compilación y Librerías
 
-### Requisitos previos
-- Compilador Fortran 95 (ej. `gfortran`)
-- Compilador C (ej. `gcc`)
-- Librerías científicas utilizadas:
-  - **Minpack** para la práctica 7
-  - **Quadpack** para la práctica 8
+### 🧾 Requisitos
 
-### Cómo compilar
+- Compilador Fortran 95 (`gfortran`)  
+- Compilador C (`gcc`)  
+- Librerías necesarias:
+  - `Minpack` → práctica 7
+  - `Quadpack` → práctica 8
 
-Para Fortran:
+### ⚙️ Ejemplos de compilación
 
 ```bash
-gfortran -o PracticaX PracticaX.f90 -lminpack    # Para práctica 7
-gfortran -o PracticaX PracticaX.f90 -lquadpack  # Para práctica 8
-gfortran -o PracticaX PracticaX.f90              # Para otras prácticas
+# Prácticas generales en Fortran
+gfortran -o PracticaX PracticaX.f90
+
+# Práctica 7 (Minpack)
+gfortran -o Practica7 Practica7.f90 -lminpack
+
+# Práctica 8 (Quadpack)
+gfortran -o Practica8 Practica8.f90 -lquadpack
