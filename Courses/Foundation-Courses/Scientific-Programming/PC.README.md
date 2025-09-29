@@ -88,7 +88,7 @@ una es 0.9 puntos. Fecha límite de entrega: Jueves 25-septiembre-2025.
 - 🔹 El valor conjunto de las prácticas 5 y 6 será a lo sumo 3.2 puntos. El valor máximo de cada
 una es 1.7 puntos. Fecha límite de entrega: Jueves 2-octubre-2025.
 
--🔹 El último día del curso, Viernes 12 Septiembre-2025, se realizarán en clase unos ejercicios
+- 🔹 El último día del curso, Viernes 12 Septiembre-2025, se realizarán en clase unos ejercicios
 con valor máximo 1.0 puntos.
 
 ---
