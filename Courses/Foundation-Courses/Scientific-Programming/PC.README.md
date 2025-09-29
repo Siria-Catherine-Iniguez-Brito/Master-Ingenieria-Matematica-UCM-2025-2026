@@ -1,7 +1,8 @@
 
 # 🚀  Scientific Programming 
 
-📁 Este subrepositorio pertenece a la carpeta `Foundation-Courses`, dentro de `Courses`, del repositorio general del Máster en Ingeniería Matemática (UCM). Subrepositorio de la asignatura **Programación Científica** del *Máster en Ingeniería Matemática* (Universidad Complutense de Madrid).  
+📁 Este subrepositorio pertenece a la carpeta Foundation-Courses, dentro de Courses, del repositorio general del Máster en Ingeniería Matemática (UCM).
+Corresponde a la asignatura Programación Científica del Máster en Ingeniería Matemática (Universidad Complutense de Madrid).
 Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
 
 
