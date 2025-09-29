@@ -4,6 +4,22 @@
 📁 Subrepositorio de la asignatura **Programación Científica** del *Máster en Ingeniería Matemática* (Universidad Complutense de Madrid).  
 Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
 
+-- 
+
+## 📑 Índice
+
+1. [📘 Guía Docente](#-guía-docente)  
+   1.1 [📌 Datos Generales](#-datos-generales)  
+   1.2 [🎯 Objetivos del Curso](#-objetivos-del-curso)  
+   1.3 [🧠 Competencias](#-competencias)  
+   1.4 [🔄 Dinámica de la Asignatura](#-dinámica-de-la-asignatura)  
+
+2. [🧪 Prácticas del Curso 2025-26](#prácticas-del-curso-2025-26)  
+3. [📊 Evaluación de Prácticas](#-evaluación-de-prácticas)  
+4. [📦 Normas para la Entrega y Evaluación](#-normas-para-la-entrega-y-evaluación)  
+5. [🗂️ Estructura del Repositorio](#-estructura-del-repositorio)  
+6. [🛠️ Compilación y Librerías](#️-compilación-y-librerías)
+
 --
 
 ## 📘 Guía Docente
