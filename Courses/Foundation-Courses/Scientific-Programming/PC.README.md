@@ -86,10 +86,9 @@ con valor máximo 1.0 puntos.
 - Archivo de resultados: `SolucionX.sol`  
 - Enunciado: `PX-Nombre_de_la_practica.D1`
 
-📤 **Envío por correo:**
+📤 **Envío institucional:**
 
-- 📧 Fortran: `afelipe@ucm.es`  
-- 📧 C: `crisande@ucm.es`
+> Las prácticas deben enviarse al profesor responsable de cada lenguaje (Fortran o C) utilizando los canales indicados en el aula virtual o guía docente oficial.
 
 ---
 
