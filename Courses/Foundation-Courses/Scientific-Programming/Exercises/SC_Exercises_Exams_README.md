@@ -14,8 +14,6 @@ Exercises_Exams/
 │   ├── Datos1.dat
 │   ├── Solucion1.sol
 │   └── P1-FUNCION-DIRECTA-INVERSA.D1
-├── Practica2/
-│   └── ...
 ├── ...
 ├── Practica6/
 │   ├── Practica6.c
@@ -51,16 +49,55 @@ Exercises_Exams/
 
 ---
 
+---
+
 ## 🛠️ Cómo compilar y ejecutar
 
-### ✅ Prácticas (Exercises)
+### ✅ Prácticas 1 a 6
 
-- **Prácticas 1 a 6:**  
-  Se pueden ejecutar directamente con la extensión **Run Code** de Visual Studio Code, sin necesidad de comandos adicionales.
+Se pueden ejecutar directamente con la extensión **Run Code** de Visual Studio Code, sin necesidad de comandos adicionales.
 
-- **Prácticas 7 y 8:**  
-  Utilizan **librerías científicas específicas**, por lo que requieren compilación manual mediante comandos especiales.  
-  En sus carpetas correspondientes (`Practica7/` y `Practica8/`) encontrarás instrucciones detalladas para compilar y ejecutar los programas correctamente en tu entorno local.
+---
+
+### ✅ Prácticas 7 y 8 (con librerías científicas)
+
+#### ▶️ Práctica 7: Sistema no lineal (usa `minpack.f90`)
+
+1. Abrir la terminal integrada de Visual Studio Code y situarse en la carpeta `Practica7/`.
+2. Compilar con el siguiente comando:
+
+```bash
+gfortran -O2 Practica7.f90 minpack.f90 -o Practica7
+```
+
+3. Se generará un ejecutable llamado `Practica7`.
+4. Desde la terminal del sistema (o desde VSCode si estás en la misma carpeta), ejecutar:
+
+```bash
+./Practica7
+```
+
+Esto generará el archivo de salida `Solucion7.sol`.
+
+---
+
+#### ▶️ Práctica 8: Integración numérica (usa `quadpack.f90`)
+
+1. Abrir la terminal integrada de Visual Studio Code y situarse en la carpeta `Practica8/`.
+2. Compilar con el siguiente comando:
+
+```bash
+gfortran -O2 Practica8.f90 quadpack.f90 -o Practica8
+```
+
+3. Se generará un ejecutable llamado `Practica8`.
+4. Desde la terminal del sistema (o desde VSCode si estás en la misma carpeta), ejecutar:
+
+```bash
+./Practica8
+```
+
+Esto generará el archivo de salida `Solucion8.sol`.
 
 ---
 
@@ -102,10 +139,9 @@ Cada práctica o examen se encuentra en una carpeta individual con nombre `Pract
 ### 🧩 Librerías científicas (solo prácticas 7 y 8)
 
 - `minpack.f90`: Utilizada en la **práctica 7** para resolver **sistemas no lineales**.
-
 - `quadpack.f90`: Utilizada en la **práctica 8** para realizar **integración numérica**.
 
-Cada una de estas prácticas incluye documentación específica sobre el uso e integración de estas librerías, así como los **comandos exactos de compilación** utilizados en mi entorno local.
+Cada una de estas prácticas incluye instrucciones detalladas para su compilación y ejecución.
 
 ---
 
