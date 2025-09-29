@@ -45,28 +45,39 @@ Exercises_Exams/
 │   ├── DatosE2.dat
 │   ├── SolucionE2.sol
 │   └── E2-ECUACION.D1
-│   └── SC_Exercises_Exams_README
+│
+└── SC_Exercises_Exams_README
 ```
+
+---
+
 ## 🛠️ Cómo compilar y ejecutar
 
-### Prácticas (Exercises)
+### ✅ Prácticas (Exercises)
 
 - **Prácticas 1 a 6:**  
   Se pueden ejecutar directamente con la extensión **Run Code** de Visual Studio Code, sin necesidad de comandos adicionales.
 
 - **Prácticas 7 y 8:**  
-  Utilizan librerías científicas específicas, por lo que requieren compilación manual mediante comandos especiales. En sus carpetas correspondientes encontrarás instrucciones detalladas para compilar y ejecutar.
+  Utilizan **librerías científicas específicas**, por lo que requieren compilación manual mediante comandos especiales.  
+  En sus carpetas correspondientes (`Practica7/` y `Practica8/`) encontrarás instrucciones detalladas para compilar y ejecutar los programas correctamente en tu entorno local.
+
+---
+
+### ✅ Exámenes (Exams)
+
+Todos los exámenes están preparados para ejecutarse directamente con la extensión **Run Code** de Visual Studio Code, sin comandos especiales ni librerías externas.
+
+---
 
 ## 🗂️ Contenido de cada carpeta
 
 Cada práctica o examen se encuentra en una carpeta individual con nombre `PracticaX` o `ExamenX`, donde **X representa el número correspondiente** (1 a 8 para prácticas, 1 y 2 para exámenes).
 
----
-
 ### 📦 Archivos comunes por práctica
 
 - `PracticaX.f90` / `PracticaX.c`: Código fuente en **Fortran** o **C**  
-  *(Nota: la práctica 6 es la única realizada en C, el resto en Fortran)*
+  *(Nota: la práctica 6 es la única realizada en C; el resto están en Fortran)*
 
 - `DatosX.dat`: Archivo de **entrada** con los datos del problema.
 
@@ -82,7 +93,7 @@ Cada práctica o examen se encuentra en una carpeta individual con nombre `Pract
 
 - `DatosEX.dat`: Archivo de **entrada** con los datos del problema.
 
-- `SolucionEX.sol`: Archivo de **salida** con la solución generada por el programa.
+- `SolucionEX.sol`: Archivo de **salida** generado por el programa con la solución.
 
 - `EX-Nombre.D1`: Enunciado oficial completo del examen.
 
@@ -90,55 +101,51 @@ Cada práctica o examen se encuentra en una carpeta individual con nombre `Pract
 
 ### 🧩 Librerías científicas (solo prácticas 7 y 8)
 
-- `minpack.f90`: Incluida en la **práctica 7**, utilizada para resolver **sistemas no lineales**.
+- `minpack.f90`: Utilizada en la **práctica 7** para resolver **sistemas no lineales**.
 
-- `quadpack.f90`: Incluida en la **práctica 8**, utilizada para realizar **integración numérica**.
+- `quadpack.f90`: Utilizada en la **práctica 8** para realizar **integración numérica**.
 
-En las carpetas de estas prácticas encontrarás instrucciones detalladas para compilar y ejecutar correctamente utilizando estas librerías.
+Cada una de estas prácticas incluye documentación específica sobre el uso e integración de estas librerías, así como los **comandos exactos de compilación** utilizados en mi entorno local.
 
-### Exámenes (Exams)
-
-- Todos los exámenes están preparados para ejecutarse directamente con la extensión **Run Code** de Visual Studio Code, sin comandos especiales ni librerías externas.
+---
 
 ## 💻 Entorno utilizado
 
 - **Sistema operativo:** macOS  
-- **Compilador:** gfortran versión 9.0 o superior  
-- **Editor:** Visual Studio Code con extensiones para Fortran y C  
+- **Compilador:** `gfortran` versión 9.0 o superior  
+- **Editor:** Visual Studio Code  
+  - Con extensiones para **Fortran** y **C** disponibles desde el Marketplace
 
-
+---
 
 ## ⚙️ Instalación del entorno en macOS (mi ordenador personal)
 
-1. Instalar las herramientas de línea de comandos de Xcode:
-
+1. **Instalar las herramientas de línea de comandos de Xcode:**
 ```bash
 xcode-select --install
+```
 
-2. Instalar Homebrew (gestor de paquetes):
-
-3. Instalar GCC y GFortran:
-
-brew install gcc
-
-4. Descargar e instalar Visual Studio Code:
-https://code.visualstudio.com/
+2. **Instalar Homebrew (gestor de paquetes):**
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-5. Instalar extensiones de Fortran y C en VSCode desde el Marketplace.
+3. **Instalar GCC y GFortran:**
+```bash
+brew install gcc
+```
 
+4. **Descargar e instalar Visual Studio Code:**  
+   [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-## 📚 Librerías científicas
+5. **Instalar extensiones de Fortran y C** desde el Marketplace de VSCode.
 
-Solo se utilizan en las prácticas 7 y 8.
+---
 
-La documentación específica para la instalación y uso de estas librerías se encuentra en las carpetas de estas prácticas.
+## 📚 Documentación complementaria
 
+- Cada práctica y examen incluye un enunciado `.D1` con los detalles del problema, entrada/salida esperada y objetivos de implementación.
 
-## 📄 Documentación complementaria
+- Las prácticas 7 y 8, al requerir uso de librerías científicas externas (`minpack` y `quadpack`), contienen **instrucciones adicionales** para su correcta compilación, enlazado y ejecución en entorno local.
 
-Cada práctica y examen incluye un enunciado (.D1) con los detalles y objetivos.
-
-Las prácticas 7 y 8 contienen instrucciones adicionales para la compilación y uso de librerías.
-
-Esta documentación asegura la reproducibilidad y facilita el trabajo autónomo.
+- Esta documentación asegura la **reproducibilidad** de todos los resultados y facilita el trabajo autónomo del estudiante.
