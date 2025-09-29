@@ -63,7 +63,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
 
 ## Prácticas del Curso 2025-26
 
-| Nº Práctica | Nombre                       | Nombre2                                | Fecha límite              |
+| Nº Práctica | Práctica                       | Nombre2                                | Fecha límite              |
 |-------------|------------------------------|----------------------------------------|---------------------------|
 | 1           | Función directa inversa      | P1-FUNCION-DIRECTA-INVERSA.D1          | Jueves 11-septiembre-2025 |
 | 2           | Submatriz centro esquinas    | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1        | Jueves 11-septiembre-2025 |
