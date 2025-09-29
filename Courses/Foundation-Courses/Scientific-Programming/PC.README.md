@@ -123,7 +123,7 @@ con valor máximo 1.0 puntos.
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## 🗂️ Estructura de Scientific Programming 
 
 ```plaintext
 Scientific-Programming/
