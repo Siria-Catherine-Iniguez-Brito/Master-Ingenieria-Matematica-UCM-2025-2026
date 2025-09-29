@@ -33,7 +33,6 @@ Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes*
   - [2. Programas que usan librerías externas (BLAS, LAPACK, Minpack)](#2-programas-que-usan-librerías-externas-blas-lapack-minpack)
 - [📎 Opciones útiles de compilación](#-opciones-útiles-de-compilación)
 - [💡 Buenas prácticas](#-buenas-prácticas)
-- [📌 Resumen de flujo de trabajo](#-resumen-de-flujo-de-trabajo)
 - [🔗 Recursos útiles](#-recursos-útiles)
 - [📚 Documentación complementaria](#-documentación-complementaria)
 
@@ -343,15 +342,6 @@ gfortran programa.f90 -o programa -L/ruta/a/librerias -llapack -lminpack
 - Usa siempre **IMPLICIT NONE** para evitar errores de tipos implícitos.
 - Mantén los proyectos organizados en carpetas dedicadas a Fortran.
 - Familiarízate con las librerías que uses (BLAS, LAPACK, Minpack) y sus versiones.
-
----
-
-## 📌 Resumen de flujo de trabajo
-
-| Tipo de programa | Cómo compilar y ejecutar |
-|----------------------------------------|-------------------------|
-| Programas simples (sin librerías) | Botón Run de VS Code ▶️ |
-| Programas con librerías externas | Terminal: `gfortran programa.f90 -o programa -llapack -lminpack` |
 
 ---
 
