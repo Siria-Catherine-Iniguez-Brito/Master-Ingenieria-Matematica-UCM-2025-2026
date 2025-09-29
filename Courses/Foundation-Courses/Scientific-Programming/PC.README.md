@@ -33,7 +33,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
   - Implementación de algoritmos.  
   - Resolución de problemas numéricos.  
 
-## 🧪 Dinámica de la Asignatura
+## 🔄  Dinámica de la Asignatura
 
 - 📚 **Clases teóricas** *(1/3 del tiempo presencial)*  
   → Explicación de características del lenguaje y librerías con ejemplos.  
@@ -41,7 +41,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
 - 💻 **Clases prácticas** *(2/3 del tiempo presencial)*  
   → Desarrollo, prueba y depuración de programas científicos.  
 
-- 🧪 **Laboratorios**  
+- 🧑‍💻 **Laboratorios**  
   → Tiempo libre para experimentación, práctica y refuerzo de conceptos.  
 ---
 
