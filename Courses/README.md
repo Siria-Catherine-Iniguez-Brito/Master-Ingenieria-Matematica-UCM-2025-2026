@@ -1,299 +1,108 @@
+# Programación Científica - Curso 2025-26
 
-# 📘 MSc-Mathematical-Engineering-UCM-2025-2026
+## Guía Docente
 
-**Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
+### Datos Generales
+- **Asignatura:** Programación Científica (Código: 608063)
+- **Plan de Estudios:** Máster Universitario en Ingeniería Matemática (2010-11)
+- **Carácter:** Complemento de Formación
+- **ECTS:** 3.0
+- **Semestre:** 1º
 
----
-![License](https://img.shields.io/badge/license-MIT-blue)
+### Objetivos
+- Asimilar y practicar la programación en Fortran 95 y C.
+- Utilizar librerías científicas para resolución de problemas numéricos.
+- Implementar y analizar algoritmos numéricos complejos.
+- Desarrollar habilidades para la detección y corrección de errores en código.
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+### Competencias
+- **Generales (CG5):** Resolver problemas matemáticos computacionalmente usando software adecuado.
+- **Específicas (CE3 y CE6):** Conocimiento de Fortran y C, uso de librerías científicas, implementación de algoritmos y resolución de problemas numéricos.
 
-Driven by curiosity and a passion for problem-solving, this repository chronicles my MSc journey at UCM. It reflects a hands-on learning approach — applying mathematical concepts and computational techniques to complex systems in data, logistics, and finance.
-
-
-Along the way, it serves as both a structured archive and a growing portfolio of projects relevant to scientific computing, data science, and applied mathematics.
-
----
-## 🎯 Target Audience
-
-This repository is designed for:
-
-- Graduate students, researchers, and professionals in **mathematical engineering** and **scientific computing**.  
-- Those interested in **numerical analysis**, **mathematical modeling**, and **data science**.  
-- Recruiters and hiring managers seeking a well-structured portfolio demonstrating practical skills in **optimization**, **statistics**, and **financial mathematics**.
-
-Its applications span **academia**, **industry**, and data-driven fields such as **quantitative analysis**, **simulation**, and **applied research**.
-
----
-
-## 🚀 Featured Projects (Coming Soon)
-
-This section will showcase key projects developed throughout the MSc program. Examples of upcoming projects will include:
-
-- Advanced optimization applied to logistics and transportation.
-- Predictive models for financial analysis and risk management.
-- Numerical simulations for complex dynamical systems.
-- Master's thesis projects focused on mathematical and computational modeling.
-
-Stay tuned for updates and results that demonstrate practical application of the program's core concepts.
+### Dinámica de la Asignatura
+- Clases teóricas (1/3 del tiempo presencial): Explicaciones y ejemplos de características de los lenguajes y librerías.
+- Clases prácticas (2/3 del tiempo presencial): Desarrollo, pruebas, análisis y corrección de programas.
+- Laboratorios: Uso libre para experimentación y aprendizaje.
 
 ---
 
-## 📑 Index
+## Prácticas del Curso 2025-26
 
-- [📘 MSc-Mathematical-Engineering-UCM-2025–2026](#-msc-mathematical-engineering-ucm-2025–2026)
-- [🚀 Featured Projects (Coming Soon)](#-featured-projects-coming-soon)
-- [🎯 Target Audience](#-target-audience)
-- [🎓 MSc Program Structure](#-msc-program-structure)
-  - [🧱 1. Foundation Courses (Complementos de Formación)](#-1-foundation-courses-complementos-de-formación)
-  - [📚 2. Core Curriculum (Módulo 1: Contenidos Fundamentales)](#-2-core-curriculum-módulo-1-contenidos-fundamentales)
-  - [🧪 3. Specialization (Módulo 2: Especialización)](#-3-specialization-módulo-2-especialización)
-  - [🏢 4. Industry Internship (Prácticas Externas)](#-4-industry-internship-prácticas-externas)
-  - [🧑‍💻 5. Master's Thesis](#-5-masters-thesis)
-  - [📎 Official Resources](#-official-resources)
-- [🗂️ Repository Structure](#-repository-structure)
-- [🧭 How to Navigate](#-how-to-navigate)
-- [🎯 Repository Goals](#-repository-goals)
-  - [Academic Focus](#academic-focus)
-  - [Professional Development](#professional-development)
-- [🧠 Skills Showcased](#-skills-showcased)
-- [🏷️ Topics](#-topics)
-- [🛠️ Tech Stack & Tools](#-tech-stack--tools)
-- [📬 Contact](#-contact)
-- [🤝 How to Contribute](#-how-to-contribute)
-- [📄 License](#-license)
-- [🚧 Repository Status](#-repository-status)
+| Nº Práctica | Nombre                              | Fecha límite          | Valor máximo individual (puntos) | Valor máximo conjunto (puntos) |
+|-------------|-----------------------------------|-----------------------|----------------------------------|--------------------------------|
+| 1           | Función directa inversa            | Jueves 11-septiembre-2025 | 1.0                              | 1.8 (con práctica 2)            |
+| 2           | Submatriz centro esquinas          | Jueves 11-septiembre-2025 | 1.0                              | 1.8 (con práctica 1)            |
+| 3           | Siguiente combinación              | Jueves 18-septiembre-2025 | 1.3                              | 2.4 (con práctica 4)            |
+| 4           | Triángulo                         | Jueves 18-septiembre-2025 | 1.3                              | 2.4 (con práctica 3)            |
+| 5           | Min n cotas                      | Jueves 2-octubre-2025    | 1.7                              | 3.2 (con práctica 6)            |
+| 6           | Rachas                           | Jueves 2-octubre-2025    | 1.7                              | 3.2 (con práctica 5)            |
+| 7           | Sistema no lineal                | Jueves 25-septiembre-2025 | 0.9                              | 1.6 (con práctica 8)            |
+| 8           | Integral                        | Jueves 25-septiembre-2025 | 0.9                              | 1.6 (con práctica 7)            |
 
----
-## 🎓 MSc Program Structure
-
-**Total: 60 ECTS (European Credit Transfer System)**
-
-The MSc in Mathematical Engineering at Universidad Complutense de Madrid is structured into five main components, following the official study plan ([UCM 2025–26](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)):
-
-### 🧱 1. Foundation Courses *(Complementos de Formación)*  
-**Up to 12 ECTS** — Assigned based on the student’s academic background.  
-In my case:
-
-- `Scientific Programming` *(Programación Científica)* — **3 ECTS**
-  
-> **Note:** The complementos de formación (foundation courses) credits are additional and may be required depending on prior qualifications. Thus, the total ECTS count including these complementos is **63 ECTS** in my case.
-
+- El último día del curso, **Viernes 12 Septiembre 2025**, se realizarán en clase ejercicios con valor máximo de **1.0 punto**.
 
 ---
 
-### 📚 2. Core Curriculum *(Módulo 1: Contenidos Fundamentales)*  
-**39 ECTS** — Required courses in applied mathematics and computation:
+### Normas para la entrega y evaluación
 
-- `Applied Statistics & Data Mining` *(Estadística Aplicada y Minería de Datos)* — 9 ECTS  
-- `Advanced Numerical Methods` *(Métodos Numéricos Avanzados)* — 4 ECTS  
-- `Modeling & Simulation in Dynamical Systems` *(Modelización y Simulación en Sistemas Dinámicos)* — 5 ECTS  
-- `Deterministic Models in Logistics` *(Modelos Determinísticos en Logística)* — 4.5 ECTS  
-- `Advanced Optimization Techniques` *(Técnicas Avanzadas en Optimización)* — 4.5 ECTS  
-- `Databases` *(Bases de Datos)* — 6 ECTS  
-- `Foundations in Financial Mathematics` *(Fundamentos en Matemática Financiera)* — 6 ECTS  
-
----
-
-### 🧪 3. Specialization *(Módulo 2: Especialización)*  
-**12 ECTS** — Chosen electives:
-
-- `Simulation Techniques` *(Técnicas de Simulación)* — 3 ECTS  
-- `Forecasting Techniques` *(Técnicas de Predicción)* — 3 ECTS  
-- `Stochastic Models in Logistics` *(Modelos Estocásticos en Logística)* — 3 ECTS  
-- `Introduction to Financial Risk Management` *(Introducción a la Gestión de Riesgos Financieros)* — 3 ECTS  
-
----
-
-### 🏢 4. Industry Internship *(Prácticas Externas)*  
-**3 ECTS** — Work placement (Second semester)
+- Cada práctica puede realizarse en **Fortran** o en **C**; en cada lenguaje se debe hacer al menos una práctica.
+- Para evaluar, se deben enviar los siguientes archivos:
+  - Código fuente: `Px.f90` o `Px.c` (donde X es el número de práctica)
+  - Archivo de datos: `DatosX.dat`
+  - Archivo de resultados: `SolucionX.sol`
+- El archivo de enunciado correspondiente es `PX-Nombre_de_la_practica.D1`.
+- Los archivos deben enviarse a:
+  - **Fortran:** afelipe@ucm.es
+  - **C:** crisande@ucm.es
+- **Importante:** Las soluciones mostradas sólo por pantalla **no se valoran**.
+- Las prácticas entregadas después de la fecha límite tendrán penalización en la nota.
+- Una vez calificada una práctica, su valoración será definitiva.
+- Las prácticas son de realización **individual**.
+- Cualquier copia o plagio supondrá:
+  - Cero puntos en la práctica afectada,
+  - Probable suspenso en la asignatura,
+  - Posible inicio de expediente disciplinario.
 
 ---
 
-### 🧑‍💻 5. Master's Thesis 
-**6 ECTS**:
-
-- `Modeling Week` *(Semana de la Modelización)* — 3 ECTS  
-- `Project` *(Proyecto)* — 3 ECTS
-
----
-
-### 📎 Official Resources
-
-Useful links from the official MSc program site:
-
-- [📄 MSc Brochure (PDF)](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)  
-- [📚 Study Plan (2025–26)](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)
-
----
-
-## 🗂️ Repository Structure
-
-```plaintext
-Master-Ingenieria-Matematica-UCM/
+## Organización del Repositorio
+Scientific-Programming/
 │
-├── README.md                           # Main Repository Overview
-├── Courses/                            # Folder Containing All Courses
-│   ├── Foundation-Courses/
-│   │   └── Scientific-Programming/
-│   │       ├── README.md
-│   │       ├── Theory/
-│   │       ├── Exercises/
-│   │       └── Exams/
-│   │
-│   ├── Core-Curriculum/
-│   │   ├── Applied-Statistics-and-Data-Mining/
-│   │   │   ├── README.md
-│   │   │   ├── Theory/
-│   │   │   ├── Exercises/
-│   │   │   └── Exams/
-│   │   ├── Advanced-Numerical-Methods/
-│   │   │   └── …
-│   │   ├── Modeling-and-Simulation-in-Dynamic-Systems/
-│   │   │   └── …
-│   │   ├── Deterministic-Models-in-Logistics/
-│   │   │   └── …
-│   │   ├── Advanced-Optimization-Techniques/
-│   │   │   └── …
-│   │   ├── Databases/
-│   │   │   └── …
-│   │   └── Fundamentals-of-Financial-Mathematics/
-│   │       ├── README.md
-│   │       ├── Theory/
-│   │       ├── Exercises/
-│   │       └── Exams/
-│   │
-│   └── Specialization/
-│       ├── Stochastic-Models-in-Logistics/
-│       │   └── …
-│       ├── Prediction-Techniques/
-│       │   └── …
-│       ├── Simulation-Techniques/
-│       │   └── …
-│       └── Introduction-to-Financial-Risk-Management/
-│           ├── README.md
-│           ├── Theory/
-│           ├── Exercises/
-│           └── Exams/
+├── Practicas/
+│ ├── Practica1/
+│ │ ├── Practica1.f90 / Practica1.c
+│ │ ├── Datos1.dat
+│ │ ├── Solucion1.sol
+│ │ └── P1-FUNCION-DIRECTA-INVERSA.D1
+│ ├── Practica2/
+│ │ └── ...
+│ └── ... (Practica3 a Practica8)
 │
-├── Master's-Thesis/
-│   ├── README.md
-│   ├── Modeling-Week/
-│   └── Project/
+├── Teoria/
+│ └── Material_teorico.pdf (u otros recursos)
 │
-├── Industry-Internship/
-│   ├── README.md
-│   ├── Deliverables/
-│   └── Code-or-Data/
+├── Examenes/
+│ ├── Ejercicio1/
+│ └── Ejercicio2/
 │
-├── Key-Projects/                       # Key Projects & Portfolio
-│
-└── Resources/                          # Additional materials, bibliographies, useful links
-```
----
-## 🧭 How to Navigate
-This repository serves as a comprehensive, well-organized archive of my MSc Mathematical Engineering journey, aiming to provide easy access to coursework, projects, and resources for anyone interested in the field.
-
-1. Explore the [Courses/] folder to browse all courses, organized into:
-- **Foundation-Courses/**: Basic preparatory courses, e.g., Scientific-Programming.
-- **Core-Curriculum/**: Mandatory courses for the MSc program.
-- **Specialization/**: Elective courses and advanced topics.
-
-2. Inside each course folder, check the **README.md** for course description, objectives, semester, and credits.
-
-3. Each course contains the following standard subfolders:
-- **Theory/**: Lecture notes, slides, and theoretical material.
-- **Exercises/**: Practical exercises, assignments, and lab work.
-- **Exams/**: Exams and evaluation materials (if available).
-  
-> **Note:**  The structure may vary slightly depending on the course.
-
-4. The **Master's-Thesis/** folder includes:
-- **Modeling-Week/**: Intermediate modeling exercises and projects.
-- **Project/**: Final thesis work with code, datasets, and reports.
-
-5. The **Industry-Internship/** folder gathers materials, deliverables, and any project files developed during professional internships.
-
-6. The **Key-Projects/** folder highlights significant projects that serve as portfolio examples.
-
-7. The **Resources/** folder contains additional references, bibliographies, and useful links.
-
-> **Note:** The names of the folders are in English to facilitate navigation; however, the course materials they contain are mainly in Spanish, reflecting the language of instruction.
-
----
-## 🎯 Repository Goals
-
-### Academic Focus  
-Capture and reflect the official 2025–26 curriculum with thorough archiving of classes, exercises, and projects, emphasizing the deep learning process and the development of advanced mathematical and computational skills. This repository aims to showcase the academic rigor and practical value of the MSc in Mathematical Engineering at UCM as a foundation for research and applied science.
+└── README.md
 
 ---
 
-### Professional Development  
-Document the practical application of mathematical and computational methods, building a comprehensive portfolio tailored for careers in data science, analytics, optimization, and simulation.
+## Uso y Compilación
 
----
+### Requisitos previos
+- Compilador Fortran 95 (ej. `gfortran`)
+- Compilador C (ej. `gcc`)
+- Librerías científicas utilizadas:
+  - **Minpack** para la práctica 7
+  - **Quadpack** para la práctica 8
 
+### Cómo compilar
 
-## 🧠 Skills Showcased
+Para Fortran:
 
-- Scientific computing (Python, MATLAB, C/C++, Fortran)  
-- Numerical analysis (solvers, PDEs, ODEs, finite elements)  
-- Mathematical modeling (deterministic & stochastic)  
-- Statistical methods, data analysis, and forecasting  
-- Optimization techniques (linear, nonlinear)  
-- Database management (SQL, relational design)  
-- Financial mathematics, risk, and valuation  
-- Simulation (Monte Carlo, discrete-event)  
-- Reproducible methodology and technical documentation (Markdown, LaTeX, Git)
-
-
----
-
-## 🏷️ Topics
-
-`projects` · `scientific-computing` · `applied-mathematics` · `stem` · `numerical-analysis` · `industry` · `ucm` · `mathematical-modeling` · `msc-mathematical-engineering` · `data-science-analytics` · `optimization` · `simulation`
-
----
-
-
-## 🛠️ Tech Stack & Tools
-
-- Python, MATLAB, C/C++, Fortran, SQL, SAS
-- Git, LaTeX
-- Jupyter Notebooks, VSCode
-
----
-
-## 📬 Contact 
-
-If you want to collaborate, connect, or learn more about my profile — I'm always open to networking, sharing ideas, or exploring opportunities in STEM, data science, or applied mathematics.
-
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/siria-catherine-i%C3%B1iguez-brito-39a3a8242/)
-- 📧 **Email**: iniguezbritocatherine@gmail.com
-
----
-
-## 🤝 How to Contribute
-
-- Fork the repository
-- Create a branch for your feature or fix
-- Open a pull request describing your changes
-- Be respectful and follow the code of conduct
-
----
-
-## 📄 License
-
-This repository is licensed under the [MIT License](./LICENSE).  
-© 2025 Siria-Catherine-Iniguez-Brito.
-
-You are free to use, modify, and distribute the contents of this repository under the terms of the MIT License.  
-For full details, please see the [LICENSE](./LICENSE) file.
-
----
-
-## 🚧 Repository Status
-
-This repository is under continuous development during the 2025–2026 academic year and reflects the official master's program structure as defined in the 2025–26 study plan.
-
-**Updates will be made regularly, approximately monthly, aligned with the MSc academic calendar and project milestones.**
+```bash
+gfortran -o PracticaX PracticaX.f90 -lminpack    # Para práctica 7
+gfortran -o PracticaX PracticaX.f90 -lquadpack  # Para práctica 8
+gfortran -o PracticaX PracticaX.f90              # Para otras prácticas
