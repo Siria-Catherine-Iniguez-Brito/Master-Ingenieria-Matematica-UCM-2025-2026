@@ -20,7 +20,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
  [🗂️ Estructura del Repositorio](#-estructura-del-repositorio)  
  [🛠️ Compilación y Librerías](#️-compilación-y-librerías)
 
---
+
 
 ## 📘 Guía Docente
 
