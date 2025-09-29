@@ -1,6 +1,6 @@
-# Carpeta Exercises_Exams: Prácticas y Exámenes
+# 📁 Carpeta Exercises_Exams: Prácticas y Exámenes
 
-Esta carpeta reúne tanto las **prácticas** (`Exercises`) como los **exámenes** (`Exams`) correspondientes a la asignatura de Programación Científica del Máster en Ingeniería Matemática (UCM).
+Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes** (`ExamenX`) correspondientes a la asignatura de **Programación Científica** del Máster en Ingeniería Matemática (UCM).
 
 ---
 
@@ -8,30 +8,44 @@ Esta carpeta reúne tanto las **prácticas** (`Exercises`) como los **exámenes*
 
 ```plaintext
 Exercises_Exams/
-├── Exercises/
-│   ├── Practica1/
-│   │   ├── Practica1.f90 / Practica1.c
-│   │   ├── Datos1.dat
-│   │   ├── Solucion1.sol
-│   │   └── P1-FUNCION-DIRECTA-INVERSA.D1
-│   ├── Practica2/
-│   │   └── ...
-│   ├── ...
-│   └── Practica8/
-│       ├── Practica8.f90 / Practica8.c
-│       ├── Datos8.dat
-│       ├── Solucion8.sol
-│       └── P8-INTEGRAL-1.D1
 │
-├── Exams/
-│   ├── Examen1/
-│   │   ├── Examen1.f90
-│   │   ├── DatosE1.dat
-│   │   ├── SolucionE1.sol
-│   │   └── E1-SUBMATRIZ-ABSMIN.D1
-│   ├── Examen2/
-│   │   └── ...
-
+├── Practica1/
+│   ├── Practica1.f90
+│   ├── Datos1.dat
+│   ├── Solucion1.sol
+│   └── P1-FUNCION-DIRECTA-INVERSA.D1
+├── Practica2/
+│   └── ...
+├── ...
+├── Practica6/
+│   ├── Practica6.c
+│   ├── Datos6.dat
+│   ├── Solucion6.sol
+│   └── P6-RACHAS.D1
+├── Practica7/
+│   ├── Practica7.f90
+│   ├── Datos7.dat
+│   ├── Solucion7.sol
+│   ├── P7-SISTEMA-NO-LINEAL.D1
+│   └── minpack.f90
+├── Practica8/
+│   ├── Practica8.f90
+│   ├── Datos8.dat
+│   ├── Solucion8.sol
+│   ├── P8-INTEGRAL-1.D1
+│   └── quadpack.f90
+│
+├── Examen1/
+│   ├── Examen1.f90
+│   ├── DatosE1.dat
+│   ├── SolucionE1.sol
+│   └── E1-SUBMATRIZ-ABSMIN.D1
+├── Examen2/
+│   ├── Examen2.f90
+│   ├── DatosE2.dat
+│   ├── SolucionE2.sol
+│   └── E2-ECUACION.D1
+│   └── SC_Exercises_Exams_README
 ```
 ## 🛠️ Cómo compilar y ejecutar
 
