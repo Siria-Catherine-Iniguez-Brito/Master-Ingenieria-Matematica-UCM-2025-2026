@@ -168,7 +168,6 @@ Ambas librerías son utilizadas únicamente en las prácticas 7 y 8 debido a la 
 
 Estas herramientas profesionales permiten abordar los problemas con algoritmos ya validados, lo cual **reduce errores, mejora la precisión** y **acelera el desarrollo** del código.
 
----
 
 ---
 
