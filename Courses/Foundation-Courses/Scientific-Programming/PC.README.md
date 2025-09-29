@@ -5,7 +5,6 @@
 Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
 
 -- 
-
 ## 📑 Índice
 
 1. [📘 Guía Docente](#-guía-docente)  
