@@ -143,6 +143,35 @@ Cada una de estas prácticas incluye instrucciones detalladas para su compilaci�
 
 ---
 
+## 🔬 ¿Qué son MINPACK y QUADPACK?
+
+### 🧠 MINPACK – Resolución de sistemas no lineales
+
+- **MINPACK** es una librería numérica escrita en Fortran especializada en la resolución de **sistemas de ecuaciones no lineales** y en **problemas de mínimos cuadrados no lineales**.
+- Implementa algoritmos eficientes y robustos basados en métodos como el de **Levenberg-Marquardt**.
+- En este proyecto, MINPACK se utiliza en la **Práctica 7**, cuyo objetivo es resolver un sistema no lineal planteado en el enunciado.
+- La librería facilita la implementación del método sin tener que desarrollar desde cero rutinas complejas para el cálculo de Jacobianos, iteraciones, tolerancias, etc.
+
+### ∫ QUADPACK – Integración numérica adaptativa
+
+- **QUADPACK** es una librería escrita en Fortran que proporciona algoritmos de **integración numérica unidimensional**.
+- Está diseñada para manejar integrandos difíciles, incluyendo funciones con picos, discontinuidades, o dominios infinitos.
+- En este proyecto, QUADPACK se utiliza en la **Práctica 8**, que consiste en calcular **integrales definidas** de funciones complicadas con alta precisión.
+- Gracias a esta librería se pueden usar métodos como la **cuadratura adaptativa** para obtener resultados más precisos y eficientes que con métodos básicos como el de Simpson.
+
+---
+
+Ambas librerías son utilizadas únicamente en las prácticas 7 y 8 debido a la **naturaleza más compleja de los problemas planteados** en esos ejercicios:
+
+- En la **Práctica 7** se resuelve un sistema no lineal que requiere técnicas avanzadas de optimización.
+- En la **Práctica 8** se realiza una integración numérica que involucra funciones difíciles de tratar analíticamente.
+
+Estas herramientas profesionales permiten abordar los problemas con algoritmos ya validados, lo cual **reduce errores, mejora la precisión** y **acelera el desarrollo** del código.
+
+---
+
+---
+
 ## 💻 Entorno utilizado
 
 - **Sistema operativo:** macOS  
