@@ -29,16 +29,17 @@
 
 ## Prácticas del Curso 2025-26
 
-| Nº Práctica | Nombre                       | Fecha límite              |
-|-------------|------------------------------|---------------------------|
-| 1           | Función directa inversa      | Jueves 11-septiembre-2025 |
-| 2           | Submatriz centro esquinas    | Jueves 11-septiembre-2025 |
-| 3           | Siguiente combinación        | Jueves 18-septiembre-2025 |
-| 4           | Triángulo                    | Jueves 18-septiembre-2025 |
-| 5           | Min n cotas                  | Jueves 2-octubre-2025     |
-| 6           | Rachas                       | Jueves 2-octubre-2025     |
-| 7           | Sistema no lineal            | Jueves 25-septiembre-2025 |
-| 8           | Integral                     | Jueves 25-septiembre-2025 |
+| Nº Práctica | Nombre                       | Nombre2                                | Fecha límite              |
+|-------------|------------------------------|----------------------------------------|---------------------------|
+| 1           | Función directa inversa      | P1-FUNCION-DIRECTA-INVERSA.D1          | Jueves 11-septiembre-2025 |
+| 2           | Submatriz centro esquinas    | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1        | Jueves 11-septiembre-2025 |
+| 3           | Siguiente combinación        | P3-SIGUIENTE-COMBINACION.D1            | Jueves 18-septiembre-2025 |
+| 4           | Triángulo                    | P4-TRIANGULO.D1                         | Jueves 18-septiembre-2025 |
+| 5           | Min n cotas                  | P5-MIN-n-cotas.D1                       | Jueves 2-octubre-2025     |
+| 6           | Rachas                       | P6-RACHAS.D1                            | Jueves 2-octubre-2025     |
+| 7           | Sistema no lineal            | P7-SISTEMA-NO-LINEAL.D1                | Jueves 25-septiembre-2025 |
+| 8           | Integral                     | P8-INTEGRAL-1.D1                        | Jueves 25-septiembre-2025 |
+
 
 
 - El último día del curso, **Viernes 12 Septiembre 2025**, se realizarán en clase ejercicios con valor máximo de **1.0 punto**.
