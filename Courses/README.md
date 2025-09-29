@@ -67,6 +67,7 @@
 
 ## Organización del Repositorio
 Scientific-Programming/
+
 │
 ├── Practicas/
 │ ├── Practica1/
