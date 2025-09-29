@@ -20,7 +20,7 @@ Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes*
   - [🧠 MINPACK – Resolución de sistemas no lineales](#-minpack--resolución-de-sistemas-no-lineales)
   - [∫ QUADPACK – Integración numérica adaptativa](#-quadpack--integración-numérica-adaptativa)
 - [💻 Entorno utilizado](#-entorno-utilizado)
-- [⚙️ Instalación del entorno en macOS (mi ordenador personal)](#️-instalación-del-entorno-en-macos-mi-ordenador-personal)
+- [⚙️ Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos-mi-ordenador-personal)
 - [⚖️ Aviso legal](#️-aviso-legal)
 - [🚫 Buenas prácticas generales](#-buenas-prácticas-generales)
 - [🛠 Instalación paso a paso](#-instalación-paso-a-paso)
@@ -215,15 +215,15 @@ Estas herramientas profesionales permiten abordar los problemas con algoritmos y
 
 ---
 
-## ⚙️ Instalación del entorno en macOS (mi ordenador personal)
+## ⚙️ [Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos-mi-ordenador-personal)
 
-# Guía de instalación y uso de Fortran (gfortran) en macOS con Visual Studio Code — sin utilizar Homebrew
+ Guía de instalación y uso de Fortran (gfortran) en macOS con Visual Studio Code — sin utilizar Homebrew
 
 Esta guía explica cómo instalar y utilizar **gfortran** en macOS usando **Visual Studio Code** y la extensión **Modern Fortran**, sin necesidad de Homebrew. Está diseñada para que cualquier usuario pueda configurar su entorno de desarrollo y compilar programas Fortran de manera sencilla.
 
 ---
 
-## ⚖️ Aviso legal
+### ⚖️ Aviso legal
 
 gfortran y GCC son compiladores de uso libre para Fortran 95/2003/2008/2018 y otros lenguajes como C y C++.
 Pueden descargarse desde:
@@ -236,7 +236,7 @@ Las librerías BLAS, LAPACK y Minpack son de uso libre y pueden obtenerse desde:
 
 ---
 
-## 🚫 Buenas prácticas generales
+### 🚫 Buenas prácticas generales
 
 - Evita usar **espacios en blanco** en nombres de carpetas y archivos.
 - No utilices el escritorio ni "Documentos" con espacios para compilar programas.
@@ -245,15 +245,15 @@ Las librerías BLAS, LAPACK y Minpack son de uso libre y pueden obtenerse desde:
 
 ---
 
-## 🛠 Instalación paso a paso
+### 🛠 Instalación paso a paso
 
-### 1. Visual Studio Code
+#### 1. Visual Studio Code
 
 Si aún no lo tienes instalado, descárgalo desde [VS Code](https://code.visualstudio.com/) e instálalo en tu Mac.
 
 ---
 
-### 2. Extensión Modern Fortran
+#### 2. Extensión Modern Fortran
 
 1. Abre VS Code.
 2. Ve a la pestaña **Extensiones** (icono de cuadraditos).
@@ -268,7 +268,7 @@ Esto te proporcionará:
 
 ---
 
-### 3. Instalación manual de gfortran (sin Homebrew)
+#### 3. Instalación manual de gfortran (sin Homebrew)
 
 1. Ve a [GFortran for macOS Releases](https://github.com/fxcoudert/gfortran-for-macOS/releases)
 2. Descarga el instalador correspondiente a tu procesador:
@@ -279,7 +279,7 @@ Esto te proporcionará:
 
 ---
 
-### 4. Verificación de la instalación
+#### 4. Verificación de la instalación
 
 Abre Terminal y ejecuta:
 
