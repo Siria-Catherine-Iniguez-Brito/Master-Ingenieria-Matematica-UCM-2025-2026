@@ -49,6 +49,21 @@ Exercises_Exams/
 
 ---
 
+## 🗂️ Contenido de cada carpeta
+
+Cada práctica o examen se encuentra en una carpeta individual con nombre `PracticaX` o `ExamenX`, donde **X representa el número correspondiente** (1 a 8 para prácticas, 1 y 2 para exámenes).
+
+### 📦 Archivos comunes por práctica
+
+- `PracticaX.f90` / `PracticaX.c`: Código fuente en **Fortran** o **C**  
+  *(Nota: la práctica 6 es la única realizada en C; el resto están en Fortran)*
+
+- `DatosX.dat`: Archivo de **entrada** con los datos del problema.
+
+- `SolucionX.sol`: Archivo de **salida** generado por el programa con la solución.
+
+- `PX-Nombre.D1`: Enunciado oficial completo de la práctica.
+
 ---
 
 ## 🛠️ Cómo compilar y ejecutar
@@ -107,22 +122,6 @@ Todos los exámenes están preparados para ejecutarse directamente con la extens
 
 ---
 
-## 🗂️ Contenido de cada carpeta
-
-Cada práctica o examen se encuentra en una carpeta individual con nombre `PracticaX` o `ExamenX`, donde **X representa el número correspondiente** (1 a 8 para prácticas, 1 y 2 para exámenes).
-
-### 📦 Archivos comunes por práctica
-
-- `PracticaX.f90` / `PracticaX.c`: Código fuente en **Fortran** o **C**  
-  *(Nota: la práctica 6 es la única realizada en C; el resto están en Fortran)*
-
-- `DatosX.dat`: Archivo de **entrada** con los datos del problema.
-
-- `SolucionX.sol`: Archivo de **salida** generado por el programa con la solución.
-
-- `PX-Nombre.D1`: Enunciado oficial completo de la práctica.
-
----
 
 ### 📦 Archivos comunes por examen
 
