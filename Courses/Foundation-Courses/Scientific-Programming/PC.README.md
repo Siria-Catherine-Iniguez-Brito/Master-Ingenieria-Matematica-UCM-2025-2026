@@ -1,7 +1,7 @@
 
 # 🚀  Scientific Programming 
 
-📁 Subrepositorio de la asignatura **Programación Científica** del *Máster en Ingeniería Matemática* (Universidad Complutense de Madrid).  
+📁 Este subrepositorio pertenece a la carpeta `Foundation-Courses`, dentro de `Courses`, del repositorio general del Máster en Ingeniería Matemática (UCM). Subrepositorio de la asignatura **Programación Científica** del *Máster en Ingeniería Matemática* (Universidad Complutense de Madrid).  
 Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
 
 
@@ -18,7 +18,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
 - [📊 Evaluación de Prácticas](#-evaluación-de-prácticas)  
 - [📦 Normas para la Entrega y Evaluación](#-normas-para-la-entrega-y-evaluación)  
 - [🗂️ Estructura del Repositorio](#-estructura-del-repositorio)  
-- [🛠️ Compilación y Librerías](#️-compilación-y-librerías)
+- [🖥️ Entorno utilizado](#️-Entorno-utilizado)
 
 
 
@@ -63,7 +63,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
 
 ## Prácticas del Curso 2025-26
 
-| Nº Práctica | Práctica                       | Nombre2                                | Fecha límite              |
+| Nº Práctica | Práctica                       | Nombre del enunicado                                | Fecha límite              |
 |-------------|------------------------------|----------------------------------------|---------------------------|
 | 1           | Función directa inversa      | P1-FUNCION-DIRECTA-INVERSA.D1          | Jueves 11-septiembre-2025 |
 | 2           | Submatriz centro esquinas    | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1        | Jueves 11-septiembre-2025 |
@@ -169,3 +169,12 @@ Scientific-Programming/
 └── README.md
 ```
 
+## 🖥️ Entorno utilizado
+
+Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:
+
+Sistema operativo: macOS
+
+Compilador: gfortran versión 9.0 o superior
+
+Editor utilizado: Visual Studio Code, con extensiones para soporte de Fortran y C, que facilita la escritura y depuración del código.
