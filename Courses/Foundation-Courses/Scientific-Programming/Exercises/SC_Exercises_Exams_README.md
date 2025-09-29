@@ -57,6 +57,45 @@ Exercises_Exams/
 - **Prácticas 7 y 8:**  
   Utilizan librerías científicas específicas, por lo que requieren compilación manual mediante comandos especiales. En sus carpetas correspondientes encontrarás instrucciones detalladas para compilar y ejecutar.
 
+## 🗂️ Contenido de cada carpeta
+
+Cada práctica o examen se encuentra en una carpeta individual con nombre `PracticaX` o `ExamenX`, donde **X representa el número correspondiente** (1 a 8 para prácticas, 1 y 2 para exámenes).
+
+---
+
+### 📦 Archivos comunes por práctica
+
+- `PracticaX.f90` / `PracticaX.c`: Código fuente en **Fortran** o **C**  
+  *(Nota: la práctica 6 es la única realizada en C, el resto en Fortran)*
+
+- `DatosX.dat`: Archivo de **entrada** con los datos del problema.
+
+- `SolucionX.sol`: Archivo de **salida** generado por el programa con la solución.
+
+- `PX-Nombre.D1`: Enunciado oficial completo de la práctica.
+
+---
+
+### 📦 Archivos comunes por examen
+
+- `ExamenX.f90`: Código fuente del examen (**todos en Fortran**).
+
+- `DatosEX.dat`: Archivo de **entrada** con los datos del problema.
+
+- `SolucionEX.sol`: Archivo de **salida** con la solución generada por el programa.
+
+- `EX-Nombre.D1`: Enunciado oficial completo del examen.
+
+---
+
+### 🧩 Librerías científicas (solo prácticas 7 y 8)
+
+- `minpack.f90`: Incluida en la **práctica 7**, utilizada para resolver **sistemas no lineales**.
+
+- `quadpack.f90`: Incluida en la **práctica 8**, utilizada para realizar **integración numérica**.
+
+En las carpetas de estas prácticas encontrarás instrucciones detalladas para compilar y ejecutar correctamente utilizando estas librerías.
+
 ### Exámenes (Exams)
 
 - Todos los exámenes están preparados para ejecutarse directamente con la extensión **Run Code** de Visual Studio Code, sin comandos especiales ni librerías externas.
