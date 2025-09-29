@@ -29,16 +29,17 @@
 
 ## Prácticas del Curso 2025-26
 
-| Nº Práctica | Nombre                              | Fecha límite          | Valor máximo individual (puntos) | Valor máximo conjunto (puntos) |
-|-------------|-----------------------------------|-----------------------|----------------------------------|--------------------------------|
-| 1           | Función directa inversa            | Jueves 11-septiembre-2025 | 1.0                              | 1.8 (con práctica 2)            |
-| 2           | Submatriz centro esquinas          | Jueves 11-septiembre-2025 | 1.0                              | 1.8 (con práctica 1)            |
-| 3           | Siguiente combinación              | Jueves 18-septiembre-2025 | 1.3                              | 2.4 (con práctica 4)            |
-| 4           | Triángulo                         | Jueves 18-septiembre-2025 | 1.3                              | 2.4 (con práctica 3)            |
-| 5           | Min n cotas                      | Jueves 2-octubre-2025    | 1.7                              | 3.2 (con práctica 6)            |
-| 6           | Rachas                           | Jueves 2-octubre-2025    | 1.7                              | 3.2 (con práctica 5)            |
-| 7           | Sistema no lineal                | Jueves 25-septiembre-2025 | 0.9                              | 1.6 (con práctica 8)            |
-| 8           | Integral                        | Jueves 25-septiembre-2025 | 0.9                              | 1.6 (con práctica 7)            |
+| Nº Práctica | Nombre                       | Fecha límite              |
+|-------------|------------------------------|---------------------------|
+| 1           | Función directa inversa      | Jueves 11-septiembre-2025 |
+| 2           | Submatriz centro esquinas    | Jueves 11-septiembre-2025 |
+| 3           | Siguiente combinación        | Jueves 18-septiembre-2025 |
+| 4           | Triángulo                    | Jueves 18-septiembre-2025 |
+| 5           | Min n cotas                  | Jueves 2-octubre-2025     |
+| 6           | Rachas                       | Jueves 2-octubre-2025     |
+| 7           | Sistema no lineal            | Jueves 25-septiembre-2025 |
+| 8           | Integral                     | Jueves 25-septiembre-2025 |
+
 
 - El último día del curso, **Viernes 12 Septiembre 2025**, se realizarán en clase ejercicios con valor máximo de **1.0 punto**.
 
