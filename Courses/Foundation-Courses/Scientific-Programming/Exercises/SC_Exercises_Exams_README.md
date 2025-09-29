@@ -183,25 +183,149 @@ Estas herramientas profesionales permiten abordar los problemas con algoritmos y
 
 ## ⚙️ Instalación del entorno en macOS (mi ordenador personal)
 
-1. **Instalar las herramientas de línea de comandos de Xcode:**
+# Guía de instalación y uso de Fortran (gfortran) en macOS con Visual Studio Code — sin utilizar Homebrew
+
+Esta guía explica cómo instalar y utilizar **gfortran** en macOS usando **Visual Studio Code** y la extensión **Modern Fortran**, sin necesidad de Homebrew. Está diseñada para que cualquier usuario pueda configurar su entorno de desarrollo y compilar programas Fortran de manera sencilla.
+
+---
+
+## ⚖️ Aviso legal
+
+gfortran y GCC son compiladores de uso libre para Fortran 95/2003/2008/2018 y otros lenguajes como C y C++.
+Pueden descargarse desde:
+
+- [GFortran Binaries](http://gcc.gnu.org/wiki/GFortranBinaries)
+
+Las librerías BLAS, LAPACK y Minpack son de uso libre y pueden obtenerse desde:
+
+- [Programas de ejemplo y librerías](https://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
+
+---
+
+## 🚫 Buenas prácticas generales
+
+- Evita usar **espacios en blanco** en nombres de carpetas y archivos.
+- No utilices el escritorio ni "Documentos" con espacios para compilar programas.
+- Evita usar pendrives para compilar y ejecutar programas.
+- Usa nombres de archivo simples como `programa.f90`.
+
+---
+
+## 🛠 Instalación paso a paso
+
+### 1. Visual Studio Code
+
+Si aún no lo tienes instalado, descárgalo desde [VS Code](https://code.visualstudio.com/) e instálalo en tu Mac.
+
+---
+
+### 2. Extensión Modern Fortran
+
+1. Abre VS Code.
+2. Ve a la pestaña **Extensiones** (icono de cuadraditos).
+3. Busca **Modern Fortran** y haz clic en **Instalar**.
+
+Esto te proporcionará:
+
+- Resaltado de sintaxis.
+- Autocompletado básico.
+- Reconocimiento de archivos `.f90`, `.f95`, `.f03`, etc.
+- Soporte para compilar desde la terminal integrada.
+
+---
+
+### 3. Instalación manual de gfortran (sin Homebrew)
+
+1. Ve a [GFortran for macOS Releases](https://github.com/fxcoudert/gfortran-for-macOS/releases)
+2. Descarga el instalador correspondiente a tu procesador:
+- **ARM (M1/M2/M3)** → archivo `.dmg` ARM.
+- **Intel** → archivo `.dmg` Intel.
+3. Abre el `.dmg` y sigue los pasos de instalación.
+4. Esto instalará `gfortran` en `/usr/local/bin` por defecto.
+
+---
+
+### 4. Verificación de la instalación
+
+Abre Terminal y ejecuta:
+
 ```bash
-xcode-select --install
+gfortran --version
 ```
 
-2. **Instalar Homebrew (gestor de paquetes):**
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Deberías ver algo como:
+
+```
+GNU Fortran (GCC) X.X.X
 ```
 
-3. **Instalar GCC y GFortran:**
+---
+
+## ▶️ Uso de gfortran en Visual Studio Code
+
+### 1. Programas simples (sin librerías externas)
+
+1. Crea un archivo `.f90` o `.f95` en VS Code.
+2. Usa el botón **Run ▶️** para compilar y ejecutar directamente.
+3. Ideal para programas que no requieren librerías externas.
+
+---
+
+### 2. Programas que usan librerías externas (BLAS, LAPACK, Minpack)
+
+1. Abre la **Terminal integrada** en VS Code.
+2. Compila tu programa incluyendo las librerías necesarias:
+
 ```bash
-brew install gcc
+gfortran programa.f90 -o programa -L/ruta/a/librerias -llapack -lminpack
 ```
 
-4. **Descargar e instalar Visual Studio Code:**  
-   [https://code.visualstudio.com/](https://code.visualstudio.com/)
+3. Ejecuta el programa:
 
-5. **Instalar extensiones de Fortran y C** desde el Marketplace de VSCode.
+```bash
+./programa
+```
+
+> ⚠️ Sustituye `/ruta/a/librerias` por la ruta real donde tengas las librerías.
+
+---
+
+## 📎 Opciones útiles de compilación
+
+- `-ffree-form` / `-ffixed-form` → indica formato libre o fijo.
+- `-std=f2008` → especifica estándar Fortran (f95, f2003, f2008, f2018).
+- `-Wall` → muestra advertencias sobre posibles problemas en el código.
+- `-Werror` → convierte advertencias en errores.
+- `-c` → compila sin enlazar.
+- `-o nombre` → especifica nombre del ejecutable.
+- `-I` → directorios para buscar módulos.
+- `-L` → directorios para buscar librerías externas.
+
+---
+
+## 💡 Buenas prácticas
+
+- Usa siempre **IMPLICIT NONE** para evitar errores de tipos implícitos.
+- Mantén los proyectos organizados en carpetas dedicadas a Fortran.
+- Familiarízate con las librerías que uses (BLAS, LAPACK, Minpack) y sus versiones.
+
+---
+
+## 📌 Resumen de flujo de trabajo
+
+| Tipo de programa | Cómo compilar y ejecutar |
+|----------------------------------------|-------------------------|
+| Programas simples (sin librerías) | Botón Run de VS Code ▶️ |
+| Programas con librerías externas | Terminal: `gfortran programa.f90 -o programa -llapack -lminpack` |
+
+---
+
+## 🔗 Recursos útiles
+
+- [Modern Fortran VS Code Extension](https://marketplace.visualstudio.com/items?itemName=fortran-lang.fortran)
+- [Librerías Fortran (BLAS, LAPACK, Minpack)](https://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)
+- [GFortran for macOS Releases](https://github.com/fxcoudert/gfortran-for-macOS/releases)
+
 
 ---
 
