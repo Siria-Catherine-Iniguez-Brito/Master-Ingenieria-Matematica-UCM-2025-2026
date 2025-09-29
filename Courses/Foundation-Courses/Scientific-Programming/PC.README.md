@@ -3,6 +3,7 @@
 
 📁 Subrepositorio de la asignatura **Programación Científica** del *Máster en Ingeniería Matemática* (Universidad Complutense de Madrid).  
 Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
+
 -- 
 
 ## 📑 Índice
