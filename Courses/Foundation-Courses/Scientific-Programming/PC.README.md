@@ -128,7 +128,7 @@ con valor máximo 1.0 puntos.
 ```plaintext
 Scientific-Programming/
 │
-├── Practicas/
+├── Exercises/
 │ ├── Practica1/
 │ │ ├── Practica1.f90 / Practica1.c
 │ │ ├── Datos1.dat
