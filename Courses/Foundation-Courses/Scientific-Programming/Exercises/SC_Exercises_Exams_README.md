@@ -66,6 +66,18 @@ Cada práctica o examen se encuentra en una carpeta individual con nombre `Pract
 
 ---
 
+### 📦 Archivos comunes por examen
+
+- `ExamenX.f90`: Código fuente del examen (**todos en Fortran**).
+
+- `DatosEX.dat`: Archivo de **entrada** con los datos del problema.
+
+- `SolucionEX.sol`: Archivo de **salida** generado por el programa con la solución.
+
+- `EX-Nombre.D1`: Enunciado oficial completo del examen.
+
+---
+
 ## 🛠️ Cómo compilar y ejecutar
 
 ### ✅ Prácticas 1 a 6
@@ -119,19 +131,6 @@ Esto generará el archivo de salida `Solucion8.sol`.
 ### ✅ Exámenes (Exams)
 
 Todos los exámenes están preparados para ejecutarse directamente con la extensión **Run Code** de Visual Studio Code, sin comandos especiales ni librerías externas.
-
----
-
-
-### 📦 Archivos comunes por examen
-
-- `ExamenX.f90`: Código fuente del examen (**todos en Fortran**).
-
-- `DatosEX.dat`: Archivo de **entrada** con los datos del problema.
-
-- `SolucionEX.sol`: Archivo de **salida** generado por el programa con la solución.
-
-- `EX-Nombre.D1`: Enunciado oficial completo del examen.
 
 ---
 
