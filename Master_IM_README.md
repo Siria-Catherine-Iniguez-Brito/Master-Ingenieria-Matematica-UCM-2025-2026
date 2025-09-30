@@ -140,8 +140,14 @@ Master-Ingenieria-Matematica-UCM/
 │   │   └── Scientific-Programming/
 │   │       ├── SP_README.md
 │   │       ├── Theory/
-│   │       ├── Exercises/
-│   │       └── Exams/
+│   │       └── Exercices_Exams/
+│   │           ├──Practica1
+│   │           │  └── …
+│   │           ├──Practica8
+│   │           │  └── …
+│   │           ├──Examen1
+│   │           ├──Examen1
+│   │           └──SP_EE_README.md
 │   │
 │   ├── Core-Curriculum/
 │   │   ├──CC_README.md
