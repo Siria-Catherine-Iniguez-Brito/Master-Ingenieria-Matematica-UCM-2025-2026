@@ -27,7 +27,7 @@ Courses/
 ├── Courses_README.md
 │
 ├── Foundation-Courses/              # Module 1: Leveling courses
-│   ├── FC_README.md                 # Overview of foundation courses [Foundation-Courses/FC_README.md](./Foundation-Courses/FC_README.md)
+│   ├── FC_README.md                 # Overview of foundation courses 
 │   │
 │   └── Scientific-Programming/      
 │       └── …
@@ -83,6 +83,7 @@ This structure provides a clear and progressive access to the content, allowing 
 ---
 
 ## 🧩 Foundation-Courses (`Foundation-Courses/`)
+↳ Overview: [FC_README.md](./Foundation-Courses/FC_README.md)
 
 This block includes leveling (or bridging) courses taught at the beginning of the master's program, intended to provide foundational knowledge to students coming from diverse academic backgrounds. The requirement to take these courses depends on the student's prior academic profile.
 
@@ -107,6 +108,7 @@ The following foundation courses were offered by the program but were not requir
 ---
 
 ## 📚 Core-Curriculum (`Core-Curriculum/`)
+↳ Overview: [CC_README.md](./Core-Curriculum/CC_README.md)
 
 This folder contains the core (compulsory) courses of the master's program, corresponding to *Module 1: Core Curriculum*, with a total of **39 ECTS**, covering areas such as:
 
@@ -129,6 +131,7 @@ Each course will progressively include:
 ---
 
 ## 🧪 Specialization Courses (`Specialization/`)
+↳ Overview: [S_README.md](./Specialization/S_README.md)
 
 These are elective courses that make up *Module 2: Specialization*, accounting for a total of **12 ECTS**. They allow students to tailor their academic profile toward specific focus areas such as:
 
