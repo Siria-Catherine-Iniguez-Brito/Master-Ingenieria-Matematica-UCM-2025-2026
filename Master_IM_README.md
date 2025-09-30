@@ -162,7 +162,7 @@ Master-Ingenieria-Matematica-UCM/
 │   │           └──SP_EE_README.md
 │   │
 │   ├── Core-Curriculum/
-│   │   ├──CC_README.md
+│   │   ├── CC_README.md
 │   │   ├── Applied-Statistics-and-Data-Mining/
 │   │   │   ├── README.md
 │   │   │   ├── Theory/
