@@ -4,6 +4,8 @@ This folder contains the materials corresponding to the courses of the **Master'
 
 The organization reflects the different academic blocks of the master's program, grouping the courses by their nature: **foundation, compulsory, or specialization**.
 
+> 📁 **Note**: `Courses/` is a subdirectory of the main repository for the *Master’s in Mathematical Engineering*. It contains only the academic content related to the coursework. Other modules like the Master’s Thesis and the Industry Internship are organized in separate top-level folders.
+
 ---
 
 ## 🧱 General structure of the Master's program
@@ -16,8 +18,6 @@ The official curriculum is divided into the following modules (for full details,
 4. **Industry Internship** *(Prácticas externas)*  
 5. **Master's Thesis** *(Trabajo Fin de Máster (TFM))*  
 
-> 📌 *Note: The courses corresponding to modules 4 and 5 —*Industry Internship* and *Master’s Thesis*— **are not included within this folder**, but are instead organized in their own separate directories, at the same hierarchical level as `Courses/`, for better structure and direct access.*
-
 ---
 
 ## 🗂️ Structure of this folder
@@ -26,14 +26,14 @@ The official curriculum is divided into the following modules (for full details,
 Courses/
 ├── Courses_README.md
 │
-├── Foundation-Courses/
-│   ├── FC_README.md
+├── Foundation-Courses/              # Module 1: Leveling courses
+│   ├── FC_README.md                 # Overview of foundation courses
 │   │
-│   └── Scientific-Programming/      # Complementos de formación (nivelación)
+│   └── Scientific-Programming/      
 │       └── …
 │
-├── Core-Curriculum/                 # Asignaturas obligatorias del máster
-│   ├── CC_README.md
+├── Core-Curriculum/                 # Module 2: Core subjects
+│   ├── CC_README.md                 # Overview of core curriculum
 │   │
 │   ├── Applied-Statistics-and-Data-Mining/
 │   │   └── …
@@ -50,8 +50,8 @@ Courses/
 │   └── Fundamentals-of-Financial-Mathematics/
 │       └── …
 │
-└── Specialization/                 # Cursos optativos de especialización
-    ├── S_README.md
+└── Specialization/                   # Module 3: Elective courses
+    ├── S_README.md                   # Overview of specialization options
     │
     ├── Stochastic-Models-in-Logistics/
     │   └── …
@@ -64,8 +64,17 @@ Courses/
 ```
 ## 🔍 How to navigate this repository?
 
-Each course is organized into its own folder, which includes subdirectories for different types of materials:
+The repository is structured to mirror the official academic organization of the Master's program. It is divided into three main folders, each corresponding to a different type of course:
 
+- `Foundation-Courses/` → Preparatory/leveling courses (Module 1)
+- `Core-Curriculum/` → Mandatory/core subjects (Module 2)
+- `Specialization/` → Elective specialization subjects (Module 3)
+
+Each of these main folders contains:
+
+1. A dedicated `README.md` file that provides an overview of the module and explains the general structure and purpose of the included courses.
+2. Subdirectories, each named after a specific course, which contain detailed and organized materials related to that subject.
+Each course is organized into its own folder, which includes subdirectories for different types of materials:
 - **Theory** → Lecture notes, summaries, class PDFs, etc.  
 - **Practicals & Exams** → Solved problems, practice sheets, mock exams or past papers.
 
