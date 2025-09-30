@@ -1,4 +1,4 @@
-# 🧱 Cursos Complementarios  
+# 🧩 Cursos Complementarios  
 ### Máster en Ingeniería Matemática – Universidad Complutense de Madrid
 
 Esta carpeta contiene información relativa a los **cursos complementarios** (también denominados de *formación previa*) ofertados dentro del plan de estudios del **Máster en Ingeniería Matemática** de la Universidad Complutense de Madrid (UCM).
