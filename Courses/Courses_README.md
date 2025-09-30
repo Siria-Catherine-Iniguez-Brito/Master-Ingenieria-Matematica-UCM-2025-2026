@@ -34,20 +34,38 @@ Courses/
 ├── Core-Curriculum/                 # Asignaturas obligatorias del máster
 │   ├── CC_README.md
 │   ├── Applied-Statistics-and-Data-Mining/
+│   │   └── …
 │   ├── Advanced-Numerical-Methods/
+│   │   └── …
 │   ├── Modeling-and-Simulation-in-Dynamic-Systems/
+│   │   └── …
 │   ├── Deterministic-Models-in-Logistics/
+│   │   └── …
 │   ├── Advanced-Optimization-Techniques/
+│   │   └── …
 │   ├── Databases/
+│   │   └── …
 │   └── Fundamentals-of-Financial-Mathematics/
+│       └── …
 │
 └── Specialization/                 # Cursos optativos de especialización
     ├── S_README.md
     ├── Stochastic-Models-in-Logistics/
+    │   └── …
     ├── Prediction-Techniques/
+    │   └── …
     ├── Simulation-Techniques/
+    │   └── …
     └── Introduction-to-Financial-Risk-Management/
+        └── …
 ```
+
+Cada carpeta de asignatura contiene a su vez una estructura interna organizada por tipo de material. Por ejemplo, dentro de cada asignatura podrás encontrar subcarpetas dedicadas a:
+
+- **Teoría** (apuntes, resúmenes, esquemas)  
+- **Prácticas y exámenes** (exámenes reales o simulacros, ejercicios propuestos)  
+
+Esta organización facilita un acceso estructurado y progresivo a los contenidos, permitiendo consultar los recursos por bloques temáticos o actividades docentes.
 
 ---
 
