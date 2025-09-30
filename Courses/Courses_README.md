@@ -10,11 +10,13 @@ La organización refleja los distintos bloques formativos del máster, agrupando
 
 El programa oficial del máster se divide en los siguientes módulos (consultar detalles en la [guía docente oficial](https://www.ucm.es/estudios/master-ingenieriamatematica-plan)):
 
-1. **Complementos de formación** (Foundation Courses)  
-2. **Contenidos fundamentales** (Core Curriculum)  
-3. **Especialización** (Specialization)  
-4. **Prácticas externas**  
-5. **Trabajo Fin de Máster (TFM)**
+1. **Complementos de formación** *(Foundation Courses)*  
+2. **Contenidos fundamentales** *(Core Curriculum)*  
+3. **Especialización** *(Specialization)*  
+4. **Prácticas externas** *(Industry Internship)*  
+5. **Trabajo Fin de Máster (TFM)** *(Master's Thesis)*  
+
+> 📌 *Nota: Las asignaturas correspondientes a los módulos 4 y 5 —*Prácticas Externas* y *Trabajo Fin de Máster (TFM)*— **no se encuentran dentro de esta carpeta**, sino que están organizadas en sus propios directorios independientes, al mismo nivel jerárquico que `Courses/`, para una mejor estructuración y acceso directo.*
 
 ---
 
@@ -23,14 +25,28 @@ El programa oficial del máster se divide en los siguientes módulos (consultar 
 ```plaintext
 Courses/
 ├── Courses_README.md
-├── Foundation-Courses/       # Complementos de formación (cursos nivelación)
-│   └── Programacion_cientifica/
 │
-├── Core-Curriculum/          # Asignaturas troncales obligatorias del máster
-│   └── [Asignaturas obligatorias...]
+├── Foundation-Courses/
+│   ├── FC_README.md
+│   └── Scientific-Programming/      # Complementos de formación (nivelación)
+│       └── …
 │
-└── Specialization/           # Cursos optativos de especialización
-    └── [Asignaturas optativas...]
+├── Core-Curriculum/                 # Asignaturas obligatorias del máster
+│   ├── CC_README.md
+│   ├── Applied-Statistics-and-Data-Mining/
+│   ├── Advanced-Numerical-Methods/
+│   ├── Modeling-and-Simulation-in-Dynamic-Systems/
+│   ├── Deterministic-Models-in-Logistics/
+│   ├── Advanced-Optimization-Techniques/
+│   ├── Databases/
+│   └── Fundamentals-of-Financial-Mathematics/
+│
+└── Specialization/                 # Cursos optativos de especialización
+    ├── S_README.md
+    ├── Stochastic-Models-in-Logistics/
+    ├── Prediction-Techniques/
+    ├── Simulation-Techniques/
+    └── Introduction-to-Financial-Risk-Management/
 ```
 
 ---
@@ -46,21 +62,22 @@ En mi caso, se me asignó el siguiente complemento de formación:
 - **Programación Científica** *(3 ECTS)*  
   ↳ Ver materiales en: `Foundation-Courses/Programacion_cientifica/`
 
-### ❌ Cursos no requeridos (no incluidos en este repositorio)
+### ❌ Cursos no cursados (no incluidos en este repositorio)
 
-Los siguientes cursos fueron ofertados como posibles complementos, pero no fueron requeridos en mi caso:
+Los siguientes cursos complementarios fueron ofertados por el máster, pero no fueron requeridos en mi caso:
 
+- Estadística  
 - Álgebra Lineal y Geometría  
-- Cálculo  
-- Ecuaciones Diferenciales  
+- Optimización  
 
-> 📌 *Nota: El número de créditos ECTS cursados puede superar los 60 habituales del máster si se incluyen estos complementos formativos.*
+> 📝 *Estos cursos no se incluyen en el repositorio porque no fueron cursados en función de mi perfil académico.*  
+> 📌 *Nota: La carga lectiva total del máster puede superar los 60 ECTS habituales cuando se incluyen estos complementos formativos.*
 
 ---
 
 ## 📚 Cursos obligatorios (`Core-Curriculum/`)
 
-Esta carpeta contiene las asignaturas troncales del máster, correspondientes al módulo de contenidos fundamentales (*Módulo 1*), con un total de **39 ECTS** distribuidos entre áreas como:
+Esta carpeta contiene las asignaturas troncales del máster, correspondientes al *Módulo 1: Contenidos Fundamentales*, con un total de **39 ECTS**, distribuidos entre áreas como:
 
 - Estadística aplicada y minería de datos  
 - Métodos numéricos avanzados  
@@ -69,12 +86,12 @@ Esta carpeta contiene las asignaturas troncales del máster, correspondientes al
 - Bases de datos  
 - Matemática financiera  
 
-Cada asignatura incluirá, progresivamente:
+Cada asignatura incluirá progresivamente:
 
 - Apuntes teóricos  
 - Prácticas y ejercicios  
-- Exámenes y evaluaciones  
-- Código fuente y simulaciones
+- Evaluaciones y exámenes  
+- Código fuente, notebooks y simulaciones
 
 > 🏗️ *Contenido en desarrollo. Se añadirá a medida que avance el curso académico.*
 
@@ -82,14 +99,14 @@ Cada asignatura incluirá, progresivamente:
 
 ## 🧪 Cursos de especialización (`Specialization/`)
 
-Asignaturas optativas que conforman el módulo de especialización del máster (*Módulo 2*), con un total de **12 ECTS**. Estas materias permiten orientar el perfil del estudiante hacia áreas específicas como:
+Asignaturas optativas que conforman el *Módulo 2: Especialización*, con un total de **12 ECTS**. Estas materias permiten enfocar el perfil del estudiante hacia áreas específicas como:
 
 - Predicción y series temporales  
 - Simulación estocástica  
 - Gestión de riesgos financieros  
-- Modelos probabilísticos aplicados  
+- Modelos probabilísticos y estocásticos en logística  
 
-> El contenido de estas asignaturas se añadirá conforme sean cursadas.
+> 📥 *Los materiales se incorporarán conforme sean cursados durante el año académico.*
 
 ---
 
@@ -97,11 +114,6 @@ Asignaturas optativas que conforman el módulo de especialización del máster (
 
 Para más información sobre el plan de estudios, asignaturas y guías docentes, puedes consultar:
 
-🔗 [Guía docente oficial – Máster en Ingeniería Matemática (UCM)](https://www.ucm.es/estudios/master-ingenieriamatematica-plan)  
-📄 [PDF informativo del máster](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)
-
----
-
-Este repositorio tiene como objetivo servir como archivo académico estructurado y como portafolio técnico que documenta el progreso en el máster, facilitando tanto el estudio personal como la presentación profesional del trabajo realizado.
-
+- 🔗 [Guía docente oficial – Máster en Ingeniería Matemática (UCM)](https://www.ucm.es/estudios/master-ingenieriamatematica-plan)  
+- 📄 [PDF informativo del máster (Folleto oficial)](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)
 
