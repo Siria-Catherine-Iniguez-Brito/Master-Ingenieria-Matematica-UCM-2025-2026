@@ -26,6 +26,7 @@ La carpeta `Cursos_obligatorios/` incluirá prácticas, exámenes, código y otr
 
 > 🏗️ *En construcción: el contenido se completará a medida que avance el curso académico.*
 
+```
 ---
 
 # 🧩 Cursos complementarios
