@@ -16,7 +16,7 @@ De acuerdo con la [guía docente oficial del máster](https://www.ucm.es/estudio
 
 ## ✅ Curso cursado: Programación Científica
 
-Esta es la **única asignatura complementaria** cursada en mi caso, y se encuentra documentada en la subcarpeta correspondiente (`Programacion_cientifica/`).
+Esta es la **única asignatura complementaria** cursada en mi caso, y se encuentra documentada en la subcarpeta correspondiente (`Scientific Programming/`).
 
 Dicha carpeta incluye:
 
@@ -27,7 +27,7 @@ Dicha carpeta incluye:
 - Documentación técnica sobre el entorno de desarrollo, compilación y ejecución
 - Enunciados oficiales de cada ejercicio
 
-> 📌 Para información técnica detallada, consultar el `README.md` incluido en la carpeta `Programacion_cientifica/`.
+> 📌 Para información técnica detallada, consultar el `SP_README.md` incluido en la carpeta `Scientific Programming/`.
 
 ---
 
