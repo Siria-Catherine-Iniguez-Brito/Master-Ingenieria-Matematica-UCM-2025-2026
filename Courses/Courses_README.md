@@ -1,57 +1,109 @@
+# 📂 Courses
 
-# 📂 Courses  
 ### Máster en Ingeniería Matemática – Universidad Complutense de Madrid
 
-Esta carpeta contiene materiales correspondientes a las asignaturas del **Máster en Ingeniería Matemática** de la Universidad Complutense de Madrid (UCM), organizadas según la estructura académica del programa.
+Esta carpeta contiene los materiales correspondientes a las asignaturas del **Máster en Ingeniería Matemática** de la Universidad Complutense de Madrid (UCM), organizados conforme a la estructura académica oficial del plan de estudios.
 
-El máster se estructura en dos bloques de formación:
-
-- 📘 **Cursos obligatorios**  
-- 🧩 **Cursos complementarios** (*formación previa para estudiantes con perfiles de acceso diversos*)
+La organización refleja los distintos bloques formativos del máster, agrupando las asignaturas en función de su naturaleza: **complementaria, obligatoria o de especialización**.
 
 ---
 
-## 🗂️ Estructura de la carpeta
+## 🧱 Estructura general del máster
+
+El programa oficial del máster se divide en los siguientes módulos (consultar detalles en la [guía docente oficial](https://www.ucm.es/estudios/master-ingenieriamatematica-plan)):
+
+1. **Complementos de formación** (Foundation Courses)  
+2. **Contenidos fundamentales** (Core Curriculum)  
+3. **Especialización** (Specialization)  
+4. **Prácticas externas**  
+5. **Trabajo Fin de Máster (TFM)**
+
+---
+
+## 🗂️ Estructura de esta carpeta
 
 ```plaintext
 Courses/
 │
-├── Cursos_obligatorios/       # Asignaturas troncales del máster
+├── Foundation-Courses/       # Complementos de formación (cursos nivelación)
+│   └── Programacion_cientifica/
 │
-└── Cursos_complementarios/    # Cursos de nivelación (formación previa)
-
-# 📘 Cursos obligatorios
-
-La carpeta `Cursos_obligatorios/` incluirá prácticas, exámenes, código y otros recursos correspondientes a las asignaturas troncales del máster, conforme se vayan cursando.
-
-> 🏗️ *En construcción: el contenido se completará a medida que avance el curso académico.*
-
+├── Core-Curriculum/          # Asignaturas troncales obligatorias del máster
+│   └── [Asignaturas obligatorias...]
+│
+└── Specialization/           # Cursos optativos de especialización
+    └── [Asignaturas optativas...]
 ```
+
 ---
 
-# 🧩 Cursos complementarios
+## 🧩 Complementos de formación (`Foundation-Courses/`)
 
-La carpeta `Cursos_complementarios/` contiene los materiales de los cursos de nivelación ofrecidos al inicio del máster. Estos cursos están destinados a proporcionar formación adicional a estudiantes que lo necesiten, en función de su titulación previa.
+Este bloque incluye cursos de nivelación impartidos al inicio del máster, destinados a proporcionar conocimientos previos a estudiantes procedentes de titulaciones diversas. Su realización depende del perfil académico de ingreso.
 
-## ✅ Curso realizado
+### ✅ Curso cursado
 
-He cursado el siguiente curso complementario:
+En mi caso, se me asignó el siguiente complemento de formación:
 
-- **Programación Científica**  
-  ↳ Documentación disponible en: `Cursos_complementarios/Programacion_cientifica/`
+- **Programación Científica** *(3 ECTS)*  
+  ↳ Ver materiales en: `Foundation-Courses/Programacion_cientifica/`
 
-## ❌ Cursos no requeridos (no incluidos)
+### ❌ Cursos no requeridos (no incluidos en este repositorio)
 
-Los siguientes cursos complementarios fueron ofertados por el máster, pero no fueron requeridos en mi caso:
+Los siguientes cursos fueron ofertados como posibles complementos, pero no fueron requeridos en mi caso:
 
 - Álgebra Lineal y Geometría  
 - Cálculo  
 - Ecuaciones Diferenciales  
 
+> 📌 *Nota: El número de créditos ECTS cursados puede superar los 60 habituales del máster si se incluyen estos complementos formativos.*
+
 ---
 
-## 📎 Referencia oficial
+## 📘 Cursos obligatorios (`Core-Curriculum/`)
 
-Para más información sobre los cursos complementarios y la estructura general del máster, puede consultarse la guía docente oficial en el siguiente enlace:
+Esta carpeta contiene las asignaturas troncales del máster, correspondientes al módulo de contenidos fundamentales (*Módulo 1*), con un total de **39 ECTS** distribuidos entre áreas como:
 
-🔗 [Guía docente oficial – Máster en Ingeniería Matemática (UCM)](https://www.ucm.es/estudios/master-ingenieriamatematica-plan)
+- Estadística aplicada y minería de datos  
+- Métodos numéricos avanzados  
+- Modelización y simulación en sistemas dinámicos  
+- Optimización y logística  
+- Bases de datos  
+- Matemática financiera  
+
+Cada asignatura incluirá, progresivamente:
+
+- Apuntes teóricos  
+- Prácticas y ejercicios  
+- Exámenes y evaluaciones  
+- Código fuente y simulaciones
+
+> 🏗️ *Contenido en desarrollo. Se añadirá a medida que avance el curso académico.*
+
+---
+
+## 🧪 Cursos de especialización (`Specialization/`)
+
+Asignaturas optativas que conforman el módulo de especialización del máster (*Módulo 2*), con un total de **12 ECTS**. Estas materias permiten orientar el perfil del estudiante hacia áreas específicas como:
+
+- Predicción y series temporales  
+- Simulación estocástica  
+- Gestión de riesgos financieros  
+- Modelos probabilísticos aplicados  
+
+> El contenido de estas asignaturas se añadirá conforme sean cursadas.
+
+---
+
+## 📎 Referencias oficiales
+
+Para más información sobre el plan de estudios, asignaturas y guías docentes, puedes consultar:
+
+🔗 [Guía docente oficial – Máster en Ingeniería Matemática (UCM)](https://www.ucm.es/estudios/master-ingenieriamatematica-plan)  
+📄 [PDF informativo del máster](https://www.ucm.es/data/cont/docs/titulaciones/104.pdf)
+
+---
+
+Este repositorio tiene como objetivo servir como archivo académico estructurado y como portafolio técnico que documenta el progreso en el máster, facilitando tanto el estudio personal como la presentación profesional del trabajo realizado.
+
+
