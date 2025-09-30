@@ -128,46 +128,44 @@ con valor máximo 1.0 puntos.
 
 ```plaintext
 Scientific-Programming/
-│
+├── SP_README.md
 ├── Exercises_Exams/
-│ ├── SC_Exercises_Exams_README.md/
-│ ├── Practica1/
-│ │ ├── Practica1.f90 / Practica1.c
-│ │ ├── Datos1.dat
-│ │ ├── Solucion1.sol
-│ │ └── P1-FUNCION-DIRECTA-INVERSA.D1
-│ ├── Practica2/
-│ │ └── ...
-│ ├── Practica3/
-│ │ └── ...
-│ ├── Practica4/
-│ │ └── ...
-│ ├── Practica5/
-│ │ └── ...
-│ ├── Practica6/
-│ │ └── ...
-│ ├── Practica7/
-│ │ └── ...
-│ └── Practica8/
-│ │ ├── Practica8.f90 / Practica1.c
-│ │ ├── Datos8.dat
-│ │ ├── Solucion8.sol
-│ │ └── P8-INTEGRAL-1.D1
-│ ├── Examen1/
-│ │ ├── Examen1.f90 
-│ │ ├── DatosE1.dat
-│ │ ├── SolucionE1.sol
-│ │ └── E1-SUBMATRIZ-ABSMIN.D1
-│ ├── Examen2/
-│ │ ├── Examen2.f90 
-│ │ ├── DatosE2.dat
-│ │ ├── SolucionE2.sol
-│ │ └── E2-ECUACION.D1
-│
-├── Teoria/
-│ └── Material_teorico.pdf (u otros recursos)
-│
-└── README.md
+│   ├── SP_EE_README.md/
+│   ├── Practica1/
+│   │   ├── Practica1.f90 / Practica1.c
+│   │   ├── Datos1.dat
+│   │   ├── Solucion1.sol
+│   │   └── P1-FUNCION-DIRECTA-INVERSA.D1
+│   ├── Practica2/
+│   │   └── ...
+│   ├── Practica3/
+│   │   └── ...
+│   ├── Practica4/
+│   │   └── ...
+│   ├── Practica5/
+│   │   └── ...
+│   ├── Practica6/
+│   │   └── ...
+│   ├── Practica7/
+│   │   └── ...
+│   └── Practica8/
+│   │   ├── Practica8.f90 / Practica1.c
+│   │   ├── Datos8.dat
+│   │   ├── Solucion8.sol
+│   │   └── P8-INTEGRAL-1.D1
+│   ├── Examen1/
+│   │   ├── Examen1.f90 
+│   │   ├── DatosE1.dat
+│   │   ├── SolucionE1.sol
+│   │   └── E1-SUBMATRIZ-ABSMIN.D1
+│   └── Examen2/
+│       ├── Examen2.f90 
+│       ├── DatosE2.dat
+│       ├── SolucionE2.sol
+│       └── E2-ECUACION.D1
+└──Teoria/
+    └── Material_teorico.pdf (u otros recursos)
+
 ```
 
 ## 🖥️ Entorno utilizado
