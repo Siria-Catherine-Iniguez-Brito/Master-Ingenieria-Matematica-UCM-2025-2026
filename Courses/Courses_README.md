@@ -1,7 +1,5 @@
 # 📂 Courses
 
-### Máster en Ingeniería Matemática – Universidad Complutense de Madrid
-
 Esta carpeta contiene los materiales correspondientes a las asignaturas del **Máster en Ingeniería Matemática** de la Universidad Complutense de Madrid (UCM), organizados conforme a la estructura académica oficial del plan de estudios.
 
 La organización refleja los distintos bloques formativos del máster, agrupando las asignaturas en función de su naturaleza: **complementaria, obligatoria o de especialización**.
