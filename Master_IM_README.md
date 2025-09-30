@@ -134,14 +134,17 @@ Master-Ingenieria-Matematica-UCM/
 │
 ├── README.md                           # Main Repository Overview
 ├── Courses/                            # Folder Containing All Courses
+│   ├── Courses_README.md
 │   ├── Foundation-Courses/
+│   │   ├── FC_README.md
 │   │   └── Scientific-Programming/
-│   │       ├── README.md
+│   │       ├── SP_README.md
 │   │       ├── Theory/
 │   │       ├── Exercises/
 │   │       └── Exams/
 │   │
 │   ├── Core-Curriculum/
+│   │   ├──CC_README.md
 │   │   ├── Applied-Statistics-and-Data-Mining/
 │   │   │   ├── README.md
 │   │   │   ├── Theory/
