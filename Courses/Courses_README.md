@@ -92,7 +92,7 @@ This block includes leveling (or bridging) courses taught at the beginning of th
 In my case, I was assigned the following foundation course:
 
 - **Scientific Programming** *(3 ECTS)*  
-  ↳ See materials in: `Foundation-Courses/Programacion_cientifica/`
+  ↳ See materials in: `Foundation-Courses/Scientific-Programming/`
 
 ### ❌ Courses not taken (not included in this repository)
 
