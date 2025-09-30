@@ -22,7 +22,7 @@ El programa oficial del máster se divide en los siguientes módulos (consultar 
 
 ```plaintext
 Courses/
-│
+├── Courses_README.md
 ├── Foundation-Courses/       # Complementos de formación (cursos nivelación)
 │   └── Programacion_cientifica/
 │
