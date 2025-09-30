@@ -133,15 +133,22 @@ Useful links from the official MSc program site:
 Master-Ingenieria-Matematica-UCM/
 │
 ├── Mater_IM_README.md                           # Main Repository Overview
+│
 ├── Courses/                            # Folder Containing All Courses
 │   ├── Courses_README.md
+│   │
 │   ├── Foundation-Courses/
 │   │   ├── FC_README.md
+│   │   │
 │   │   └── Scientific-Programming/
 │   │       ├── SP_README.md
+│   │       │   
 │   │       ├── Theory/
+│   │       │   
 │   │       └── Exercices_Exams/
-│   │           ├──Practica1
+│   │           ├── SP_EE_README.md
+│   │           │ 
+│   │           ├── Practica1
 │   │           │   └── …
 │   │           ├── Practica3/
 │   │           │   └── ...
@@ -157,27 +164,33 @@ Master-Ingenieria-Matematica-UCM/
 │   │           │   └── …
 │   │           ├──Examen1
 │   │           │   └── …
-│   │           ├──Examen1
-│   │           │   └── …
-│   │           └──SP_EE_README.md
+│   │           └──Examen1
+│   │               └── …
 │   │
 │   ├── Core-Curriculum/
 │   │   ├── CC_README.md
+│   │   │ 
 │   │   ├── Applied-Statistics-and-Data-Mining/
 │   │   │   ├── README.md
 │   │   │   ├── Theory/
 │   │   │   ├── Exercises/
 │   │   │   └── Exams/
+│   │   │ 
 │   │   ├── Advanced-Numerical-Methods/
 │   │   │   └── …
+│   │   │ 
 │   │   ├── Modeling-and-Simulation-in-Dynamic-Systems/
 │   │   │   └── …
+│   │   │ 
 │   │   ├── Deterministic-Models-in-Logistics/
 │   │   │   └── …
+│   │   │ 
 │   │   ├── Advanced-Optimization-Techniques/
 │   │   │   └── …
+│   │   │ 
 │   │   ├── Databases/
 │   │   │   └── …
+│   │   │ 
 │   │   └── Fundamentals-of-Financial-Mathematics/
 │   │       ├── README.md
 │   │       ├── Theory/
@@ -187,10 +200,13 @@ Master-Ingenieria-Matematica-UCM/
 │   └── Specialization/
 │       ├── Stochastic-Models-in-Logistics/
 │       │   └── …
+│       │ 
 │       ├── Prediction-Techniques/
 │       │   └── …
+│       │ 
 │       ├── Simulation-Techniques/
 │       │   └── …
+│       │ 
 │       └── Introduction-to-Financial-Risk-Management/
 │           ├── README.md
 │           ├── Theory/
@@ -199,11 +215,14 @@ Master-Ingenieria-Matematica-UCM/
 │
 ├── Master's-Thesis/
 │   ├── README.md
+│   │ 
 │   ├── Modeling-Week/
+│   │ 
 │   └── Project/
 │
 ├── Industry-Internship/
 │   ├── README.md
+│   │ 
 │   ├── Deliverables/
 │   └── Code-or-Data/
 │
