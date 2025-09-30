@@ -27,7 +27,7 @@ Courses/
 ├── Courses_README.md
 │
 ├── Foundation-Courses/              # Module 1: Leveling courses
-│   ├── FC_README.md                 # Overview of foundation courses
+│   ├── FC_README.md                 # Overview of foundation courses (./Foundation-Courses/FC_README.md)
 │   │
 │   └── Scientific-Programming/      
 │       └── …
