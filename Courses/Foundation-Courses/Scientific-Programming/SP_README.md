@@ -105,7 +105,7 @@ con valor máximo 1.0 puntos.
 
 📤 **Envío institucional:**
 
-> **Note:** Las prácticas deben enviarse al profesor responsable de cada lenguaje (Fortran o C) utilizando los canales indicados en el aula virtual o guía docente oficial.
+> 📌 **Note:** Las prácticas deben enviarse al profesor responsable de cada lenguaje (Fortran o C) utilizando los canales indicados en el aula virtual o guía docente oficial.
 
 ---
 
