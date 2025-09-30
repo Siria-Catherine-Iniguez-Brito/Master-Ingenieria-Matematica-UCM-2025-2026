@@ -58,7 +58,7 @@ Los siguientes cursos fueron ofertados como posibles complementos, pero no fuero
 
 ---
 
-## 📘 Cursos obligatorios (`Core-Curriculum/`)
+## 📚 Cursos obligatorios (`Core-Curriculum/`)
 
 Esta carpeta contiene las asignaturas troncales del máster, correspondientes al módulo de contenidos fundamentales (*Módulo 1*), con un total de **39 ECTS** distribuidos entre áreas como:
 
