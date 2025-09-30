@@ -45,7 +45,7 @@ Stay tuned for updates and results that demonstrate practical application of the
 - [🚀 Featured Projects (Coming Soon)](#-featured-projects-coming-soon)
 - [🎯 Target Audience](#-target-audience)
 - [🎓 MSc Program Structure](#-msc-program-structure)
-  - [🧱 1. Foundation Courses (Complementos de Formación)](#-1-foundation-courses-complementos-de-formación)
+  - [🧩 1. Foundation Courses (Complementos de Formación)](#-1-foundation-courses-complementos-de-formación)
   - [📚 2. Core Curriculum (Módulo 1: Contenidos Fundamentales)](#-2-core-curriculum-módulo-1-contenidos-fundamentales)
   - [🧪 3. Specialization (Módulo 2: Especialización)](#-3-specialization-módulo-2-especialización)
   - [🏢 4. Industry Internship (Prácticas Externas)](#-4-industry-internship-prácticas-externas)
@@ -71,7 +71,7 @@ Stay tuned for updates and results that demonstrate practical application of the
 
 The MSc in Mathematical Engineering at Universidad Complutense de Madrid is structured into five main components, following the official study plan ([UCM 2025–26](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)):
 
-### 🧱 1. Foundation Courses *(Complementos de Formación)*  
+### 🧩 1. Foundation Courses *(Complementos de Formación)*  
 **Up to 12 ECTS** — Assigned based on the student’s academic background.  
 In my case:
 
