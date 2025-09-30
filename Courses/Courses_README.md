@@ -28,11 +28,13 @@ Courses/
 │
 ├── Foundation-Courses/
 │   ├── FC_README.md
+│   │
 │   └── Scientific-Programming/      # Complementos de formación (nivelación)
 │       └── …
 │
 ├── Core-Curriculum/                 # Asignaturas obligatorias del máster
 │   ├── CC_README.md
+│   │
 │   ├── Applied-Statistics-and-Data-Mining/
 │   │   └── …
 │   ├── Advanced-Numerical-Methods/
@@ -50,6 +52,7 @@ Courses/
 │
 └── Specialization/                 # Cursos optativos de especialización
     ├── S_README.md
+    │
     ├── Stochastic-Models-in-Logistics/
     │   └── …
     ├── Prediction-Techniques/
