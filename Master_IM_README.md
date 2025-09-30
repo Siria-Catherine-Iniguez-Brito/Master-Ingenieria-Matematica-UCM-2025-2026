@@ -132,7 +132,7 @@ Useful links from the official MSc program site:
 ```plaintext
 Master-Ingenieria-Matematica-UCM/
 │
-├── README.md                           # Main Repository Overview
+├── Mater_IM_README.md                           # Main Repository Overview
 ├── Courses/                            # Folder Containing All Courses
 │   ├── Courses_README.md
 │   ├── Foundation-Courses/
