@@ -148,8 +148,9 @@ Master-Ingenieria-Matematica-UCM/
 │   │       └── Exercices_Exams/
 │   │           ├── SP_EE_README.md
 │   │           │ 
-│   │           ├── Practica1
-│   │           │   └── …
+│   │           ├── Practica1/
+│   │           │   ├── Practica1.f90
+│   │           │   ├──   
 │   │           ├── Practica3/
 │   │           │   └── ...
 │   │           ├── Practica4/
