@@ -51,7 +51,8 @@ Stay tuned for updates and results that demonstrate practical application of the
   - [🏢 4. Industry Internship (Prácticas Externas)](#-4-industry-internship-prácticas-externas)
   - [🧑‍💻 5. Master's Thesis](#-5-masters-thesis)
   - [📎 Official Resources](#-official-resources)
-- [🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`](#repo-structure)
+- [🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`](#repository-structure)
+
 
 - [🧭 How to Navigate](#-how-to-navigate)
 - [🎯 Repository Goals](#-repository-goals)
