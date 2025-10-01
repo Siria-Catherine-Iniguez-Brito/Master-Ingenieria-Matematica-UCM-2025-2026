@@ -47,7 +47,7 @@ This folder contains:
 - Source code in Fortran and C  
 - Data files and solutions  
 - Technical documentation on the development environment, compilation, and execution  
-- Official instructions for each exercise
+- Official instructions for each task
  
 > 📌 **Note:** For detailed technical information, refer to the [`SC_README.md`](./Scientific-Programming/SP_README.md) file inside the `Scientific-Programming/` folder, which describes the structure and content of the course materials.
 
