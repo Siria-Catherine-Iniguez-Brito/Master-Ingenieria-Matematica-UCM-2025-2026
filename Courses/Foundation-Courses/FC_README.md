@@ -2,7 +2,7 @@
 
 This folder contains information related to the **foundation courses** offered as part of the official curriculum of the **Master’s Degree in Mathematical Engineering** at the **Complutense University of Madrid (UCM)**.
 
-According to the [official syllabus of the program](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), these courses are designed for students entering the master’s with diverse academic backgrounds. Their purpose is to **provide a homogeneous knowledge base** in key areas, ensuring that all students are adequately prepared to follow the rest of the program.
+According to the [official syllabus of the program](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), these courses are designed for students entering the master’s with diverse academic backgrounds. Their purpose is to **provide a consistent foundational knowledge** in key areas, ensuring that all students are adequately prepared to follow the rest of the program.
 
 ---
 
@@ -11,13 +11,13 @@ According to the [official syllabus of the program](https://www.ucm.es/estudios/
 1. Numerical Linear Algebra  
 2. Optimization  
 3. Statistics  
-4. **Scientific Programming** ✅ *(course taken)*
+4. **Scientific Programming** ✅ *(course completed)*
 
 ---
 
 ## 🗂️ Structure of `Foundation-Courses/`
 
-This folder includes all leveling courses that may be required based on a student's academic profile. Its internal structure follows a standardized format:
+This folder includes all leveling courses that may be required based on a student's academic profile.he internal folder structure follows a consistent organizational scheme: 
 
 ```plaintext
 Foundation-Courses/
@@ -34,7 +34,7 @@ Foundation-Courses/
 ```
 
 > 📌 **Note:** The ellipses (`...`) indicate that each folder may contain additional materials or nested subdirectories.  
-> 📄 Each course folder (e.g., `Scientific-Programming/`) includes its own README (`SC_README.md`) that explains how the materials are organized and what each subfolder contains.
+> 📄 Each course folder (e.g., Scientific-Programming/) includes a dedicated README file (SC_README.md) that explains how the materials are organized and what each subfolder contains.
 
 ---
 
@@ -42,10 +42,9 @@ Foundation-Courses/
 
 This is the **only foundation course** I was required to take, and it is fully documented in its corresponding subfolder: `Scientific-Programming/`.
 
-The folder includes:
+This folder contains:
 
-- Assignments and practical work developed during the course  
-- Solved exams  
+- Assignments, programming exercises, exams 
 - Source code in Fortran and C  
 - Data files and solutions  
 - Technical documentation on the development environment, compilation, and execution  
@@ -57,7 +56,7 @@ The folder includes:
 
 ## ℹ️ Additional Note
 
-The remaining foundation courses **were not part of my academic pathway**, and therefore **no materials or documentation** for them are included in this folder.
+The other foundation courses listed above were not part of my assigned academic pathway, therefore this repository does not include any materials or documentation. 
 
 ---
 
