@@ -1,9 +1,7 @@
 
 # 🚀 Scientific Programming
 
-📁 This sub-repository belongs to the `Foundation-Courses` folder, inside the `Courses` directory of the general repository for the Master's Degree in Mathematical Engineering (UCM).  
-It corresponds to the Scientific Programming course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid).  
-Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
+📁 This sub-repository belongs to the `Foundation-Courses` folder, inside the `Courses` directory of the general repository for the Master's Degree in Mathematical Engineering (UCM). It corresponds to the Scientific Programming course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid). Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
 
 ## 📑 Index
 
