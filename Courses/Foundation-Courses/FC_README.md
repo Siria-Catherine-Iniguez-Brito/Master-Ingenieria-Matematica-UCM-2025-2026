@@ -39,7 +39,9 @@ Foundation-Courses/
 ---
 
 ## ✅ Course Completed: *Scientific Programming*
-This was the only foundation course I was required to take, and it is fully documented in its corresponding subfolder: `Scientific-Programming/`. This folder contains:
+This was the only foundation course I was required to take, and it is fully documented in its corresponding subfolder: `Scientific-Programming/`. 
+
+This folder contains:
 
 - Assignments, programming exercises, solved exams 
 - Source code in Fortran and C  
