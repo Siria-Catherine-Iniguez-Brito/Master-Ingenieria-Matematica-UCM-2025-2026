@@ -129,8 +129,10 @@ con valor máximo 1.0 puntos.
 ```plaintext
 Scientific-Programming/
 ├── SP_README.md
+│
 ├── Exercises_Exams/
 │   ├── SP_EE_README.md/
+│   │
 │   ├── Practica1/
 │   │   ├── Practica1.f90 / Practica1.c
 │   │   ├── Datos1.dat
@@ -148,7 +150,7 @@ Scientific-Programming/
 │   │   └── ...
 │   ├── Practica7/
 │   │   └── ...
-│   └── Practica8/
+│   ├── Practica8/
 │   │   ├── Practica8.f90 / Practica1.c
 │   │   ├── Datos8.dat
 │   │   ├── Solucion8.sol
@@ -163,6 +165,7 @@ Scientific-Programming/
 │       ├── DatosE2.dat
 │       ├── SolucionE2.sol
 │       └── E2-ECUACION.D1
+│ 
 └──Teoria/
     └── Material_teorico.pdf (u otros recursos)
 
