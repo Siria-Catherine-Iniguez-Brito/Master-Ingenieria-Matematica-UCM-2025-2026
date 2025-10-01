@@ -142,7 +142,7 @@ These are elective courses that make up *Module 2: Specialization*, accounting f
 
 > 🎯 *I have chosen the **Economathematics** specialization, focusing my academic path on mathematical modeling in finance and risk management. Additionally, I have taken an extra course in **Financial Mathematics** to further strengthen this area of expertise.*
 
-> 📥 *Materials for these courses will be added progressively as they are completed during the academic year.*
+> 📥  *Materials for these courses will be added progressively as they are completed during the academic year.*
 
 ---
 
