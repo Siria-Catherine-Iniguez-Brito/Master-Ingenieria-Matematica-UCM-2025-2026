@@ -1,58 +1,64 @@
-# 🧩 Cursos Complementarios  
+# 🧩 Foundation Courses  
 
-Esta carpeta contiene información relativa a los **cursos complementarios** (también denominados de *formación previa*) ofertados dentro del plan de estudios del **Máster en Ingeniería Matemática** de la Universidad Complutense de Madrid (UCM).
+This folder contains information related to the **foundation courses** offered as part of the official curriculum of the **Master’s Degree in Mathematical Engineering** at the **Complutense University of Madrid (UCM)**.
 
-De acuerdo con la [guía docente oficial del máster](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), estos cursos están destinados a aquellos estudiantes que acceden al máster con titulaciones de grado con diferentes perfiles académicos. Su objetivo es **proporcionar una base homogénea** en conocimientos fundamentales, facilitando así el seguimiento adecuado del resto de asignaturas del programa.
-
-## 📘 Relación de cursos complementarios ofertados
-
-1. Álgebra Lineal Numérica 
-2. Optimización 
-3. Estadistica
-4. **Programación Científica** ✅ *(curso cursado)*
+According to the [official syllabus of the program](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), these courses are designed for students entering the master’s with diverse academic backgrounds. Their purpose is to **provide a homogeneous knowledge base** in key areas, ensuring that all students are adequately prepared to follow the rest of the program.
 
 ---
+
+## 📘 List of Foundation Courses Offered
+
+1. Numerical Linear Algebra  
+2. Optimization  
+3. Statistics  
+4. **Scientific Programming** ✅ *(course taken)*
+
+---
+
 ## 🗂️ Structure of `Foundation-Courses/`
-This folder contains all preparatory (leveling) courses required by the program depending on the student's academic background.
-The structure follows a consistent format:
+
+This folder includes all leveling courses that may be required based on a student's academic profile. Its internal structure follows a standardized format:
 
 ```plaintext
 Foundation-Courses/
 │
-├── FC_README.md   # Overview of all foundation courses
+├── FC_README.md                      # Overview of all foundation courses
 │
-└── Scientific-Programming/              # Specific course for Foundation-Courses
-    ├── SC_README.md                     # Course-specific structure and contents
+└── Scientific-Programming/           # Specific course (taken in this case)
+    ├── SC_README.md                  # Course-specific structure and contents
     │
-    ├── Theory/
-    |   └── ...                          # (More files/subfolders inside)       
-    └── Exercises_Exams/
-        └── ...                          # (More files/subfolders inside)
+    ├── Theory/                       # Lecture notes and theoretical materials
+    │   └── ...                       # (More files or subfolders inside)
+    └── Exercises_Exams/              # Practices, assignments, exams
+        └── ...                       # (More files or subfolders inside)
 ```
 
-> 📌 **Nota:**  The ellipses (...) indicate that each folder may contain additional materials or nested subdirectories.
-Each course folder (e.g., Scientific-Programming/) includes its own README (SC_README.md) that explains how the materials are organized and what each subfolder contains.
----
-
-## ✅ Curso cursado: Programación Científica
-
-Esta es la **única asignatura complementaria** cursada en mi caso, y se encuentra documentada en la subcarpeta correspondiente (`Scientific Programming/`).
-
-Dicha carpeta incluye:
-
-- Prácticas desarrolladas durante el curso
-- Exámenes resueltos
-- Código fuente en Fortran y C
-- Archivos de datos y soluciones
-- Documentación técnica sobre el entorno de desarrollo, compilación y ejecución
-- Enunciados oficiales de cada ejercicio
-
-> 📌 **Nota:** Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
+> 📌 **Note:** The ellipses (`...`) indicate that each folder may contain additional materials or nested subdirectories.  
+> 📄 Each course folder (e.g., `Scientific-Programming/`) includes its own README (`SC_README.md`) that explains how the materials are organized and what each subfolder contains.
 
 ---
-## ℹ️ Nota adicional
 
-Los restantes cursos complementarios **no han sido cursados** por el autor de este repositorio, motivo por el cual **no se incluye documentación ni materiales** relativos a los mismos en esta carpeta.
+## ✅ Course Taken: *Scientific Programming*
+
+This is the **only foundation course** I was required to take, and it is fully documented in its corresponding subfolder: `Scientific-Programming/`.
+
+The folder includes:
+
+- Assignments and practical work developed during the course  
+- Solved exams  
+- Source code in Fortran and C  
+- Data files and solutions  
+- Technical documentation on the development environment, compilation, and execution  
+- Official instructions for each exercise
+
+> 📌 **Note:** For detailed technical information, refer to the `SC_README.md` file inside the `Scientific-Programming/` folder, which describes the structure and organization of the course materials.
 
 ---
+
+## ℹ️ Additional Note
+
+The remaining foundation courses **were not part of my academic pathway**, and therefore **no materials or documentation** for them are included in this folder.
+
+---
+
 
