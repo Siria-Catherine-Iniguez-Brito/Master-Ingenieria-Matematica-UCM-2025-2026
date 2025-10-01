@@ -18,6 +18,7 @@ The structure follows a consistent format:
 
 ```plaintext
 Foundation-Courses/
+│
 ├── FC_README.md   # Overview of all foundation courses
 │
 └── Scientific-Programming/              # Specific course for Foundation-Courses
@@ -30,7 +31,6 @@ Foundation-Courses/
 ```
 
 > 📌 **Nota:**  The ellipses (...) indicate that each folder may contain additional materials or nested subdirectories.
-
 Each course folder (e.g., Scientific-Programming/) includes its own README (SC_README.md) that explains how the materials are organized and what each subfolder contains.
 ---
 
