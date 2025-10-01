@@ -1,130 +1,126 @@
 
-# 🚀  Scientific Programming 
+# 🚀 Scientific Programming
 
-📁 Este subrepositorio pertenece a la carpeta `Foundation-Courses`, dentro de `Courses`, del repositorio general del Máster en Ingeniería Matemática (UCM).
-Corresponde a la asignatura Programación Científica del Máster en Ingeniería Matemática (Universidad Complutense de Madrid).
-Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **normas de entrega** del curso.
+📁 This sub-repository belongs to the `Foundation-Courses` folder, inside the `Courses` directory of the general repository for the Master's Degree in Mathematical Engineering (UCM).  
+It corresponds to the Scientific Programming course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid).  
+Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
 
+## 📑 Index
 
+- [📘 Teaching Guide](#-teaching-guide)  
+  - [📌 General Information](#-general-information)  
+  - [🎯 Course Objectives](#-course-objectives)  
+  - [🧠 Competences](#-competences)  
+  - [🔄 Course Structure](#-course-structure)  
 
-## 📑 Índice
-
- - [📘 Guía Docente](#-guía-docente)  
-   - [📌 Datos Generales](#-datos-generales)  
-   - [🎯 Objetivos del Curso](#-objetivos-del-curso)  
-   - [🧠 Competencias](#-competencias)  
-   - [🔄 Dinámica de la Asignatura](#-dinámica-de-la-asignatura)  
-
-- [🧪 Prácticas del Curso 2025-26](#prácticas-del-curso-2025-26)  
-- [📊 Evaluación de Prácticas](#-evaluación-de-prácticas)  
-- [📦 Normas para la Entrega y Evaluación](#-normas-para-la-entrega-y-evaluación)  
-- [🗂️ Estructura del Repositorio](#-estructura-del-repositorio)  
-- [🖥️ Entorno utilizado](#️-Entorno-utilizado)
-
-
-
-## 📘 Guía Docente
-
-### 📌 Datos Generales
-- **Asignatura:** Programación Científica (Código: 608063)
-- **Plan de Estudios:** Máster Universitario en Ingeniería Matemática (2010-11)
-- **Carácter:** Complemento de Formación
-- **ECTS:** 3.0
-- **Semestre:** 1º
-
-## 🎯 Objetivos del Curso
-
-- 🧮 Asimilar y practicar la programación en **Fortran 95** y **C**.  
-- 🔧 Utilizar **librerías científicas** para la resolución de problemas numéricos.  
-- 💻 Implementar y analizar **algoritmos numéricos complejos**.  
-- 🛠️ Desarrollar habilidades para la **detección y corrección de errores** en código.  
+- [🧪 Assignments for the 2025-26 Course](#assignments-for-the-2025-26-course)  
+- [📊 Assignments Evaluation](#-assignments-evaluation)  
+- [📦 Submission and Evaluation Guidelines](#-submission-and-evaluation-guidelines)  
+- [🗂️ Repository Structure](#-repository-structure)  
+- [🖥️ Environment Used](#️-environment-used)
 
 ---
 
-## 🧠 Competencias
+## 📘 Teaching Guide
 
-- **Generales (CG5):** Resolver problemas matemáticos computacionalmente utilizando software adecuado.  
-- **Específicas (CE3 y CE6):**  
-  - Conocimiento de Fortran y C.  
-  - Uso de librerías científicas.  
-  - Implementación de algoritmos.  
-  - Resolución de problemas numéricos.  
+### 📌 General Information
+- **Course:** Scientific Programming (Code: 608063)  
+- **Study Plan:** Master's Degree in Mathematical Engineering (2010-11)  
+- **Type:** Complementary Training  
+- **ECTS:** 3.0  
+- **Semester:** 1st  
 
-## 🔄  Dinámica de la Asignatura
+## 🎯 Course Objectives
 
-- 📚 **Clases teóricas** *(1/3 del tiempo presencial)*  
-  → Explicación de características del lenguaje y librerías con ejemplos.  
-
-- 💻 **Clases prácticas** *(2/3 del tiempo presencial)*  
-  → Desarrollo, prueba y depuración de programas científicos.  
-
-- 🧑‍💻 **Laboratorios**  
-  → Tiempo libre para experimentación, práctica y refuerzo de conceptos.  
----
-
-## Prácticas del Curso 2025-26
-
-| Nº Práctica | Práctica                       | Nombre del enunciado                               | Fecha límite              |
-|-------------|------------------------------|----------------------------------------|---------------------------|
-| 1           | Función directa inversa      | P1-FUNCION-DIRECTA-INVERSA.D1          | Jueves 11-septiembre-2025 |
-| 2           | Submatriz centro esquinas    | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1        | Jueves 11-septiembre-2025 |
-| 3           | Siguiente combinación        | P3-SIGUIENTE-COMBINACION.D1            | Jueves 18-septiembre-2025 |
-| 4           | Triángulo                    | P4-TRIANGULO.D1                         | Jueves 18-septiembre-2025 |
-| 5           | Min n cotas                  | P5-MIN-n-cotas.D1                       | Jueves 2-octubre-2025     |
-| 6           | Rachas                       | P6-RACHAS.D1                            | Jueves 2-octubre-2025     |
-| 7           | Sistema no lineal            | P7-SISTEMA-NO-LINEAL.D1                | Jueves 25-septiembre-2025 |
-| 8           | Integral                     | P8-INTEGRAL-1.D1                        | Jueves 25-septiembre-2025 |
-
-
-## 📊 Evaluación de Prácticas
-- 🔹 El valor conjunto de las prácticas 1 y 2 será a lo sumo 1.8 puntos. El valor máximo de cada
-una es 1.0 puntos. Fecha límite de entrega: Jueves 11-septiembre-2025.
-
-- 🔹 El valor conjunto de las prácticas 3 y 4 será a lo sumo 2.4 puntos. El valor máximo de cada
-una es 1.3 puntos. Fecha límite de entrega: Jueves 18-septiembre-2025.
-
-- 🔹 El valor conjunto de las prácticas 7 y 8 será a lo sumo 1.6 puntos. El valor máximo de cada
-una es 0.9 puntos. Fecha límite de entrega: Jueves 25-septiembre-2025.
-
-- 🔹 El valor conjunto de las prácticas 5 y 6 será a lo sumo 3.2 puntos. El valor máximo de cada
-una es 1.7 puntos. Fecha límite de entrega: Jueves 2-octubre-2025.
-
-- 🔹 El último día del curso, Viernes 12 Septiembre-2025, se realizarán en clase unos ejercicios
-con valor máximo 1.0 puntos.
+- 🧮 Learn and practice programming in **Fortran 95** and **C**.  
+- 🔧 Use **scientific libraries** for solving numerical problems.  
+- 💻 Implement and analyze **complex numerical algorithms**.  
+- 🛠️ Develop skills for **debugging and error correction** in code.
 
 ---
 
-## 📦 Normas para la Entrega y Evaluación
+## 🧠 Competences
 
-✅ **Formato de entrega:**
+- **General (CG5):** Solve mathematical problems computationally using appropriate software.  
+- **Specific (CE3 and CE6):**  
+  - Knowledge of Fortran and C.  
+  - Use of scientific libraries.  
+  - Algorithm implementation.  
+  - Numerical problem solving.
 
-- Código fuente: `Px.f90` o `Px.c` *(según lenguaje y número de práctica)*  
-- Archivo de datos: `DatosX.dat`  
-- Archivo de resultados: `SolucionX.sol`  
-- Enunciado: `PX-Nombre_de_la_practica.D1`
+## 🔄 Course Structure
 
-📤 **Entrega institucional:**
+- 📚 **Theoretical classes** *(1/3 of face-to-face time)*  
+  → Explanation of language features and libraries with examples.  
 
-> 📌 **Nota:** Las prácticas deben enviarse al profesor responsable de cada lenguaje (Fortran o C) utilizando los canales indicados en el aula virtual o guía docente oficial.
+- 💻 **Practical classes** *(2/3 of face-to-face time)*  
+  → Development, testing, and debugging of scientific programs.  
 
----
-
-⚠️ **Normas importantes:**
-
-- No se valoran **soluciones solo por pantalla**.
-- Las entregas fuera de plazo tienen **penalización**.
-- Una vez corregida una práctica, su nota es **definitiva**.
-- Las prácticas son de **realización individual**.
-
-🚫 **Copia o plagio implica:**
-
-- Cero puntos en la práctica afectada.  
-- Posible **suspenso** en la asignatura.  
-- Posible **expediente disciplinario**.
+- 🧑‍💻 **Laboratories**  
+  → Free time for experimentation, practice, and reinforcement of concepts.
 
 ---
 
-## 🗂️ Estructura de Scientific Programming 
+## Assignments for the 2025-26 Course
+
+| Assignment No. | Assignment                  | Statement Filename                      | Deadline                 |
+|----------------|-----------------------------|---------------------------------------|--------------------------|
+| 1              | Direct and Inverse Function | P1-FUNCION-DIRECTA-INVERSA.D1         | Thursday, Sept 11, 2025  |
+| 2              | Center and Corner Submatrix | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1       | Thursday, Sept 11, 2025  |
+| 3              | Next Combination            | P3-SIGUIENTE-COMBINACION.D1            | Thursday, Sept 18, 2025  |
+| 4              | Triangle                    | P4-TRIANGULO.D1                        | Thursday, Sept 18, 2025  |
+| 5              | Minimum n Bounds            | P5-MIN-n-cotas.D1                      | Thursday, Oct 2, 2025    |
+| 6              | Runs                        | P6-RACHAS.D1                          | Thursday, Oct 2, 2025    |
+| 7              | Nonlinear System            | P7-SISTEMA-NO-LINEAL.D1                | Thursday, Sept 25, 2025  |
+| 8              | Integral                    | P8-INTEGRAL-1.D1                      | Thursday, Sept 25, 2025  |
+
+---
+
+## 📊 Assignments Evaluation
+
+- 🔹 The combined score for assignments 1 and 2 will be at most 1.8 points. The maximum for each is 1.0 points. Submission deadline: Thursday, Sept 11, 2025.
+
+- 🔹 The combined score for assignments 3 and 4 will be at most 2.4 points. The maximum for each is 1.3 points. Submission deadline: Thursday, Sept 18, 2025.
+
+- 🔹 The combined score for assignments 7 and 8 will be at most 1.6 points. The maximum for each is 0.9 points. Submission deadline: Thursday, Sept 25, 2025.
+
+- 🔹 The combined score for assignments 5 and 6 will be at most 3.2 points. The maximum for each is 1.7 points. Submission deadline: Thursday, Oct 2, 2025.
+
+- 🔹 On the last day of the course, Friday, Sept 12, 2025, in-class exercises will be held with a maximum score of 1.0 points.
+
+---
+
+## 📦 Submission and Evaluation Guidelines
+
+✅ **Submission format:**
+
+- Source code: `Px.f90` or `Px.c` *(depending on language and assignment number)*  
+- Data file: `DatosX.dat`  
+- Result file: `SolucionX.sol`  
+- Statement: `PX-Assignment_name.D1`
+
+📤 **Official submission:**
+
+> 📌 **Note:** Assignments must be sent to the professor responsible for each language (Fortran or C) using the channels indicated in the virtual classroom or official teaching guide.
+
+---
+
+⚠️ **Important rules:**
+
+- Solutions printed only on screen will **not** be graded.  
+- Late submissions will incur **penalties**.  
+- Once graded, the assignment grade is **final**.  
+- Assignments must be done **individually**.
+
+🚫 **Copying or plagiarism implies:**
+
+- Zero points on the affected assignment.  
+- Possible **course failure**.  
+- Possible **disciplinary proceedings**.
+
+---
+
+## 🗂️ Scientific Programming Structure
 
 ```plaintext
 Scientific-Programming/
@@ -171,22 +167,23 @@ Scientific-Programming/
 
 ```
 
-## 🖥️ Entorno utilizado
+## 🖥️ Environment Used
 
-Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:  
-- Sistema operativo: macOS  
-- Compilador: `gfortran` versión 9.0 o superior  
-- Editor: Visual Studio Code, con extensiones para Fortran y C, mejorando la experiencia de escritura y depuración de código.
+For developing and compiling the assignments and exams of the course, the following environment has been used:
 
-📚 **Documentación detallada de `Exercises_Exams`**  
-En el archivo `SP_EE_README.md` (dentro de la carpeta `Exercises_Exams`) se explica en profundidad:
+- Operating System: macOS
+- Compiler: gfortran version 9.0 or higher
+- Editor: Visual Studio Code, with extensions for Fortran and C, improving coding and debugging experience.
 
-- Cómo compilar cada práctica y examen.  
-- Descripción del entorno de desarrollo utilizado.  
-- Librerías científicas empleadas y su configuración.  
-- Proceso de instalación y configuración en mi equipo personal.  
-- Ejemplos concretos de compilación y ejecución en mi sistema.
+📚 **Detailed documentation in Exercises_Exams**  
+The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in depth:
 
-Esta documentación complementa la información general aquí presentada, facilitando la reproducibilidad y el desarrollo autónomo del estudiante.
+- How to compile each assignment and exam.
+- Description of the development environment used.
+- Scientific libraries used and their configuration.
+- Installation and setup process on my personal machine.
+- Concrete examples of compilation and execution on my system.
+
+This documentation complements the general information presented here, facilitating reproducibility and autonomous development for the student.
 
 
