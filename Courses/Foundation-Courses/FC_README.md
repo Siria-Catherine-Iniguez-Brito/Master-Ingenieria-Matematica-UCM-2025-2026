@@ -12,22 +12,6 @@ De acuerdo con la [guía docente oficial del máster](https://www.ucm.es/estudio
 4. **Programación Científica** ✅ *(curso cursado)*
 
 ---
-
-## ✅ Curso cursado: Programación Científica
-
-Esta es la **única asignatura complementaria** cursada en mi caso, y se encuentra documentada en la subcarpeta correspondiente (`Scientific Programming/`).
-
-Dicha carpeta incluye:
-
-- Prácticas desarrolladas durante el curso
-- Exámenes resueltos
-- Código fuente en Fortran y C
-- Archivos de datos y soluciones
-- Documentación técnica sobre el entorno de desarrollo, compilación y ejecución
-- Enunciados oficiales de cada ejercicio
-
-> 📌 **Nota:** Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
----
 ## 🗂️ Structure of `Foundation-Courses/`
 This folder contains all preparatory (leveling) courses required by the program depending on the student's academic background.
 The structure follows a consistent format:
@@ -49,6 +33,22 @@ Foundation-Courses/
 > 📌 **Nota:**  The ellipses (...) indicate that each folder may contain additional materials or nested subdirectories.
 
 Each course folder (e.g., Scientific-Programming/) includes its own README (SC_README.md) that explains how the materials are organized and what each subfolder contains.
+---
+
+## ✅ Curso cursado: Programación Científica
+
+Esta es la **única asignatura complementaria** cursada en mi caso, y se encuentra documentada en la subcarpeta correspondiente (`Scientific Programming/`).
+
+Dicha carpeta incluye:
+
+- Prácticas desarrolladas durante el curso
+- Exámenes resueltos
+- Código fuente en Fortran y C
+- Archivos de datos y soluciones
+- Documentación técnica sobre el entorno de desarrollo, compilación y ejecución
+- Enunciados oficiales de cada ejercicio
+
+> 📌 **Nota:** Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
 
 ---
 ## ℹ️ Nota adicional
