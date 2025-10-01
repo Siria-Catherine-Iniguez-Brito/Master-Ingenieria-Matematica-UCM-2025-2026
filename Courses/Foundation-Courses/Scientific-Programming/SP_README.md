@@ -14,7 +14,7 @@
 - [🧪 Assignments for the 2025-26 Course](#assignments-for-the-2025-26-course)  
 - [📊 Assignments Evaluation](#-assignments-evaluation)  
 - [📦 Submission and Evaluation Guidelines](#-submission-and-evaluation-guidelines)  
-- [🗂️ Repository Structure](#-repository-structure)  
+- [🗂️ Structure of `Scientific-Programming/`](#structure-scientific-programming)
 - [🖥️ Environment Used](#️-environment-used)
 
 ---
@@ -118,7 +118,8 @@
 
 ---
 
-## 🗂️ Structure of `Scientific-Programming/`
+<h2 id="structure-scientific-programming">🗂️ Structure of <code>Scientific-Programming/</code></h2>
+
 
 ```plaintext
 Scientific-Programming/
