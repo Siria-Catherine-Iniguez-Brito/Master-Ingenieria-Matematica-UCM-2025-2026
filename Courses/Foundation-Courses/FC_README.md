@@ -26,7 +26,7 @@ Dicha carpeta incluye:
 - Documentación técnica sobre el entorno de desarrollo, compilación y ejecución
 - Enunciados oficiales de cada ejercicio
 
-> 📌 Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
+> 📌 **Nota:** Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
 
 ---
 
