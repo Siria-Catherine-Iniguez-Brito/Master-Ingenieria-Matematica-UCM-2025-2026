@@ -7,7 +7,7 @@ De acuerdo con la [guía docente oficial del máster](https://www.ucm.es/estudio
 
 ## 📘 Relación de cursos complementarios ofertados
 
-1. Álgebra Lineal y Geometría  
+1. Álgebra Lineal Numérica 
 2. Optimización 
 3. Estadistica
 4. **Programación Científica** ✅ *(curso cursado)*
