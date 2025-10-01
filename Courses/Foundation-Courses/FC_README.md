@@ -17,7 +17,7 @@ According to the [official syllabus of the program](https://www.ucm.es/estudios/
 
 ## 🗂️ Structure of `Foundation-Courses/`
 
-This folder includes all leveling courses that may be required based on a student's academic profile.he internal folder structure follows a consistent organizational scheme: 
+This folder includes all leveling courses that may be required based on a student's academic profile. The internal folder structure follows a consistent organizational scheme: 
 
 ```plaintext
 Foundation-Courses/
@@ -29,7 +29,7 @@ Foundation-Courses/
     │
     ├── Theory/                       # Lecture notes and theoretical materials
     │   └── ...                       # (More files or subfolders inside)
-    └── Exercises_Exams/              # Practices, assignments, exams
+    └── Exercises_Exams/              # Assignments, solved problems
         └── ...                       # (More files or subfolders inside)
 ```
 
@@ -44,13 +44,13 @@ This is the **only foundation course** I was required to take, and it is fully d
 
 This folder contains:
 
-- Assignments, programming exercises, exams 
+- Assignments, programming exercises, solved exams 
 - Source code in Fortran and C  
 - Data files and solutions  
 - Technical documentation on the development environment, compilation, and execution  
 - Official instructions for each exercise
-
-> 📌 **Note:** For detailed technical information, refer to the [SC_README.md](./Scientific-Programming/SP_README.md) file inside the `Scientific-Programming/` folder, which describes the structure and organization of the course materials.
+ 
+> 📌 **Note:** For detailed technical information, refer to the ``[`SC_README.md`](./Scientific-Programming/SP_README.md)`` file inside the `Scientific-Programming/` folder, which describes the structure and organization of the course materials.
 
 ---
 
