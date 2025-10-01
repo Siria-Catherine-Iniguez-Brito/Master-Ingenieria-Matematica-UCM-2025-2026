@@ -17,7 +17,6 @@ This folder contains all preparatory (leveling) courses required by the program 
 The structure follows a consistent format:
 
 ```plaintext
-
 Foundation-Courses/
 ├── FC_README.md   # Overview of all foundation courses
 │
