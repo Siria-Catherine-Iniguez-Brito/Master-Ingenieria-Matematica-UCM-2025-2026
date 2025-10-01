@@ -20,7 +20,7 @@ The official curriculum is divided into the following modules (for full details,
 
 ---
 
-## 🗂️ Structure of this folder
+## 🗂️ Structure of `Courses/`
 
 ```plaintext
 Courses/
