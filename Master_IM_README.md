@@ -127,7 +127,9 @@ Useful links from the official MSc program site:
 - [📚 Study Plan (2025–26)](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)
 
 ---
-<h2 id="repo-structure">🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`</h2>
+
+<h2 id="repository-structure">🗂️ Repository Structure <code>Master-Ingenieria-Matematica-UCM/</code></h2>
+
 
 
 ```plaintext
