@@ -118,7 +118,7 @@
 
 ---
 
-## 🗂️ Scientific `Programming Structure/`
+## 🗂️ Structure of `Scientific-Programming Structure/`
 
 ```plaintext
 Scientific-Programming/
