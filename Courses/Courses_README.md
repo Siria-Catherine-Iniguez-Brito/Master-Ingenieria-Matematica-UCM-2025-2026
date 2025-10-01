@@ -99,7 +99,7 @@ In my case, I was assigned the following foundation course:
 The following foundation courses were offered by the program but were not required in my case:
 
 - Statistics  
-- Linear Algebra and Geometry  
+- Numerical Linear Algebra 
 - Optimization  
 
 > 📝 *These courses are not included in the repository since they were not part of my curriculum, based on my academic background.*  
