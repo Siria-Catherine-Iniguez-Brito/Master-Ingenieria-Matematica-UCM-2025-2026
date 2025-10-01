@@ -4,8 +4,6 @@ This folder contains the materials corresponding to the courses of the **Master'
 
 The organization reflects the different academic blocks of the master's program, grouping the courses by their nature: **foundation, compulsory, or specialization**.
 
-> 📁 **Note**: `Courses/` is a subdirectory of the main repository for the *Master’s in Mathematical Engineering*. It contains only the academic content related to the coursework. Other modules like the Master’s Thesis and the Industry Internship are organized in separate top-level folders.
-
 ---
 
 ## 🧱 General structure of the Master's program
@@ -21,6 +19,7 @@ The official curriculum is divided into the following modules (for full details,
 ---
 
 ## 🗂️ Structure of `Courses/`
+> 📁 **Note**: `Courses/` is a subdirectory of the main repository for the *Master’s in Mathematical Engineering*. It contains only the academic content related to the coursework. Other modules like the Master’s Thesis and the Industry Internship are organized in separate top-level folders.
 
 ```plaintext
 Courses/
