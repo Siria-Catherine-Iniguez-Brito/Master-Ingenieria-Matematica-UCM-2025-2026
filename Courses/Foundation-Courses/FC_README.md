@@ -51,7 +51,7 @@ The folder includes:
 - Technical documentation on the development environment, compilation, and execution  
 - Official instructions for each exercise
 
-> 📌 **Note:** For detailed technical information, refer to the [SC_README.md](./Specialization/S_README.md) file inside the `Scientific-Programming/` folder, which describes the structure and organization of the course materials.
+> 📌 **Note:** For detailed technical information, refer to the [SC_README.md](./Scientific-Programming/SP_README.md) file inside the `Scientific-Programming/` folder, which describes the structure and organization of the course materials.
 
 ---
 
