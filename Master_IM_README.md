@@ -51,7 +51,8 @@ Stay tuned for updates and results that demonstrate practical application of the
   - [🏢 4. Industry Internship (Prácticas Externas)](#-4-industry-internship-prácticas-externas)
   - [🧑‍💻 5. Master's Thesis](#-5-masters-thesis)
   - [📎 Official Resources](#-official-resources)
-- [🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`](#-repository-structure-master-ingenieria-matematica-ucm)
+- [🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`](#repo-structure)
+
 - [🧭 How to Navigate](#-how-to-navigate)
 - [🎯 Repository Goals](#-repository-goals)
   - [Academic Focus](#academic-focus)
@@ -126,8 +127,8 @@ Useful links from the official MSc program site:
 - [📚 Study Plan (2025–26)](https://www.ucm.es/estudios/2025-26/master-ingenieriamatematica-plan)
 
 ---
+<h2 id="repo-structure">🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`</h2>
 
-## 🗂️ Repository Structure `Master-Ingenieria-Matematica-UCM/`
 
 ```plaintext
 Master-Ingenieria-Matematica-UCM/
