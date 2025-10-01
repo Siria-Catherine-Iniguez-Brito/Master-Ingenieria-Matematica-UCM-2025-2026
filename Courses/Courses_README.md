@@ -20,7 +20,7 @@ The official curriculum is divided into the following modules (for full details,
 
 ## 🗂️ Structure of `Courses/`
 
-> 📁 **Note**: `Courses/` is a subdirectory of the main repository for the *Master’s in Mathematical Engineering*. It contains only the academic content related to the coursework. Other modules like the Master’s Thesis and the Industry Internship are organized in separate top-level folders.
+> 📌 **Note**: `Courses/` is a subdirectory of the main repository for the *Master’s in Mathematical Engineering*. It contains only the academic content related to the coursework. Other modules like the Master’s Thesis and the Industry Internship are organized in separate top-level folders.
 
 ```plaintext
 Courses/
