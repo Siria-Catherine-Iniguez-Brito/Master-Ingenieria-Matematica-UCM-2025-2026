@@ -27,40 +27,30 @@ Dicha carpeta incluye:
 - Enunciados oficiales de cada ejercicio
 
 > 📌 **Nota:** Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
-
 ---
+## 🗂️ Structure of `Foundation-Courses/`
+This folder contains all preparatory (leveling) courses required by the program depending on the student's academic background.
+The structure follows a consistent format:
+
 ```plaintext
 
 Foundation-Courses/
-├── FC_README.md
+├── FC_README.md   # Overview of all foundation courses
 │
-└── Scientific-Programming/              
-    ├── SC_README.md
-    │           
+└── Scientific-Programming/              # Specific course for Foundation-Courses
+    ├── SC_README.md                     # Course-specific structure and contents
+    │
+    ├── Theory/
+    |   └── ...                          # (More files/subfolders inside)       
     └── Exercises_Exams/
-        ├── Practica1/
-        │   └── ...
-        ├── Practica2/
-        │   └── ...
-        ├── Practica3/
-        │   └── ...
-        ├── Practica4/
-        │   └── ...
-        ├── Practica5/
-        │   └── ...
-        ├── Practica6/
-        │   └── ...
-        ├── Practica7/
-        │   └── ...
-        ├── Practica8/
-        │   └── ...
-        ├── Examene1/
-        │   └── ...
-        └── Examen2/
-            └── ...
+        └── ...                          # (More files/subfolders inside)
 ```
----
 
+> 📌 **Nota:**  The ellipses (...) indicate that each folder may contain additional materials or nested subdirectories.
+
+Each course folder (e.g., Scientific-Programming/) includes its own README (SC_README.md) that explains how the materials are organized and what each subfolder contains.
+
+---
 ## ℹ️ Nota adicional
 
 Los restantes cursos complementarios **no han sido cursados** por el autor de este repositorio, motivo por el cual **no se incluye documentación ni materiales** relativos a los mismos en esta carpeta.
