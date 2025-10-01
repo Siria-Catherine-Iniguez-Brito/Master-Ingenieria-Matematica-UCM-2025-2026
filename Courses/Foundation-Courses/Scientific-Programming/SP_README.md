@@ -64,7 +64,7 @@ Aquí se recopilan las **prácticas**, **objetivos**, **competencias** y **norma
 
 ## Prácticas del Curso 2025-26
 
-| Nº Práctica | Práctica                       | Nombre del enunicado                                | Fecha límite              |
+| Nº Práctica | Práctica                       | Nombre del enunciado                               | Fecha límite              |
 |-------------|------------------------------|----------------------------------------|---------------------------|
 | 1           | Función directa inversa      | P1-FUNCION-DIRECTA-INVERSA.D1          | Jueves 11-septiembre-2025 |
 | 2           | Submatriz centro esquinas    | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1        | Jueves 11-septiembre-2025 |
@@ -103,9 +103,9 @@ con valor máximo 1.0 puntos.
 - Archivo de resultados: `SolucionX.sol`  
 - Enunciado: `PX-Nombre_de_la_practica.D1`
 
-📤 **Envío institucional:**
+📤 **Entrega institucional:**
 
-> 📌 **Note:** Las prácticas deben enviarse al profesor responsable de cada lenguaje (Fortran o C) utilizando los canales indicados en el aula virtual o guía docente oficial.
+> 📌 **Nota:** Las prácticas deben enviarse al profesor responsable de cada lenguaje (Fortran o C) utilizando los canales indicados en el aula virtual o guía docente oficial.
 
 ---
 
@@ -167,24 +167,26 @@ Scientific-Programming/
 │       └── E2-ECUACION.D1
 │ 
 └──Teoria/
-    └── Material_teorico.pdf (u otros recursos)
+    └── Material_teorico.pdf (y otros recursos)
 
 ```
 
 ## 🖥️ Entorno utilizado
 
-- Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:  
-  - Sistema operativo: macOS  
-  - Compilador: `gfortran` versión 9.0 o superior  
-  - Editor utilizado: Visual Studio Code, con extensiones para soporte de Fortran y C, que facilita la escritura y depuración del código.
+Para el desarrollo y compilación de las prácticas y exámenes de la asignatura, se ha utilizado el siguiente entorno:  
+- Sistema operativo: macOS  
+- Compilador: `gfortran` versión 9.0 o superior  
+- Editor: Visual Studio Code, con extensiones para Fortran y C, mejorando la experiencia de escritura y depuración de código.
 
-📚 **Documentación detallada en Exercises y Exams**  
-En el archivo `SC_Exercises_Exams_README.md` correspondiente a la carpeta `Exercises_Exams`se explica en profundidad:
+📚 **Documentación detallada de `Exercises_Exams`**  
+En el archivo `SP_EE_README.md` (dentro de la carpeta `Exercises_Exams`) se explica en profundidad:
 
 - Cómo compilar cada práctica y examen.  
 - Descripción del entorno de desarrollo utilizado.  
 - Librerías científicas empleadas y su configuración.  
-- Proceso de instalación y configuración de los entornos en mi ordenador personal.  
-- Ejemplos concretos de comandos y pasos seguidos para compilar y ejecutar el código en mi sistema.
+- Proceso de instalación y configuración en mi equipo personal.  
+- Ejemplos concretos de compilación y ejecución en mi sistema.
 
 Esta documentación complementa la información general aquí presentada, facilitando la reproducibilidad y el desarrollo autónomo del estudiante.
+
+
