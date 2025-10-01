@@ -127,23 +127,6 @@ Useful links from the official MSc program site:
 
 ---
 
-
-│   └── Practica8/
-│   │   ├── Practica8.f90 / Practica1.c
-│   │   ├── Datos8.dat
-│   │   ├── Solucion8.sol
-│   │   └── P8-INTEGRAL-1.D1
-│   ├── Examen1/
-│   │   ├── Examen1.f90 
-│   │   ├── DatosE1.dat
-│   │   ├── SolucionE1.sol
-│   │   └── E1-SUBMATRIZ-ABSMIN.D1
-│   └── Examen2/
-│       ├── Examen2.f90 
-│       ├── DatosE2.dat
-│       ├── SolucionE2.sol
-│       └── E2-ECUACION.D1
-
 ## 🗂️ Repository Structure
 
 ```plaintext
