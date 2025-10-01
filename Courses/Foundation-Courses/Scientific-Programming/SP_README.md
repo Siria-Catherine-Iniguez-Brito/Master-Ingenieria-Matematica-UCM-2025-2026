@@ -166,15 +166,6 @@ Scientific-Programming/
     └── Material_teorico.pdf (y otros recursos)
 
 ```
-
-## 🖥️ Environment Used
-
-For developing and compiling the assignments and exams of the course, the following environment has been used:
-
-- Operating System: macOS
-- Compiler: gfortran version 9.0 or higher
-- Editor: Visual Studio Code, with extensions for Fortran and C, improving coding and debugging experience.
-
 📚 **Detailed documentation in Exercises_Exams**  
 The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in depth:
 
@@ -185,5 +176,15 @@ The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in dep
 - Concrete examples of compilation and execution on my system.
 
 This documentation complements the general information presented here, facilitating reproducibility and autonomous development for the student.
+
+--
+
+## 🖥️ Environment Used
+
+For developing and compiling the assignments and exams of the course, the following environment has been used:
+
+- Operating System: macOS
+- Compiler: gfortran version 9.0 or higher
+- Editor: Visual Studio Code, with extensions for Fortran and C, improving coding and debugging experience.
 
 
