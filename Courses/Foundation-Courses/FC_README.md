@@ -32,10 +32,32 @@ Dicha carpeta incluye:
 ```plaintext
 
 Foundation-Courses/
+├── FC_README.md
 │
-├── Scientific-Programming/              
-│   ├── SC_README.md                 
-│       
+└── Scientific-Programming/              
+    ├── SC_README.md
+    │           
+    └── Exercises_Exams/
+        ├── Practica1/
+        │   └── ...
+        ├── Practica2/
+        │   └── ...
+        ├── Practica3/
+        │   └── ...
+        ├── Practica4/
+        │   └── ...
+        ├── Practica5/
+        │   └── ...
+        ├── Practica6/
+        │   └── ...
+        ├── Practica7/
+        │   └── ...
+        ├── Practica8/
+        │   └── ...
+        ├── Examene1/
+        │   └── ...
+        └── Examen2/
+            └── ...
 ```
 ---
 
