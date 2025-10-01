@@ -29,6 +29,15 @@ Dicha carpeta incluye:
 > 📌 **Nota:** Para información técnica detallada, consulta el archivo SP_README.md ubicado en la carpeta Scientific-Programming/, donde se describe la estructura y organización de los materiales de la asignatura.
 
 ---
+```plaintext
+
+Foundation-Courses/
+│
+├── Scientific-Programming/              
+│   ├── SC_README.md                 
+│       
+```
+---
 
 ## ℹ️ Nota adicional
 
