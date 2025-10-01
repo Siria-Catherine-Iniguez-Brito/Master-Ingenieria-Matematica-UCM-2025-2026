@@ -179,7 +179,7 @@ Scientific-Programming/
   - Editor utilizado: Visual Studio Code, con extensiones para soporte de Fortran y C, que facilita la escritura y depuración del código.
 
 📚 **Documentación detallada en Exercises y Exams**  
-En el archivo `SC_Exercises_Exams_README.md` correspondiente a la carpetas `Exercises_Exams`se explica en profundidad:
+En el archivo `SC_Exercises_Exams_README.md` correspondiente a la carpeta `Exercises_Exams`se explica en profundidad:
 
 - Cómo compilar cada práctica y examen.  
 - Descripción del entorno de desarrollo utilizado.  
