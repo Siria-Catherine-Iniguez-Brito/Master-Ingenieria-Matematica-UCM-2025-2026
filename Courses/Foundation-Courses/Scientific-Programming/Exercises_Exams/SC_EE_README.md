@@ -47,6 +47,7 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
    - [📚 Documentación complementaria](#-documentación-complementaria)
 
 ---
+## 1. Estructura general y resumen
 
 ## 📂 Estructura de la carpeta
 
@@ -128,6 +129,7 @@ Exercises_Exams/
 
 
 ---
+## 2. Detalles por carpeta
 
 ## 🗂️ Contenido de cada carpeta
 
@@ -157,6 +159,8 @@ Cada práctica o examen se encuentra en una carpeta individual con nombre `Pract
 - `EX-Nombre.D1`: Enunciado oficial completo del examen.
 
 ---
+
+## 3.Compilación y ejecución
 
 ## 🛠️ Cómo compilar y ejecutar
 
@@ -225,7 +229,7 @@ Todos los exámenes están preparados para ejecutarse directamente con la extens
 Cada una de estas prácticas incluye instrucciones detalladas para su compilación y ejecución.
 
 ---
-
+## 4. Información técnica
 ## 🔬 ¿Qué son MINPACK y QUADPACK?
 
 ### 🧠 MINPACK – Resolución de sistemas no lineales
@@ -348,6 +352,7 @@ GNU Fortran (GCC) X.X.X
 ```
 
 ---
+## 5. Otros
 
 ## ▶️ Uso de gfortran en Visual Studio Code
 
