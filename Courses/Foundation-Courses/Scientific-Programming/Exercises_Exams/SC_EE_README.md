@@ -79,6 +79,17 @@ Exercises_Exams/
 │
 └── SC_Exercises_Exams_README
 ```
+## 📊 Resumen de prácticas y exámenes
+
+| Carpeta      | Lenguaje | Librerías       | Tema principal                 |
+|--------------|----------|-----------------|--------------------------------|
+| Practica1    | Fortran  | -               | Función directa/inversa       |
+| Practica2    | Fortran  | -               | ...                            |
+| Practica6    | C        | -               | Rachas                         |
+| Practica7    | Fortran  | MINPACK         | Sistema no lineal             |
+| Practica8    | Fortran  | QUADPACK        | Integración numérica          |
+| Examen1      | Fortran  | -               | Submatriz mínimo absoluto     |
+| Examen2      | Fortran  | -               | Ecuación                      |
 
 ---
 
