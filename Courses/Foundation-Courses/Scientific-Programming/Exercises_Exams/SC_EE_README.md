@@ -1,4 +1,4 @@
-# 📁 Carpeta Exercises_Exams: Prácticas y Exámenes
+# 📁 Scientific Programming: Exercises_Exams
 
 Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes** (`ExamenX`) correspondientes a la asignatura de **Programación Científica** del Máster en Ingeniería Matemática (UCM).
 
