@@ -41,7 +41,6 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
    - [▶️ Uso de gfortran en Visual Studio Code](#️-uso-de-gfortran-en-visual-studio-code)
       - [1. Programas simples (sin librerías externas)](#1-programas-simples-sin-librerías-externas)
       - [2. Programas que usan librerías externas (BLAS, LAPACK, Minpack)](#2-programas-que-usan-librerías-externas-blas-lapack-minpack)
-   - [📎 Opciones útiles de compilación](#-opciones-útiles-de-compilación)
    - [💡 Buenas prácticas](#-buenas-prácticas)
    - [🔗 Recursos útiles](#-recursos-útiles)
    - [📚 Documentación complementaria](#-documentación-complementaria)
@@ -381,18 +380,6 @@ gfortran programa.f90 -o programa -L/ruta/a/librerias -llapack -lminpack
 
 > ⚠️ Sustituye `/ruta/a/librerias` por la ruta real donde tengas las librerías.
 
----
-
-## 📎 Opciones útiles de compilación
-
-- `-ffree-form` / `-ffixed-form` → indica formato libre o fijo.
-- `-std=f2008` → especifica estándar Fortran (f95, f2003, f2008, f2018).
-- `-Wall` → muestra advertencias sobre posibles problemas en el código.
-- `-Werror` → convierte advertencias en errores.
-- `-c` → compila sin enlazar.
-- `-o nombre` → especifica nombre del ejecutable.
-- `-I` → directorios para buscar módulos.
-- `-L` → directorios para buscar librerías externas.
 
 ---
 
