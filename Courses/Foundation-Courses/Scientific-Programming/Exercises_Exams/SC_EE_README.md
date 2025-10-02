@@ -2,10 +2,6 @@
 
 This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** for the **Scientific Programming** course in the MSc in Mathematical Engineering (UCM, 2025–2026).
 
-# 📁 Scientific Programming: Exercises_Exams
-
-This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** for the **Scientific Programming** course in the MSc in Mathematical Engineering (UCM, 2025–2026).
-
 ## 📑 Index
 
 ### 1. General Structure and Summary
