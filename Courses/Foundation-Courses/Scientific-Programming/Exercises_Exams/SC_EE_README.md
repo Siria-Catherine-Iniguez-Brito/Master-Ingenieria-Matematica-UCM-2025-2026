@@ -1,6 +1,6 @@
 # 📁 Scientific Programming: Exercises_Exams
 
-Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes** (`ExamenX`) correspondientes a la asignatura de **Programación Científica** del Máster en Ingeniería Matemática (UCM).
+This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** for the **Scientific Programming** course in the MSc in Mathematical Engineering (UCM, 2025–2026).
 
 ## 📑 Índice
 - [📂 Estructura de la carpeta](#-estructura-de-la-carpeta)
@@ -11,7 +11,7 @@ Esta carpeta reúne tanto las **prácticas** (`PracticaX`) como los **exámenes*
   - [✅ Prácticas 1 a 6](#-prácticas-1-a-6)
   - [✅ Prácticas 7 y 8 (con librerías científicas)](#-prácticas-7-y-8-con-librerías-científicas)
     - [▶️ Práctica 7: Sistema no lineal (usa minpack.f90)](#️-práctica-7-sistema-no-lineal-usa-minpackf90)
-    - [▶️ Práctica 8: Integración numérica (usa quadpack.f90)](#️-práctica-8-integración-numérica-usa-quadpackf90)
+    - [▶️ Práctica 8: Integración numérica (usa quadpack.f90)](#practica8)
   - [✅ Exámenes (Exams)](#-exámenes-exams)
   - [🧩 Librerías científicas (solo prácticas 7 y 8)](#-librerías-científicas-solo-prácticas-7-y-8)
 - [🔬 ¿Qué son MINPACK y QUADPACK?](#-qué-son-minpack-y-quadpack)
@@ -115,7 +115,7 @@ Cada práctica o examen se encuentra en una carpeta individual con nombre `Pract
 
 ### ✅ Prácticas 1 a 6
 
-Se pueden ejecutar directamente con la extensión **Run Code** de Visual Studio Code, sin necesidad de comandos adicionales.
+Se pueden ejecutar directamente con la extensión [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) de Visual Studio Code (el botón ▶️), sin necesidad de compilar manualmente desde la terminal.
 
 ---
 
@@ -141,12 +141,14 @@ Esto generará el archivo de salida `Solucion7.sol`.
 
 ---
 
-#### ▶️ Práctica 8: Integración numérica (usa `quadpack.f90`)
+### Práctica 8: Integración numérica (usa `quadpack.f90`) <a name="practica8"></a>
+
 
 1. Abrir la terminal integrada de Visual Studio Code y situarse en la carpeta `Practica8/`.
 2. Compilar con el siguiente comando:
 
 ```bash
+# Compilación de la práctica 8 con QUADPACK
 gfortran -O2 Practica8.f90 quadpack.f90 -o Practica8
 ```
 
@@ -180,7 +182,7 @@ Cada una de estas prácticas incluye instrucciones detalladas para su compilaci�
 
 ### 🧠 MINPACK – Resolución de sistemas no lineales
 
-- **MINPACK** es una librería numérica escrita en Fortran especializada en la resolución de **sistemas de ecuaciones no lineales** y en **problemas de mínimos cuadrados no lineales**.
+- **MINPACK** es una librería numérica escrita en Fortran especializada en la resolución de sistemas de ecuaciones no lineales. Documentación oficial en [Netlib](https://www.netlib.org/minpack/).
 - Implementa algoritmos eficientes y robustos basados en métodos como el de **Levenberg-Marquardt**.
 - En este proyecto, MINPACK se utiliza en la **Práctica 7**, cuyo objetivo es resolver un sistema no lineal planteado en el enunciado.
 - La librería facilita la implementación del método sin tener que desarrollar desde cero rutinas complejas para el cálculo de Jacobianos, iteraciones, tolerancias, etc.
@@ -209,7 +211,13 @@ Estas herramientas profesionales permiten abordar los problemas con algoritmos y
 - **Sistema operativo:** macOS  
 - **Compilador:** `gfortran` versión 9.0 o superior  
 - **Editor:** Visual Studio Code  
-  - Con extensiones para **Fortran** y **C** disponibles desde el Marketplace
+- Con extensiones para **Fortran** y **C** disponibles desde el Marketplace
+
+| Herramienta         | Versión recomendada | Enlace de descarga                          |
+|---------------------|---------------------|---------------------------------------------|
+| Visual Studio Code  | Última              | https://code.visualstudio.com/              |
+| Modern Fortran Ext. | 3.x o superior      | https://marketplace.visualstudio.com/items?itemName=fortran-lang.fortran |
+| gfortran (macOS)    | 9.0 o superior      | https://github.com/fxcoudert/gfortran-for-macOS/releases |
 
 ---
 
@@ -359,3 +367,7 @@ gfortran programa.f90 -o programa -L/ruta/a/librerias -llapack -lminpack
 - Las prácticas 7 y 8, al requerir uso de librerías científicas externas (`minpack` y `quadpack`), contienen **instrucciones adicionales** para su correcta compilación, enlazado y ejecución en entorno local.
 
 - Esta documentación asegura la **reproducibilidad** de todos los resultados y facilita el trabajo autónomo del estudiante.
+
+
+🔙 [Volver al repositorio principal](../..)
+
