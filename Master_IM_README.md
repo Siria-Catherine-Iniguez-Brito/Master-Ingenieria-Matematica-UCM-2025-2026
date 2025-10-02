@@ -1,9 +1,15 @@
 
 # 📘 MSc-Mathematical-Engineering-UCM-2025-2026
 
+![Fortran](https://img.shields.io/badge/Fortran-95-blueviolet)
+![C](https://img.shields.io/badge/C-Language-blue)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC)
+![macOS](https://img.shields.io/badge/OS-macOS-lightgrey)
+
 **Central repository for the MSc in Mathematical Engineering (UCM 2025-26), compiling coursework, projects, and exercises in scientific computing, numerical analysis, and mathematical modeling, showcasing technical skills and problem-solving abilities for STEM roles, data science, analytics, and research-industry applications.**
 
 ---
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
