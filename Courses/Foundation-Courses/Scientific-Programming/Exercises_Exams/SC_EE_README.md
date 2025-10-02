@@ -127,6 +127,7 @@ Se pueden ejecutar directamente con la extensión [Code Runner](https://marketpl
 2. Compilar con el siguiente comando:
 
 ```bash
+# Compilación de la práctica 7 con MINPACK
 gfortran -O2 Practica7.f90 minpack.f90 -o Practica7
 ```
 
@@ -369,5 +370,5 @@ gfortran programa.f90 -o programa -L/ruta/a/librerias -llapack -lminpack
 - Esta documentación asegura la **reproducibilidad** de todos los resultados y facilita el trabajo autónomo del estudiante.
 
 
-🔙 [Volver al repositorio principal](../..)
+🔙 [Volver a Scientific-Programming](../..)
 
