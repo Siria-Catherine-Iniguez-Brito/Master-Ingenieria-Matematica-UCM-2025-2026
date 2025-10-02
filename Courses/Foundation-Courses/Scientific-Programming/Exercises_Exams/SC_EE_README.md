@@ -3,37 +3,48 @@
 This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** for the **Scientific Programming** course in the MSc in Mathematical Engineering (UCM, 2025–2026).
 
 ## 📑 Índice
-- [📂 Estructura de la carpeta](#-estructura-de-la-carpeta)
-- [🗂️ Contenido de cada carpeta](#️-contenido-de-cada-carpeta)
-  - [📦 Archivos comunes por práctica](#-archivos-comunes-por-práctica)
-  - [📦 Archivos comunes por examen](#-archivos-comunes-por-examen)
-- [🛠️ Cómo compilar y ejecutar](#️-cómo-compilar-y-ejecutar)
-  - [✅ Prácticas 1 a 6](#-prácticas-1-a-6)
-  - [✅ Prácticas 7 y 8 (con librerías científicas)](#-prácticas-7-y-8-con-librerías-científicas)
-    - [▶️ Práctica 7: Sistema no lineal (usa minpack.f90)](#️-práctica-7-sistema-no-lineal-usa-minpackf90)
-    - [▶️ Práctica 8: Integración numérica (usa quadpack.f90)](#practica8)
-  - [✅ Exámenes (Exams)](#-exámenes-exams)
-  - [🧩 Librerías científicas (solo prácticas 7 y 8)](#-librerías-científicas-solo-prácticas-7-y-8)
-- [🔬 ¿Qué son MINPACK y QUADPACK?](#-qué-son-minpack-y-quadpack)
-  - [🧠 MINPACK – Resolución de sistemas no lineales](#-minpack--resolución-de-sistemas-no-lineales)
-  - [∫ QUADPACK – Integración numérica adaptativa](#-quadpack--integración-numérica-adaptativa)
-- [💻 Entorno utilizado](#-entorno-utilizado)
-- [⚙️ Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos)
-  - [⚖️ Aviso legal](#️-aviso-legal)
-  - [🚫 Buenas prácticas generales](#-buenas-prácticas-generales)
-  - [🛠 Instalación paso a paso](#-instalación-paso-a-paso)
-    - [1. Visual Studio Code](#1-visual-studio-code)
-    - [2. Extensión Modern Fortran](#2-extensión-modern-fortran)
-    - [3. Instalación manual de gfortran (sin Homebrew)](#3-instalación-manual-de-gfortran-sin-homebrew)
-    - [4. Verificación de la instalación](#4-verificación-de-la-instalación)
-- [▶️ Uso de gfortran en Visual Studio Code](#️-uso-de-gfortran-en-visual-studio-code)
-  - [1. Programas simples (sin librerías externas)](#1-programas-simples-sin-librerías-externas)
-  - [2. Programas que usan librerías externas (BLAS, LAPACK, Minpack)](#2-programas-que-usan-librerías-externas-blas-lapack-minpack)
-- [📎 Opciones útiles de compilación](#-opciones-útiles-de-compilación)
-- [💡 Buenas prácticas](#-buenas-prácticas)
-- [🔗 Recursos útiles](#-recursos-útiles)
-- [📚 Documentación complementaria](#-documentación-complementaria)
 
+1. **Estructura general y resumen**
+   - [📂 Estructura de la carpeta](#-estructura-de-la-carpeta)
+   - [📊 Resumen de prácticas y exámenes](#-resumen-de-prácticas-y-exámenes)
+
+2. **Detalles por carpeta**
+   - [🗂️ Contenido de cada carpeta](#-contenido-de-cada-carpeta)
+     - [📦 Archivos comunes por práctica](#-archivos-comunes-por-práctica)
+     - [📦 Archivos comunes por examen](#-archivos-comunes-por-examen)
+
+3. **Compilación y ejecución**
+   - [🛠️ Cómo compilar y ejecutar](#-cómo-compilar-y-ejecutar)
+     - [✅ Prácticas 1 a 6](#-prácticas-1-a-6)
+     - [✅ Prácticas 7 y 8 (con librerías científicas)](#-prácticas-7-y-8-con-librerías-científicas)
+       - [▶️ Práctica 7: Sistema no lineal (usa `minpack.f90`)](#️-práctica-7-sistema-no-lineal-usa-minpackf90)
+       - [▶️ Práctica 8: Integración numérica (usa `quadpack.f90`)](#practica8)
+     - [✅ Exámenes (Exams)](#-exámenes-exams)
+     - [🧩 Librerías científicas (solo prácticas 7 y 8)](#-librerías-científicas-solo-prácticas-7-y-8)
+
+4. **Información técnica**
+   - [🔬 ¿Qué son MINPACK y QUADPACK?](#-qué-son-minpack-y-quadpack)
+      - [🧠 MINPACK – Resolución de sistemas no lineales](#-minpack--resolución-de-sistemas-no-lineales)
+      - [∫ QUADPACK – Integración numérica adaptativa](#-quadpack--integración-numérica-adaptativa)
+   - [📎 Opciones útiles de compilación](#-opciones-útiles-de-compilación)
+   - [💻 Entorno utilizado](#-entorno-utilizado)
+   - [⚙️ Instalación del entorno en macOS](#️-instalación-del-entorno-en-macos)
+     - [⚖️ Aviso legal](#️-aviso-legal)
+     - [🚫 Buenas prácticas generales](#-buenas-prácticas-generales)
+     - [🛠 Instalación paso a paso](#-instalación-paso-a-paso)
+         - [1. Visual Studio Code](#1-visual-studio-code)
+         - [2. Extensión Modern Fortran](#2-extensión-modern-fortran)
+         - [3. Instalación manual de gfortran (sin Homebrew)](#3-instalación-manual-de-gfortran-sin-homebrew)
+         - [4. Verificación de la instalación](#4-verificación-de-la-instalación)
+
+5. **Otros**
+   - [▶️ Uso de gfortran en Visual Studio Code](#️-uso-de-gfortran-en-visual-studio-code)
+      - [1. Programas simples (sin librerías externas)](#1-programas-simples-sin-librerías-externas)
+      - [2. Programas que usan librerías externas (BLAS, LAPACK, Minpack)](#2-programas-que-usan-librerías-externas-blas-lapack-minpack)
+   - [📎 Opciones útiles de compilación](#-opciones-útiles-de-compilación)
+   - [💡 Buenas prácticas](#-buenas-prácticas)
+   - [🔗 Recursos útiles](#-recursos-útiles)
+   - [📚 Documentación complementaria](#-documentación-complementaria)
 
 ---
 
