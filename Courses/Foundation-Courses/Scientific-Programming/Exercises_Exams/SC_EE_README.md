@@ -101,15 +101,19 @@ Exercises_Exams/
 
 ## 📊 Resumen de prácticas y exámenes
 
-| Carpeta      | Lenguaje | Librerías | Tema principal            | Enunciado (.D1)                                             |
-|--------------|----------|-----------|----------------------------|-------------------------------------------------------------|
-| Practica1    | Fortran  | -         | Función directa/inversa    | [📄](Practica1/P1-FUNCION-DIRECTA-INVERSA.D1)               |
-| Practica2    | Fortran  | -         | Center and Corner Submatrix| [📄](Practica2/P2-SUBMATRIZ-CENTRO-ESQUINAS.D1)              |         
-| Practica6    | C        | -         | Rachas                     | [📄](Practica6/P6-RACHAS.D1)                                |
-| Practica7    | Fortran  | MINPACK   | Sistema no lineal          | [📄](Practica7/P7-SISTEMA-NO-LINEAL.D1)                     |
-| Practica8    | Fortran  | QUADPACK  | Integración numérica       | [📄](Practica8/P8-INTEGRAL-1.D1)                            |
-| Examen1      | Fortran  | -         | Submatriz mínimo absoluto  | [📄](Examen1/E1-SUBMATRIZ-ABSMIN.D1)                        |
-| Examen2      | Fortran  | -         | Ecuación                   | [📄](Examen2/E2-ECUACION.D1)                                |
+| Carpeta      | Lenguaje | Librerías  | Tema principal                  | 📁 Acceso directo             |
+|--------------|----------|------------|---------------------------------|-------------------------------|
+| Practica1    | Fortran  | –          | Función directa/inversa         | [📂 Practica1](Practica1/)    |
+| Practica2    | Fortran  | –          | Center and Corner Submatrix     | [📂 Practica2](Practica2/)    |
+| Practica3    | Fortran  | –          | Next Combination                | [📂 Practica3](Practica3/)    |
+| Practica4    | Fortran  | –          | Triangle                        | [📂 Practica4](Practica4/)    |
+| Practica5    | Fortran  | –          | Minimum n Bounds                | [📂 Practica5](Practica5/)    |
+| Practica6    | C        | –          | Rachas                          | [📂 Practica6](Practica6/)    |
+| Practica7    | Fortran  | MINPACK    | Sistema no lineal               | [📂 Practica7](Practica7/)    |
+| Practica8    | Fortran  | QUADPACK   | Integración numérica            | [📂 Practica8](Practica8/)    |
+| Examen1      | Fortran  | –          | Submatriz mínimo absoluto       | [📂 Examen1](Examen1/)        |
+| Examen2      | Fortran  | –          | Ecuación                        | [📂 Examen2](Examen2/)        |
+
 
 
 ---
