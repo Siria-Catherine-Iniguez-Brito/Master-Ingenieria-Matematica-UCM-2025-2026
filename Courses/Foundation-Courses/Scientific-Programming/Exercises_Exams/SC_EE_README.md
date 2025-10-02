@@ -48,25 +48,25 @@ Exercises_Exams/
 │   ├── Solucion1.sol
 │   └── P1-FUNCION-DIRECTA-INVERSA.D1
 ├── Practica2/
-│   ├── Practica1.f90
-│   ├── Datos1.dat
-│   ├── Solucion1.sol
-│   └── P1-FUNCION-DIRECTA-INVERSA.D1
+│   ├── Practica2.f90
+│   ├── Datos2.dat
+│   ├── Solucion2.sol
+│   └── P2-SUBMATRIZ-CENTRO-ESQUINAS.D1
 ├── Practica3/
-│   ├── Practica1.f90
-│   ├── Datos1.dat
-│   ├── Solucion1.sol
-│   └── P1-FUNCION-DIRECTA-INVERSA.D1
+│   ├── Practica3.f90
+│   ├── Datos3.dat
+│   ├── Solucion3.sol
+│   └── P3-SIGUIENTE-COMBINACION.D1
 ├── Practica4/
-│   ├── Practica1.f90
-│   ├── Datos1.dat
-│   ├── Solucion1.sol
-│   └── P1-FUNCION-DIRECTA-INVERSA.D1
+│   ├── Practica4.f90
+│   ├── Datos4.dat
+│   ├── Solucion4.sol
+│   └── P4-TRIANGULO.D1
 ├── Practica5/
-│   ├── Practica1.f90
-│   ├── Datos1.dat
-│   ├── Solucion1.sol
-│   └── P1-FUNCION-DIRECTA-INVERSA.D1
+│   ├── Practica5.f90
+│   ├── Datos5.dat
+│   ├── Solucion5.sol
+│   └── P5-MIN-n-cotas.D1
 ├── Practica6/
 │   ├── Practica6.c
 │   ├── Datos6.dat
