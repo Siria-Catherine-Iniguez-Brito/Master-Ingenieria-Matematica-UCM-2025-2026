@@ -2,11 +2,9 @@
 
 This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** for the **Scientific Programming** course in the MSc in Mathematical Engineering (UCM, 2025–2026).
 
-## 📑 Index
-
 ### 1. General Structure and Summary
-- [📂 Structure of Exercises_Exams](#structure-of-exercisesexams)
-- [📊 Summary of Practices and Exams](#resumen-de-prácticas-y-exámenes)
+- [📂 Structure of Exercises_Exams](#structure-of-exercises-exams)
+- [📊 Summary of Practices and Exams](#summary-of-practices-and-exams)
 
 ### 2. Details by Folder
 - [🗂️ Contents of Each Folder](#-contents-of-each-folder)  
@@ -48,7 +46,8 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
 ---
 ## 1. General Structure and Summary
 
-## 📂 Structure of `Exercises_Exams/`
+<h2 id="structure-of-exercises-exams">📂 Structure of <code>Exercises_Exams/</code></h2>
+
 
 ```plaintext
 Exercises_Exams/
@@ -110,7 +109,8 @@ Exercises_Exams/
 └── SC_Exercises_Exams_README
 ```
 
-## 📊 Resumen de prácticas y exámenes
+<h2 id="summary-of-practices-and-exams">📊 Summary of Practices and Exams</h2>
+
 
 | Folder | Language | Libraries | Main Topic | 📁 Direct Access |
 |--------------|----------|------------|---------------------------------|-------------------------------|
