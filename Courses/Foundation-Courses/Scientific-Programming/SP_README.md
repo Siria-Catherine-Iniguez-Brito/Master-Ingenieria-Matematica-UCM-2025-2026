@@ -119,7 +119,6 @@
 
 <h2 id="structure-scientific-programming">🗂️ Structure of <code>Scientific-Programming/</code></h2>
 
-
 ```plaintext
 Scientific-Programming/
 ├── SP_README.md
@@ -167,7 +166,6 @@ Scientific-Programming/
 
 📚 **Detailed documentation in Exercises_Exams**  
 The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in depth:
-
 - How to compile each assignment and exam.
 - Description of the development environment used.
 - Scientific libraries used and their configuration.
@@ -175,6 +173,7 @@ The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in dep
 - Concrete examples of compilation and execution on my system.
 
 This documentation complements the general information presented here, facilitating reproducibility and autonomous development for the student.
+
 --
 
 ## 🖥️ Environment Used
