@@ -100,8 +100,6 @@
 
 > 📌 **Note:** Assignments must be sent to the professor responsible for each language (Fortran or C) using the channels indicated in the virtual classroom or official teaching guide.
 
----
-
 ⚠️ **Important rules:**
 
 - Solutions printed only on screen will **not** be graded.  
