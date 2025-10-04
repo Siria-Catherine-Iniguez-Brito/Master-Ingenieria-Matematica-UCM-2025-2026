@@ -25,11 +25,12 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
 - [🔬 What are MINPACK and QUADPACK?](#minpack-quadpack)
 - [🧠 MINPACK – Solving Nonlinear Systems](#minpack-nonlinear)
 - [📎 Useful Compilation Options](#-useful-compilation-options)  
-- [💻 Environment Used](#-environment-used)  
-- [⚙️ Environment Setup on macOS](#-environment-setup-on-macos)  
-  - [⚖️ Legal Notice](#-legal-notice)  
-  - [🚫 General Best Practices](#-general-best-practices)  
-  - [🛠 Step-by-Step Installation](#-step-by-step-installation)  
+- [💻 Environment Used](#environment-used)
+- [⚙️ Environment Setup on macOS](#environment-setup-macos)
+  - [⚖️ Legal Notice](#legal-notice) 
+  - [🚫 General Best Practices](#general-best-practices)
+  - [🛠 Step-by-Step Installation](#step-by-step-installation)
+
     - [1. Visual Studio Code](#1-visual-studio-code)  
     - [2. Modern Fortran Extension](#2-modern-fortran-extension)  
     - [3. Manual Installation of gfortran (without Homebrew)](#3-manual-installation-of-gfortran-without-homebrew)  
@@ -260,7 +261,8 @@ These professional tools allow tackling problems with already validated algorith
 
 ---
 
-## 💻 Environment Used
+<h2 id="environment-used">💻 Environment Used</h2>
+
 
 - **Operating System:** macOS  
 - **Compiler:** `gfortran` version 9.0 or higher  
@@ -276,15 +278,16 @@ These professional tools allow tackling problems with already validated algorith
 ---
 
 
-## ⚙️ Environment Setup on macOS
+<h2 id="environment-setup-macos">⚙️ Environment Setup on macOS</h2>
+
 
 Guide for installing and using Fortran (gfortran) on macOS with Visual Studio Code — without using Homebrew
 
 This guide explains how to install and use **gfortran** on macOS using **Visual Studio Code** and the **Modern Fortran** extension, without the need for Homebrew. It is designed so that any user can set up their development environment and compile Fortran programs easily.
 
 ---
+<h3 id="legal-notice">⚖️ Legal Notice</h3>
 
-### ⚖️ Legal Notice
 
 gfortran and GCC are free-to-use compilers for Fortran 95/2003/2008/2018 and other languages such as C and C++.  
 They can be downloaded from:
@@ -297,7 +300,8 @@ The BLAS, LAPACK, and Minpack libraries are free to use and can be obtained from
 
 ---
 
-### 🚫 General Best Practices
+<h3 id="general-best-practices">🚫 General Best Practices</h3>
+
 
 - Avoid using **spaces** in folder and file names.
 - Do not use the desktop or "Documents" folders with spaces for compiling programs.
@@ -307,7 +311,8 @@ The BLAS, LAPACK, and Minpack libraries are free to use and can be obtained from
 ---
 
 
-### 🛠 Step-by-Step Installation
+<h3 id="step-by-step-installation">🛠 Step-by-Step Installation</h3>
+
 
 #### 1. Visual Studio Code
 
