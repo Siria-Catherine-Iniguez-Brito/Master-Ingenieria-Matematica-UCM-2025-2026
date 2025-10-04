@@ -186,4 +186,4 @@ For developing and compiling the assignments and exams of the course, the follow
 - Compiler: gfortran version 9.0 or higher
 - Editor: Visual Studio Code, with extensions for Fortran and C, improving coding and debugging experience.
 
-🔙 [Back to Scientific-Programming](..)
+
