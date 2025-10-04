@@ -176,7 +176,7 @@ These can be run directly with the [Code Runner](https://marketplace.visualstudi
 <h4 id="practice7-minpack">▶️ Practice 7: Nonlinear system (uses <code>minpack.f90</code>)</h4>
 
 1. Open the integrated terminal in Visual Studio Code and navigate to the `Practica7/` folder.
-2. Compile with the following command:
+2. Compile the program by running:
 
 ```bash
 # Compile practice 7 with MINPACK
@@ -184,13 +184,14 @@ gfortran -O2 Practica7.f90 minpack.f90 -o Practica7
 ```
 
 3. An executable named Practica7 will be generated.
-4. From the system terminal (or from VSCode if you are in the same folder), run:
+4. From the system terminal (or from VSCode if you are in the same folder), run the executable:
 
 ```bash
 ./Practica7
 ```
 
 This will generate the output file `Solucion7.sol`.
+> 💡 **Tip:** Ensure you have the `minpack.f90` file in the same folder.
 
 ---
 
@@ -214,6 +215,8 @@ gfortran -O2 Practica8.f90 quadpack.f90 -o Practica8
 ```
 
 This will generate the output file `Solucion8.sol`.
+
+> 💡 **Tip:** Ensure you have the `quadpack.f90` file in the same folder.
 
 ---
 
