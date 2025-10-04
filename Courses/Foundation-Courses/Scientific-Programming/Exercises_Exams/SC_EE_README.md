@@ -30,19 +30,19 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
   - [⚖️ Legal Notice](#legal-notice) 
   - [🚫 General Best Practices](#general-best-practices)
   - [🛠 Step-by-Step Installation](#step-by-step-installation)
-
     - [1. Visual Studio Code](#1-visual-studio-code)  
     - [2. Modern Fortran Extension](#2-modern-fortran-extension)  
     - [3. Manual Installation of gfortran (without Homebrew)](#3-manual-installation-of-gfortran-without-homebrew)  
     - [4. Installation Verification](#4-installation-verification)  
 
 ### 5. Others
-- [▶️ Using gfortran in Visual Studio Code](#-using-gfortran-in-visual-studio-code)  
+- [▶️ Using gfortran in Visual Studio Code](#using-gfortran-in-vscode) 
   - [1. Simple Programs (without external libraries)](#1-simple-programs-without-external-libraries)  
   - [2. Programs Using External Libraries (BLAS, LAPACK, Minpack)](#2-programs-using-external-libraries-blas-lapack-minpack)  
-- [💡 Best Practices](#-best-practices)  
-- [🔗 Useful Resources](#-useful-resources)  
-- [📚 Additional Documentation](#-additional-documentation)  
+- [💡 Best Practices](#best-practices)
+- [🔗 Useful Resources](#useful-resources) 
+- [📚 Additional Documentation](#additional-documentation)
+
 
 ---
 ## 1. General Structure and Summary
@@ -363,7 +363,7 @@ GNU Fortran (GCC) X.X.X
 ---
 ## 5. Others
 
-## ▶️ Using gfortran in Visual Studio Code
+<h2 id="using-gfortran-in-vscode">▶️ Using gfortran in Visual Studio Code</h2>
 
 ### 1. Simple Programs (without external libraries)
 
@@ -393,7 +393,8 @@ gfortran program.f90 -o program -L/path/to/libraries -llapack -lminpack
 
 ---
 
-## 💡 Best Practices
+<h2 id="best-practices">💡 Best Practices</h2>
+
 
 - Always use **IMPLICIT NONE** to avoid implicit type errors.  
 - Keep projects organized in folders dedicated to Fortran.  
@@ -401,7 +402,8 @@ gfortran program.f90 -o program -L/path/to/libraries -llapack -lminpack
 
 ---
 
-## 🔗 Useful Resources
+<h2 id="useful-resources">🔗 Useful Resources</h2>
+
 
 - [Modern Fortran VS Code Extension](https://marketplace.visualstudio.com/items?itemName=fortran-lang.fortran)  
 - [Fortran Libraries (BLAS, LAPACK, Minpack)](https://people.sc.fsu.edu/~jburkardt/f_src/f_src.html)  
@@ -409,7 +411,8 @@ gfortran program.f90 -o program -L/path/to/libraries -llapack -lminpack
 
 ---
 
-## 📚 Additional Documentation
+<h2 id="additional-documentation">📚 Additional Documentation</h2>
+
 
 - Each practice and exam includes a `.D1` statement file with problem details, expected input/output, and implementation objectives.
 
