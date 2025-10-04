@@ -21,10 +21,9 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
   - [🧩 Librerías científicas (solo prácticas 7 y 8)](#librerias-cientificas)
  
 
-### 4. Technical Information
+- [4. Technical Information](#technical-information)
 - [🔬 What are MINPACK and QUADPACK?](#minpack-quadpack)
 - [🧠 MINPACK – Solving Nonlinear Systems](#minpack-nonlinear)
-- 
 - [📎 Useful Compilation Options](#-useful-compilation-options)  
 - [💻 Environment Used](#-environment-used)  
 - [⚙️ Environment Setup on macOS](#-environment-setup-on-macos)  
