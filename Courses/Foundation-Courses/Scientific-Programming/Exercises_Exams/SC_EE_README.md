@@ -7,7 +7,7 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
 - [📊 Summary of Practices and Exams](#summary-of-practices-and-exams)
 
 ### 2. Details by Folder
-- [🗂️ Contents of Each Folder](#-contents-of-each-folder)  
+- [🗂️ Contents of Each Folder](#contents-of-each-folder)
   - [📦 Common Files per Practice](#-common-files-per-practice)  
   - [📦 Common Files per Exam](#-common-files-per-exam)  
 
@@ -130,7 +130,8 @@ Exercises_Exams/
 ---
 ## 2. Details by Folder
 
-## 🗂️ Contents of Each Folder
+<h2 id="contents-of-each-folder">🗂️ Contents of Each Folder</h2>
+
 
 Each practice or exam is located in an individual folder named `PracticaX` or `ExamenX`, where **X represents the corresponding number** (1 to 8 for practices, 1 and 2 for exams).
 
