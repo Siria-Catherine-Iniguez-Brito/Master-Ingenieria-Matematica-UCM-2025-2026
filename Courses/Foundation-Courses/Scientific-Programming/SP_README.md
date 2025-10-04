@@ -163,7 +163,7 @@ Scientific-Programming/
     └── Material_teorico.pdf (y otros recursos)
 
 ```
----
+
 
 📚 **Detailed documentation in Exercises_Exams**  
 The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in depth:
