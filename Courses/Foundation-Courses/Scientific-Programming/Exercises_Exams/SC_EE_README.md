@@ -5,7 +5,7 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
 ## 📑 Index
 
 ### 1. General Structure and Summary
-- [📂 Folder Structure](#-folder-structure)  
+- [📂 Structure of Exercises_Exams](#structure-of-exercises_exams)
 - [📊 Summary of Practices and Exams](#-summary-of-practices-and-exams)  
 
 ### 2. Details by Folder
