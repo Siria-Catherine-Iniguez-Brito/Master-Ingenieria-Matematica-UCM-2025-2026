@@ -18,7 +18,7 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
     - [▶️ Practice 7: Nonlinear system (uses `minpack.f90`)](#practice7-minpack)
     - [▶️ Practice 8: Numerical integration (uses `quadpack.f90`)](#practice8-quadpack)
 
-  - [✅ Exams](#-exams)  
+  - [✅ Exams](#exams)
   - [🧩 Scientific Libraries (only practices 7 and 8)](#-scientific-libraries-only-practices-7-and-8)  
 
 ### 4. Technical Information
@@ -218,7 +218,8 @@ This will generate the output file `Solucion8.sol`.
 
 ---
 
-### ✅ Exámenes (Exams)
+### ✅ Exams
+
 
 All exams are prepared to be run directly with the Run Code extension in Visual Studio Code, without special commands or external libraries.
 
