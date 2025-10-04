@@ -176,7 +176,7 @@ The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in dep
 
 This documentation complements the general information presented here, facilitating reproducibility and autonomous development for the student.
 
---
+
 ## 🖥️ Environment Used
 
 For developing and compiling the assignments and exams of the course, the following environment has been used:
