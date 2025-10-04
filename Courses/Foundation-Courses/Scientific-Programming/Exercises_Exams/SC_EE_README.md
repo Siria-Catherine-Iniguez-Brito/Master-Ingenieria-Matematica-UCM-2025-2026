@@ -48,7 +48,7 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
 ---
 ## 1. General Structure and Summary
 
-## 📂 Structure of Exercises_Exams/
+## 📂 Structure of `Exercises_Exams/`
 
 ```plaintext
 Exercises_Exams/
