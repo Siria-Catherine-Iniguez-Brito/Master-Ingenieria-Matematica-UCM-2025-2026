@@ -172,9 +172,7 @@ The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in dep
 - Scientific libraries used and their configuration.
 - Installation and setup process on my personal machine.
 - Concrete examples of compilation and execution on my system.
-
-This documentation complements the general information presented here, facilitating reproducibility and autonomous development for the student.
-
+  
 --
 
 ## 🖥️ Environment Used
