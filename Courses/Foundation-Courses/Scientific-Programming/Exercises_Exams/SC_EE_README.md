@@ -22,7 +22,6 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
  
 
 ### 4. Technical Information
-- [4. Technical Information](#technical-information)
 - [🔬 What are MINPACK and QUADPACK?](#minpack-quadpack)
 - [🧠 MINPACK – Solving Nonlinear Systems](#minpack-nonlinear)
 - 
