@@ -18,7 +18,8 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
     - [▶️ Practice 7: Nonlinear system (uses `minpack.f90`)](#practice7-minpack)
     - [▶️ Practice 8: Numerical integration (uses `quadpack.f90`)](#practice8-quadpack)
   - [✅ Exams](#exams)
-  - [🧩 Scientific Libraries (only practices 7 and 8)](#-scientific-libraries-only-practices-7-and-8)  
+  - [🧩 Librerías científicas (solo prácticas 7 y 8)](#librerias-cientificas)
+ 
 
 ### 4. Technical Information
 - [🔬 What are MINPACK and QUADPACK?](#-what-are-minpack-and-quadpack)  
@@ -224,7 +225,8 @@ All exams are prepared to be run directly with the Run Code extension in Visual 
 
 ---
 
-### 🧩 Librerías científicas (solo prácticas 7 y 8)
+<h3 id="librerias-cientificas">🧩 Librerías científicas (solo prácticas 7 y 8)</h3>
+
 
 - `minpack.f90`: Used in practice 7 to solve nonlinear systems..
 - `quadpack.f90`: Used in practice 8 for numerical integration.
