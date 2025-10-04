@@ -15,8 +15,9 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
 - [🛠️ How to Compile and Run](#️-how-to-compile-and-run)  
   - [✅ Practices 1 to 6](#-practices-1-to-6)  
   - [✅ Practices 7 and 8 (with scientific libraries)](#-practices-7-and-8-with-scientific-libraries)  
-    - [▶️ Practice 7: Nonlinear system (uses `minpack.f90`)](#-practice-7-nonlinear-system-uses-minpackf90)  
-    - [▶️ Practice 8: Numerical integration (uses `quadpack.f90`)](#-practice-8-numerical-integration-uses-quadpackf90)  
+    - [▶️ Practice 7: Nonlinear system (uses `minpack.f90`)](#practice7-minpack)
+    - [▶️ Practice 8: Numerical integration (uses `quadpack.f90`)](#practice8-quadpack)
+
   - [✅ Exams](#-exams)  
   - [🧩 Scientific Libraries (only practices 7 and 8)](#-scientific-libraries-only-practices-7-and-8)  
 
@@ -173,7 +174,7 @@ These can be run directly with the [Code Runner](https://marketplace.visualstudi
 
 ### ✅ Practices 7 and 8 (with scientific libraries)
 
-#### ▶️ Practice 7: Nonlinear system (uses `minpack.f90`)
+<h4 id="practice7-minpack">▶️ Practice 7: Nonlinear system (uses <code>minpack.f90</code>)</h4>
 
 1. Open the integrated terminal in Visual Studio Code and navigate to the `Practica7/` folder.
 2. Compile with the following command:
@@ -194,7 +195,7 @@ This will generate the output file `Solucion7.sol`.
 
 ---
 
-### Practice 8: Numerical integration (uses `quadpack.f90`) <a name="practica8"></a>
+<h4 id="practice8-quadpack">▶️ Practice 8: Numerical integration (uses <code>quadpack.f90</code>)</h4>
 
 
 1. Open the integrated terminal in Visual Studio Code and navigate to the `Practica8/` folder.
