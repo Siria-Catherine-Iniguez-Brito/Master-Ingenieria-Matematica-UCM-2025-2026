@@ -22,9 +22,10 @@ This directory contains all **assignments (PracticaX)** and **exams (ExamenX)** 
  
 
 ### 4. Technical Information
-- [🔬 What are MINPACK and QUADPACK?](#-what-are-minpack-and-quadpack)  
-  - [🧠 MINPACK – Solving Nonlinear Systems](#-minpack--solving-nonlinear-systems)  
-  - [∫ QUADPACK – Adaptive Numerical Integration](#-quadpack--adaptive-numerical-integration)  
+- [4. Technical Information](#technical-information)
+- [🔬 What are MINPACK and QUADPACK?](#minpack-quadpack)
+- [🧠 MINPACK – Solving Nonlinear Systems](#minpack-nonlinear)
+- 
 - [📎 Useful Compilation Options](#-useful-compilation-options)  
 - [💻 Environment Used](#-environment-used)  
 - [⚙️ Environment Setup on macOS](#-environment-setup-on-macos)  
@@ -234,10 +235,9 @@ All exams are prepared to be run directly with the Run Code extension in Visual 
 Each of these practices includes detailed instructions for compilation and execution.
 
 ---
-## 4. Technical Information
-## 🔬 What are MINPACK and QUADPACK?
-
-### 🧠 MINPACK – Solving Nonlinear Systems
+<h2 id="technical-information">4. Technical Information</h2>
+<h2 id="minpack-quadpack">🔬 What are MINPACK and QUADPACK?</h2>
+<h3 id="minpack-nonlinear">🧠 MINPACK – Solving Nonlinear Systems</h3>
 
 - **MINPACK** is a numerical library written in Fortran specialized in solving systems of nonlinear equations. Official documentation available at [Netlib](https://www.netlib.org/minpack/).
 - It implements efficient and robust algorithms based on methods such as **Levenberg-Marquardt**.
