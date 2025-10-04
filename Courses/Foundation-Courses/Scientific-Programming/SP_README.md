@@ -10,7 +10,6 @@
   - [🎯 Course Objectives](#-course-objectives)  
   - [🧠 Competences](#-competences)  
   - [🔄 Course Structure](#-course-structure)  
-
 - [🧪 Assignments for the 2025-26 Course](#assignments-for-the-2025-26-course)  
 - [📊 Assignments Evaluation](#-assignments-evaluation)  
 - [📦 Submission and Evaluation Guidelines](#-submission-and-evaluation-guidelines)  
@@ -165,6 +164,7 @@ Scientific-Programming/
     └── Material_teorico.pdf (y otros recursos)
 
 ```
+
 📚 **Detailed documentation in Exercises_Exams**  
 The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in depth:
 
@@ -177,7 +177,6 @@ The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in dep
 This documentation complements the general information presented here, facilitating reproducibility and autonomous development for the student.
 
 --
-
 ## 🖥️ Environment Used
 
 For developing and compiling the assignments and exams of the course, the following environment has been used:
