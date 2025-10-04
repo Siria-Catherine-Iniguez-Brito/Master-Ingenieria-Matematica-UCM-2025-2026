@@ -173,7 +173,7 @@ The file `SP_EE_README.md` (inside the `Exercises_Exams` folder) explains in dep
 - Installation and setup process on my personal machine.
 - Concrete examples of compilation and execution on my system.
   
---
+---
 
 ## 🖥️ Environment Used
 
