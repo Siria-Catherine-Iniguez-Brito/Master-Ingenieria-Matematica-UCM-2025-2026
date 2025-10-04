@@ -27,10 +27,11 @@ Foundation-Courses/
 └── Scientific-Programming/           # Specific course (taken in this case)
     ├── SC_README.md                  # Course-specific structure and contents
     │
-    ├── Theory/                       # Lecture notes and theoretical materials
+    ├── Exercises_Exams/              # Assignments, solved problems
     │   └── ...                       # (More files or subfolders inside)
-    └── Exercises_Exams/              # Assignments, solved problems
+    └── Theory/                       # Lecture notes and theoretical materials
         └── ...                       # (More files or subfolders inside)
+
 ```
 
 > 📌 **Note:** The ellipses (`...`) indicate that each folder may contain additional materials or nested subdirectories.  
