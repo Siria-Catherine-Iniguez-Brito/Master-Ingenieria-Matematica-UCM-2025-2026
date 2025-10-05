@@ -14,7 +14,7 @@ Durante el desarrollo del curso se han abordado dos lenguajes:
 - 🟢 **Fortran**: Introducción básica en la primera semana del curso.  
   Útil para abordar el lenguaje clásico en programación científica.
 
---
+---
 
 ## 📂 Estructura de `Theory_SP/`
 
