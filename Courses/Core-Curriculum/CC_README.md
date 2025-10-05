@@ -82,8 +82,8 @@ Core-Curriculum/
         └── [...]                           # (More files or subfolders inside)
 
 ```
->📌 NOTE:
-Each subfolder includes a course-specific `README.md` file explaining the internal structure and materials included for that subject.
+>📌 NOTE: Each subfolder includes a `XX_README.md` file with a description of its internal organization and contents about the course.
+
 
 ---
 
@@ -99,5 +99,3 @@ The types of materials included per course may vary but typically contain:
 - Datasets used in data-driven projects  
 - Instructions for reproducibility (e.g., environment setup, dependencies)  
 - Exams and practical case studies (when applicable)
-
-📎 For technical or organizational details, refer to the `README.md` file inside each course directory.
