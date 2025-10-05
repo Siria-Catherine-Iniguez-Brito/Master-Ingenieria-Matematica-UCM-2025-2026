@@ -112,8 +112,6 @@ This course aims to provide students with:
 - **Participation (10%)**  
   - Attendance and contribution to class discussions.  
 
-> ✅ *Feedback will be provided via the virtual campus.*
-
 ---
 
 ## 📦 Submission and Evaluation Guidelines
