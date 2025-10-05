@@ -8,10 +8,10 @@ According to the [official syllabus of the program](https://www.ucm.es/estudios/
 
 ## 📘 List of Foundation Courses Offered
 
-1. Numerical Linear Algebra  
-2. Optimization  
-3. Statistics  
-4. **Scientific Programming** ✅ *(course completed)*
+1. Numerical Linear Algebra - *9 ECTS*  
+2. Optimization  - *9 ECTS*  
+3. Statistics  - *9 ECTS*  
+4. **Scientific Programming** ✅ *(course completed)* - *9 ECTS*  
 
 ---
 
