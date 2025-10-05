@@ -93,7 +93,6 @@ This course aims to provide students with:
 |------------------------------------------|----------------------------------------------------------|----------------------|--------|
 | 1. Practice Assignments                  | Series of required SQL & modeling tasks                  | `Practices/`         | 30%    |
 | 2. Final Project                         | Design, build, and present a complete DB project         | `FinalProject/`      | 60%    |
-| 3. Participation                         | Attendance and class engagement                          | `N/A`                | 10%    |
 
 > 📌 Note: *All components are mandatory. Non-delivered or failed modules may require recovery tasks or resits.*
 
