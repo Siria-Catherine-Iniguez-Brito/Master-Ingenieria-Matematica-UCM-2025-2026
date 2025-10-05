@@ -39,7 +39,7 @@ Core-Curriculum/
 ├── Databases/                              # Databases
 └── Financial-Mathematics/                  # Foundations in Financial Mathematics
 ```
->>>📌 NOTE:
+>📌 NOTE:
 Each subfolder includes a course-specific `README.md` file explaining the internal structure and materials included for that subject.
 
 ---
