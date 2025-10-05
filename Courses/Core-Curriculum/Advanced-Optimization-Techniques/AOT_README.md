@@ -119,8 +119,6 @@ This course aims to enable students to:
 - Scripts: `.c`, `.f90`, `.py`, etc. depending on the implementation  
 - Supporting files: datasets, input files  
 - Report: `.pdf` or `.md` detailing methodology and conclusions  
-- Folder name:  
-  `AssignmentX_LastName_FirstName.zip`
 
 📤 **Delivery:**  
 Submit through the **virtual campus** or as instructed by the course instructor.
