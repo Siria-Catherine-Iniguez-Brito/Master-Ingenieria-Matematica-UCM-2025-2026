@@ -47,15 +47,26 @@ This folder is part of the `Core-Curriculum` inside the `Courses` directory of t
 
 ### 🔹 General
 
-- **CG1, CG2, CG3, CG4, CG5, CG7**
+- **CG1:** Capacity for analysis and synthesis.  
+- **CG2:** Capacity for organization and planning.  
+- **CG3:** Problem-solving skills.  
+- **CG4:** Teamwork skills.  
+- **CG5:** Autonomous learning ability.  
+- **CG7:** Critical reasoning skills.  
 
 ### 🔹 Transversal
 
-- **CT1, CT2**
+- **CT1:** Apply knowledge in new or unfamiliar contexts within multidisciplinary environments.  
+- **CT2:** Ability to apply acquired knowledge in professional practice.  
 
 ### 🔹 Specific
 
-- **CE2, CE3, CE4, CE5, CE6, CE7**
+- **CE2:** Plan the resolution of a problem considering available tools and constraints such as time and resources.  
+- **CE3:** Use software applications for statistical analysis, numerical and symbolic computation, graphical visualization, optimization, or others to experiment in Mathematics and solve problems.  
+- **CE4:** Develop programs that solve mathematical problems using the appropriate computational environment.  
+- **CE5:** Solve real-world problems and cases in engineering, industry, science, technology, and society through skills in modeling, numerical computation, simulation, and optimization.  
+- **CE6:** Develop programs that solve advanced mathematical problems using the appropriate computational environment.  
+- **CE7:** Use advanced tools for bibliographic research and manage, handle, and analyze large databases.  
 
 ---
 
