@@ -29,7 +29,7 @@ Foundation-Courses/
     │
     ├── Exercises_Exams/              # Assignments, solved problems
     │   └── ...                       # (More files or subfolders inside)
-    └── Theory/                       # Lecture notes and theoretical materials
+    └── Theory_SP/                       # Lecture notes and theoretical materials
         └── ...                       # (More files or subfolders inside)
 
 ```
