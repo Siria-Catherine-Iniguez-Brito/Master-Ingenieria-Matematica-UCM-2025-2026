@@ -148,6 +148,8 @@ Advanced-Optimization-Techniques/
     ├── Lecture2_ExactMethods.pdf
     ├── Lecture3_Metaheuristics.pdf
     └── Bibliography.md
+
+```
 ---
 
 ## 🖥️ Environment Used
