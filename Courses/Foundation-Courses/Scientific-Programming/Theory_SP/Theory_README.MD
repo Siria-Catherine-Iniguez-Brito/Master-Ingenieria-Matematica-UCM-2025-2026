@@ -70,6 +70,8 @@ Theory_SP/
 -  `Notes_Examples/`: Folder that groups examples referenced in the PDF notes.
 -  `C_Study_Notes.pdf`: A document focused on **C programming**, oriented toward scientific applications.
 
+---
+
 ## 📚 Recommended Resources
 
 To complement the learning process, you can consult the following external material:
