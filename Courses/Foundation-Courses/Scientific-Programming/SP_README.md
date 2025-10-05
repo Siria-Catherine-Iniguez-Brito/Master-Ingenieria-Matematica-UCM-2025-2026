@@ -58,7 +58,7 @@
 
 ---
 
-## Assignments for the 2025-26 Course
+## 🧪 Assignments for the 2025-26 Course
 
 | Assignment | Assignment                  | Statement Filename                      | Deadline                 |
 |----------------|-----------------------------|---------------------------------------|--------------------------|
