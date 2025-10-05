@@ -151,30 +151,13 @@ Advanced-Numerical-Methods/
 
 ## 🖥️ Environment Used
 
-The course relies on the following environment and tools:
+For developing and running the assignments and projects of the course, the following environment has been used:
 
-- **OS:** Windows, macOS, or Linux
-
-- **Languages:**  
-  - MATLAB  
-  - Python  
-
-- **IDEs / Tools:**  
-  - MATLAB  
-  - Visual Studio Code  
-  - Jupyter Notebook  
-
-- **Libraries & Packages:**
-
-  - **MATLAB:**  
-    - Built-in numerical solvers  
-    - Symbolic Math Toolbox  
-
-  - **Python:**  
-    - `numpy`  
-    - `scipy`  
-    - `matplotlib`  
-    - `fenics` (for Finite Element Methods)  
-    - `sympy`  
+- **OS:** Windows, macOS, or Linux  
+- **Languages:** MATLAB, Python  
+- **IDEs:** MATLAB IDE, VS Code, Jupyter Notebook  
+- **Libraries:**  
+  - *MATLAB:* built-in numerical solvers, Symbolic Math Toolbox  
+  - *Python:* numpy, scipy, matplotlib, fenics, sympy
 
 
