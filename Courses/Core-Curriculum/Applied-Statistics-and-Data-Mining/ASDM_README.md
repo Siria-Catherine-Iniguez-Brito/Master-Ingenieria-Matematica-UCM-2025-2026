@@ -157,6 +157,8 @@ Applied-Statistics-Data-Mining/
     ├── Lecture3_Modeling.pdf
     ├── ...
     └── Bibliography.md
+```
+---
 
 ## 🖥️ Environment Used
 
