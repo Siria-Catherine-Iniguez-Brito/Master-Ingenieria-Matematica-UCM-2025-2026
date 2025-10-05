@@ -95,9 +95,9 @@ This course aims to equip students with:
 
 | Assignment/Project | Description                                | Folder / Files                    | Weight in Final Grade |
 |--------------------|--------------------------------------------|----------------------------------|------------------------|
-| 1                  | Time Series Analysis (TEMA 2)              | `Assignment1/`                   | 30%                   |
-| 2                  | Unsupervised Learning (TEMA 4)             | `Assignment2/`                   | 30%                   |
-| 3                  | Supervised Learning (TEMA 5)               | `Assignment3/`                   | 30%                   |
+| 1                  | Time Series Analysis            | `Assignment1/`                   | 30%                   |
+| 2                  | Unsupervised Learning              | `Assignment2/`                   | 30%                   |
+| 3                  | Supervised Learning                | `Assignment3/`                   | 30%                   |
 
 > 📌 Note: *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
 
