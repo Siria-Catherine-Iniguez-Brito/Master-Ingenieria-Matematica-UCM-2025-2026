@@ -32,19 +32,62 @@ Core-Curriculum/
 ├── CC_README.md                            # General overview of core curriculum
 │
 ├── Applied-Statistics-Data-Mining/         # Applied Statistics & Data Mining
+│   ├── ASDM_README.md                      # Course-specific structure and contents
+│   │
+│   ├── Exercises_Exams/                    # Assignments, solved problems
+│   │   └── [...]                           # (More files or subfolders inside)
+│   └── Theory_SP/                          # Lecture notes and theoretical materials
+│       └── [...]                           # (More files or subfolders inside)
 ├── Advanced-Numerical-Methods/             # Advanced Numerical Methods
+│   ├── ANM_README.md                       # Course-specific structure and contents
+│   │
+│   ├── Exercises_Exams/                    # Assignments, solved problems
+│   │   └── [...]                           # (More files or subfolders inside)
+│   └── Theory_SP/                          # Lecture notes and theoretical materials
+│       └── [...]                           # (More files or subfolders inside)
 ├── Modeling-Simulation-Dynamical-Systems/  # Modeling & Simulation in Dynamical Systems
+│   ├── MSDS_README.md                      # Course-specific structure and contents
+│   │
+│   ├── Exercises_Exams/                    # Assignments, solved problems
+│   │   └── [...]                           # (More files or subfolders inside)
+│   └── Theory_SP/                          # Lecture notes and theoretical materials
+│       └── [...]                           # (More files or subfolders inside)
 ├── Deterministic-Models-Logistics/         # Deterministic Models in Logistics
+│   ├── DML_README.md                       # Course-specific structure and contents
+│   │
+│   ├── Exercises_Exams/                    # Assignments, solved problems
+│   │   └── [...]                           # (More files or subfolders inside)
+│   └── Theory_SP/                          # Lecture notes and theoretical materials
+│       └── [...]                           # (More files or subfolders inside)
 ├── Advanced-Optimization-Techniques/       # Advanced Optimization Techniques
+│   ├── AOT_README.md                       # Course-specific structure and contents
+│   │
+│   ├── Exercises_Exams/                    # Assignments, solved problems
+│   │   └── [...]                           # (More files or subfolders inside)
+│   └── Theory_SP/                          # Lecture notes and theoretical materials
+│       └── [...]                           # (More files or subfolders inside)
 ├── Databases/                              # Databases
+│   ├── DB_README.md                        # Course-specific structure and contents
+│   │
+│   ├── Exercises_Exams/                    # Assignments, solved problems
+│   │   └── [...]                           # (More files or subfolders inside)
+│   └── Theory_SP/                          # Lecture notes and theoretical materials
+│       └── [...]                           # (More files or subfolders inside)
 └── Financial-Mathematics/                  # Foundations in Financial Mathematics
+    ├── FM_README.md                        # Course-specific structure and contents
+    │
+    ├── Exercises_Exams/                    # Assignments, solved problems
+    │   └── [...]                           # (More files or subfolders inside)
+    └── Theory_SP/                          # Lecture notes and theoretical materials
+        └── [...]                           # (More files or subfolders inside)
+
 ```
 >📌 NOTE:
 Each subfolder includes a course-specific `README.md` file explaining the internal structure and materials included for that subject.
 
 ---
 
-✅ ENROLLED: All Core Courses Completed
+## ✅ ENROLLED: All Core Courses Completed
 
 I have registered for all required courses under the core curriculum module, and each folder documents the content covered throughout the semester.
 
