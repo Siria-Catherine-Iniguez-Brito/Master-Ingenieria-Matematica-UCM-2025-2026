@@ -177,7 +177,6 @@ The following software and tools are used throughout the course for data analysi
 
 - **R** (≥ version 4.x)
 - **Python** (≥ version 3.x)
-- **SAS** (version depending on institutional or local availability)
 
 ---
 
