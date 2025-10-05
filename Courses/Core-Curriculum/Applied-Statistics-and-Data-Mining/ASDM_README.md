@@ -23,13 +23,11 @@
 
 ### 📌 General Information
 
-- **Course:** Applied Statistics & Data Mining  
-- **Code:** 604330  
-- **Plan:** Master's Degree in Mathematical Engineering (2010–11)  
+- **Course:** Applied Statistics & Data Mining (Code: 604330)  
+- **Study Plan:** Master's Degree in Mathematical Engineering (2010–11)  
 - **Type:** Core Curriculum  
 - **ECTS:** 9  
 - **Semester:** 1st  
-- **Language:** Spanish  
 - **Requirements:** Basic knowledge of Probability and Statistics  
 - **Tools:** R / Python
 
