@@ -169,7 +169,7 @@ For developing and running the assignments and projects of the course, the follo
   - *R:* `tidyverse`, `caret`, `data.table`, `ggplot2`  
   - *Python:* `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `numpy`  
 
-> Installation and setup instructions are provided in each assignment’s `README.md`.
+> Installation and setup instructions are provided in each assignment’s `EE_README.md`.
 
 ---
 ### 📥 Installation & Setup
