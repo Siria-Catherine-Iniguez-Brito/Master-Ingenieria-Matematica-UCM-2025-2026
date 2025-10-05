@@ -8,11 +8,11 @@ Este directorio recoge el material **teórico y práctico** trabajado en la asig
 
 Durante el desarrollo del curso se han abordado dos lenguajes:
 
-- 🔷 **C**: Introducción básica en la segunda semana del curso.  
-  Se ha trabajado con ejemplos y ejercicios prácticos.
-
 - 🟢 **Fortran**: Introducción básica en la primera semana del curso.  
   Útil para abordar el lenguaje clásico en programación científica.
+
+- 🔷 **C**: Introducción básica en la segunda semana del curso.  
+  Se ha trabajado con ejemplos y ejercicios prácticos.
 
 ---
 
