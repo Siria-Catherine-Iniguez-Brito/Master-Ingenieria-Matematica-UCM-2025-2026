@@ -89,7 +89,7 @@ This course aims to enable students to:
 | 1                  | Model implementation and problem solving with software  | `Assignment1/`         | 55%                   |
 | 2                  | Final project: Case modeling, implementation, analysis  | `Assignment2/`         | 45%                   |
 
-> 📌 *Each assignment must be completed to pass the course. Late submissions may be penalized or rejected.*
+> 📌 Note: *Each assignment must be completed to pass the course. Late submissions may be penalized or rejected.*
 
 ---
 
