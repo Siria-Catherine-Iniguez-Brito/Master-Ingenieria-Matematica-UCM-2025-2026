@@ -1,6 +1,6 @@
 # 📊 Applied Statistics & Data Mining
 
-📁 This sub-folder belongs to the `Core-Curriculum` inside the `Courses` directory of the general repository for the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Applied Statistics & Data Mining** course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid). Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
+📁 This sub-folder is part of the `Core-Curriculum` inside the `Courses` directory of the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Applied Statistics & Data Mining** course and includes all relevant **assignments**, **objectives**, **competences**, and **submission guidelines**.
 
 ---
 
@@ -35,14 +35,14 @@
 
 ### 🎯 Course Objectives
 
-The course aims to provide students with:
+This course aims to equip students with:
 
-1. Theoretical and practical knowledge to **apply statistical tools** effectively.
-2. Skills for **time series modeling**, **dimensionality reduction**, and **data clustering**.
-3. Understanding of **relationships among variables** and their interpretation.
-4. Ability to build predictive models for **classification and regression**.
-5. Experience using programming languages (**R**, **Python**) for real-world applications.
-6. Solid foundation to tackle **data-driven decision-making** problems in science, industry, or society.
+1. Theoretical and practical knowledge for applying statistical and data mining techniques.
+2. Skills to model time series, reduce dimensionality, and group data.
+3. Ability to analyze and interpret variable relationships.
+4. Competence in developing predictive models for classification and regression.
+5. Proficiency in using R and Python for data analysis.
+6. A foundation for data-driven decision making across scientific and professional contexts.
 
 ---
 
