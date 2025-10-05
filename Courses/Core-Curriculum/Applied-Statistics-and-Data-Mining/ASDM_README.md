@@ -63,7 +63,7 @@
 
 ## 🧪 Assignments and Projects
 
-| Assignment/Project No. | Description                                | Filename(s) / Folder                | Deadline                 |
+| Assignment/Project | Description                                | Filename(s) / Folder                | Deadline                 |
 |-----------------------|--------------------------------------------|-----------------------------------|--------------------------|
 | 1                     | Exploratory Data Analysis & Visualization  | `Assignment1/`                    | TBD                      |
 | 2                     | Statistical Inference Exercises             | `Assignment2/`                    | TBD                      |
