@@ -2,6 +2,8 @@
 
 📁 This sub-folder belongs to the `Core-Curriculum` folder of the general repository for the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Applied Statistics & Data Mining** course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid). Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
 
+---
+
 ## 📑 Index
 
 - [📘 Teaching Guide](#-teaching-guide)  
@@ -20,67 +22,100 @@
 ## 📘 Teaching Guide
 
 ### 📌 General Information
-- **Course:** Applied Statistics & Data Mining (Code: 604330)  
-- **Study Plan:** Master's Degree in Mathematical Engineering (Complutense University of Madrid)  
+
+- **Course:** Applied Statistics & Data Mining  
+- **Code:** 604330  
+- **Plan:** Master's Degree in Mathematical Engineering (2010–11)  
 - **Type:** Core Curriculum  
 - **ECTS:** 9  
 - **Semester:** 1st  
+- **Language:** Spanish  
+- **Requirements:** Basic knowledge of Probability and Statistics  
+- **Tools:** SAS / R / Python
+
+---
 
 ### 🎯 Course Objectives
 
-- Introduce fundamental concepts and methods in **applied statistics** and **data mining**.  
-- Develop proficiency in statistical data analysis and exploratory data mining techniques.  
-- Apply statistical software and programming languages (mainly **R** and **Python**) to real datasets.  
-- Understand and implement machine learning algorithms for classification, regression, and clustering.  
-- Prepare students for advanced applications in mathematical engineering and data-driven decision making.
+The course aims to provide students with:
+
+1. Theoretical and practical knowledge to **apply statistical tools** effectively.
+2. Skills for **time series modeling**, **dimensionality reduction**, and **data clustering**.
+3. Understanding of **relationships among variables** and their interpretation.
+4. Ability to build predictive models for **classification and regression**.
+5. Experience using programming languages (**SAS**, **R**, **Python**) for real-world applications.
+6. Solid foundation to tackle **data-driven decision-making** problems in science, industry, or society.
 
 ---
 
 ## 🧠 Competences
 
-- **General (CG5):** Apply statistical and computational tools to analyze complex datasets.  
-- **Specific:**  
-  - Understanding of descriptive and inferential statistics.  
-  - Use of statistical software (R, Python).  
-  - Knowledge of supervised and unsupervised learning methods.  
-  - Ability to preprocess and visualize data effectively.  
-  - Application of data mining techniques to real problems.
+### 🔹 General
+
+- **CG1:** Apply acquired knowledge to new or multidisciplinary contexts.  
+- **CG2:** Formulate and justify hypotheses, arguments, and work plans.  
+- **CG3:** Make judgments based on standards, reflection, or external norms.  
+- **CG4:** Communicate results clearly to both expert and non-expert audiences.  
+- **CG7:** Abstract real-world problems into mathematical/statistical models.
+
+### 🔹 Transversal
+
+- **CT1:** Professionally apply knowledge in case studies and problem-solving.  
+- **CT2:** Gather and interpret scientific and technical data with critical thinking.
+
+### 🔹 Specific
+
+- **CE1:** Solid training in statistics, stochastic models, and decision-making.  
+- **CE2:** Ability to plan solutions considering resources and constraints.  
+- **CE3:** Use of advanced computational tools for complex problems.  
+- **CE4:** Develop autonomous learning in statistics and mathematics.  
+- **CE5:** Solve real-world statistical-computational problems.  
+- **CE7:** Manage and analyze large datasets using bibliographic resources.
 
 ---
 
 ## 🔄 Course Structure
 
-- 📚 **Theoretical classes**  
-  → Concepts of probability, statistical inference, regression, classification, clustering, and data preprocessing.  
+### 📚 Theoretical Classes
 
-- 💻 **Practical sessions**  
-  → Hands-on exercises using R and Python on real datasets.  
+- Expository presentation of statistical and data mining concepts.  
+- Topics: probability, inference, regression, clustering, classification, etc.
 
-- 🧪 **Assignments and projects**  
-  → Application of learned methods to analyze datasets and solve case studies.
+### 💻 Practical Sessions
+
+- Case studies and exercises using **R**, **Python**, or **SAS**.  
+- Focus on interpretation and application of techniques.
+
+### 🧪 Practices and Projects
+
+- Real-world datasets analyzed through individual or group work.  
+- Emphasis on **coding**, **report writing**, and **insight communication**.
 
 ---
 
 ## 🧪 Assignments and Projects
 
-| Assignment/Project | Description                                | Filename(s) / Folder                | Deadline                 |
-|-----------------------|--------------------------------------------|-----------------------------------|--------------------------|
-| 1                     | Exploratory Data Analysis & Visualization  | `Assignment1/`                    | TBD                      |
-| 2                     | Statistical Inference Exercises             | `Assignment2/`                    | TBD                      |
-| 3                     | Regression and Classification Models       | `Assignment3/`                    | TBD                      |
-| 4                     | Clustering and Unsupervised Learning       | `Assignment4/`                    | TBD                      |
-| 5                     | Final Project: Data Mining Case Study       | `Final_Project/`                  | TBD                      |
+| Assignment/Project | Description                                | Folder / Files                    | Weight in Final Grade |
+|--------------------|--------------------------------------------|----------------------------------|------------------------|
+| 1                  | Time Series Analysis (TEMA 2)              | `Assignment1/`                   | 30%                   |
+| 2                  | Unsupervised Learning (TEMA 4)             | `Assignment2/`                   | 30%                   |
+| 3                  | Supervised Learning (TEMA 5)               | `Assignment3/`                   | 30%                   |
+| 4                  | Participation & Attendance                | -                                | 10%                   |
 
-*Note: Specific deadlines and assignment details are available in the course virtual classroom.*
+📌 *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
 
 ---
 
 ## 📊 Assignments Evaluation
 
-- Each assignment contributes a portion of the final grade, weighted according to complexity and workload.  
-- The final project has the highest weight and evaluates integration of all course concepts.  
-- Active participation and timely submission are required for a passing grade.  
-- Evaluation criteria include correctness, code quality, analysis depth, and presentation.
+- Each major assignment represents **30%** of the final grade.  
+- Attendance and participation contribute an additional **10%**.  
+- **All assignments are mandatory** and must be passed individually.  
+- Evaluation criteria:
+  - Correctness and efficiency of the solution.
+  - Code quality and documentation.
+  - Analytical insight and result interpretation.
+  - Report clarity and presentation.
 
 ---
 
@@ -88,20 +123,21 @@
 
 ✅ **Submission format:**
 
-- Source code and scripts in `.R` or `.py` format.  
-- Data files used or processed (CSV, TXT, etc.).  
-- A report/document in PDF or Markdown detailing methods, results, and conclusions.  
-- Assignments should be submitted as a compressed folder named `AssignmentX_LastName_FirstName.zip` or similar.
+- Scripts: `.R`, `.py`, or `.sas` depending on assignment.  
+- Dataset(s) used (e.g., `.csv`, `.txt`)  
+- Report: `.pdf` or `.md` summarizing methods and results  
+- Submission: Compressed folder named as  
+  `AssignmentX_LastName_FirstName.zip`
 
-📤 **Official submission:**
+📤 **Delivery:**
 
-> 📌 **Note:** Assignments must be submitted via the official university virtual platform or via the channels specified by the instructor.
+- Submit via the **university virtual classroom** or channels defined by the instructor.
 
 ⚠️ **Important rules:**
 
-- Late submissions may be penalized or not accepted.  
-- Plagiarism or copying is strictly prohibited and subject to disciplinary action.  
-- Collaboration policies are specified in the course guide; generally, individual work is required unless explicitly allowed.
+- ❌ **Late submissions** may not be accepted or will be penalized.  
+- ❌ **Plagiarism** is strictly forbidden and may lead to failure or disciplinary action.  
+- ✔️ Follow individual or group rules as specified in each task.
 
 ---
 
@@ -112,35 +148,56 @@ Applied-Statistics-Data-Mining/
 ├── ASDM_README.md                      # This overview document
 │
 ├── Exercises_Exams/                    # Assignments and exams
-│   ├── Assignment1/
-│   │   ├── scripts/                    # R/Python scripts
+│   ├── Assignment1/                    # Time Series
+│   │   ├── scripts/                    # R / Python / SAS
 │   │   ├── data/                       # Input datasets
-│   │   ├── report.pdf                  # Assignment report
-│   │   └── README.md                   # Assignment-specific instructions
-│   ├── Assignment2/
-│   │   └── ...
-│   ├── ...
-│   └── Final_Project/
-│       ├── scripts/
-│       ├── data/
-│       ├── final_report.pdf
-│       └── README.md
+│   │   ├── report.pdf
+│   │   └── README.md
+│   ├── Assignment2/                    # Unsupervised Learning
+│   ├── Assignment3/                    # Supervised Learning
+│   └── Final_Project/ (optional)
 │
-└── Theory_SP/                         # Lecture notes, slides, and reference materials
-    ├── Lecture1_Introduction.pdf
-    ├── Lecture2_Probability_Review.pdf
+└── Theory_SP/                          # Lecture notes and slides
+    ├── Lecture1_Intro.pdf
+    ├── Lecture2_TimeSeries.pdf
+    ├── Lecture3_Modeling.pdf
     ├── ...
     └── Bibliography.md
-```
+
 ## 🖥️ Environment Used
 
-The practical work and assignments were developed using:
-- Operating System: Windows 10 / macOS / Linux (varies)
-- Programming Languages: R (version 4.x), Python (version 3.x)
-- IDE/Editors: RStudio, Jupyter Notebooks, Visual Studio Code
-- Key Libraries:
-- R: tidyverse, caret, data.table, ggplot2
-- Python: pandas, scikit-learn, matplotlib, seaborn, numpy
+Operating System: Windows 10 / macOS / Linux (varies)
 
-Installation and environment setup instructions are available in each assignment's README.
+Programming Languages: 
+- R (version 4.x)
+- Python (version 3.x)
+- SAS (version depends on platform availability)
+
+IDE/Editors: 
+- RStudio
+- Jupyter Notebooks
+- Visual Studio Code
+- SAS Studio (or local installation)
+
+Key Libraries:
+
+R:
+- tidyverse
+- caret
+- data.table
+- ggplot2
+
+Python:
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- numpy
+
+SAS:
+- Base SAS procedures
+- SAS/STAT for modeling
+
+Installation and environment setup instructions are available in each assignment's `README.md`.
+
 
