@@ -139,9 +139,11 @@ Advanced-Optimization-Techniques/
 │   ├── Assignment1/                   # Optimization modeling & software
 │   │   ├── code/                      # Source code in C / Fortran / Python
 │   │   ├── data/                      # Input data or instances
-│   │   ├── report.pdf
-│   │   └── README.md
+│   │   └── report.pdf
 │   └── Assignment2/                   # Final project
+│       ├── code/                      # Source code in C / Fortran / Python
+│       ├── data/                      # Input data or instances
+│       └── report.pdf
 │
 └── Theory_AOT/                        # Slides, lectures, theory material
     ├── Lecture1_Intro.pdf
