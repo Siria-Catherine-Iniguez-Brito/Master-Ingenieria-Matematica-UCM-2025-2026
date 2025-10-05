@@ -139,7 +139,7 @@ Applied-Statistics-Data-Mining/
 ├── ASDM_README.md                      # This overview document
 │
 ├── Exercises_Exams/                    # Assignments and exams
-│   ├──`ASDM_EE_README.md`
+│   ├── ASDM_EE_README.md
 │   │
 │   ├── Assignment1/                    # Time Series
 │   │   ├── scripts/                    # R / Python / SAS
