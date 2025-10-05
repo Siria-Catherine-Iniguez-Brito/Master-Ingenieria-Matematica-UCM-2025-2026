@@ -1,4 +1,4 @@
-# 🎯 Core Curriculum
+# 📚 Core Curriculum
 
 This folder contains content and documentation related to the **core curriculum** of the **Master’s Degree in Mathematical Engineering** at the **Complutense University of Madrid (UCM)**.
 
