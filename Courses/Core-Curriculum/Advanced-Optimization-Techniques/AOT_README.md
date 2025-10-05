@@ -118,7 +118,8 @@ This course aims to enable students to:
 
 - Scripts: `.c`, `.f90`, `.py`, etc. depending on the implementation  
 - Supporting files: datasets, input files  
-- Report: `.pdf` or `.md` detailing methodology and conclusions  
+- Report: `.pdf` or `.md` detailing methodology and conclusions
+- **PONER COMO SE MANDAN LOS TRABAJOS**
 
 📤 **Delivery:**  
 Submit through the **virtual campus** or as instructed by the course instructor.
