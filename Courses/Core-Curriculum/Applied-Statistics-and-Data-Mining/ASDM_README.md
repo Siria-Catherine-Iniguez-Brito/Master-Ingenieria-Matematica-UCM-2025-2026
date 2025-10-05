@@ -99,7 +99,7 @@ The course aims to provide students with:
 | 2                  | Unsupervised Learning (TEMA 4)             | `Assignment2/`                   | 30%                   |
 | 3                  | Supervised Learning (TEMA 5)               | `Assignment3/`                   | 30%                   |
 
-> 📌 *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
+> 📌 Note: *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
 
 ---
 
@@ -139,14 +139,15 @@ Applied-Statistics-Data-Mining/
 ├── ASDM_README.md                      # This overview document
 │
 ├── Exercises_Exams/                    # Assignments and exams
+│   ├──`ASDM_EE_README.md`
+│   │
 │   ├── Assignment1/                    # Time Series
 │   │   ├── scripts/                    # R / Python / SAS
 │   │   ├── data/                       # Input datasets
 │   │   ├── report.pdf
 │   │   └── README.md
 │   ├── Assignment2/                    # Unsupervised Learning
-│   ├── Assignment3/                    # Supervised Learning
-│   └── Final_Project/ (optional)
+│   └── Assignment3/                    # Supervised Learning
 │
 └── Theory_SP/                          # Lecture notes and slides
     ├── Lecture1_Intro.pdf
@@ -169,13 +170,6 @@ For developing and running the assignments and projects of the course, the follo
   - *R:* `tidyverse`, `caret`, `data.table`, `ggplot2`  
   - *Python:* `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `numpy`  
 
-> Installation and setup instructions are provided in each assignment’s `EE_README.md`.
-
----
-### 📥 Installation & Setup
-
-Detailed setup instructions, including package installation and environment configuration, are provided in the `README.md` file of each assignment folder.
-
-> 💡 *Students are encouraged to set up virtual environments or use tools like `conda`, `renv` (R), or Docker if needed to isolate dependencies.*
+> 📌 Note: Installation and setup instructions are provided `ASDM_EE_README.md`.
 
 
