@@ -114,6 +114,7 @@ This course aims to provide students with:
 ---
 
 ## 📦 Submission and Evaluation Guidelines
+**Cambiar si es necesario**
 
 ✅ **Submission Format:**
 
@@ -128,6 +129,8 @@ This course aims to provide students with:
 ---
 
 ## 🗂️ Structure of `Databases/` <a id="structure-databases"></a>
+
+**Cambiar si es necesario**
 
 ```plaintext
 Databases/
