@@ -163,12 +163,11 @@ Applied-Statistics-Data-Mining/
 For developing and running the assignments and projects of the course, the following environment has been used:
 
 - **Operating System:** Windows 10 / macOS / Linux (varies by user)  
-- **Programming Languages:** R (version 4.x), Python (version 3.x), SAS (version may vary)  
+- **Programming Languages:** R (version 4.x), Python (version 3.x)
 - **Editors / IDEs:** RStudio, Jupyter Notebooks, Visual Studio Code, SAS Studio (or local SAS installation)  
 - **Main Libraries and Tools:**  
   - *R:* `tidyverse`, `caret`, `data.table`, `ggplot2`  
   - *Python:* `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `numpy`  
-  - *SAS:* Base procedures and `SAS/STAT` for statistical modeling  
 
 > Installation and setup instructions are provided in each assignment’s `README.md`.
 
