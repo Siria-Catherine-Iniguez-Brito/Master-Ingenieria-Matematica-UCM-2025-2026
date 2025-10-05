@@ -153,7 +153,7 @@ Master-Ingenieria-Matematica-UCM/
 │   │   └── Scientific-Programming/
 │   │       ├── SP_README.md
 │   │       │   
-│   │       ├── Theory/
+│   │       ├── Theory_SP/
 │   │       │   
 │   │       └── Exercices_Exams/
 │   │           ├── SP_EE_README.md
