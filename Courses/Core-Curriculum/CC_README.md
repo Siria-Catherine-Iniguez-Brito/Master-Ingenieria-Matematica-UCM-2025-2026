@@ -12,14 +12,11 @@ Según el [plan de estudios oficial del máster](https://www.ucm.es/estudios/mas
 He completado **todas** las asignaturas obligatorias del plan de estudios, distribuidas a lo largo del primer y segundo semestre:
 
 1. Ecuaciones Diferenciales Parciales (EDP)  
-2. Programación Científica ✅  
 3. Simulación Estocástica  
 4. Ecuaciones Diferenciales Ordinarias (EDO)  
 5. Modelado y Control  
 6. Matemática Industrial  
 7. Técnicas de Optimización  
-8. Prácticas Externas  
-9. Trabajo Fin de Máster (TFM)
 
 ---
 
