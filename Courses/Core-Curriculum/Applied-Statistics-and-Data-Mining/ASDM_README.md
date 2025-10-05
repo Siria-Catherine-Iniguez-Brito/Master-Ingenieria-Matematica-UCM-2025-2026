@@ -122,7 +122,8 @@ This course aims to equip students with:
 
 - Scripts: `.R`, or `.py` depending on assignment.  
 - Dataset(s) used (e.g., `.csv`, `.txt`)  
-- Report: `.pdf` or `.md` summarizing methods and results  
+- Report: `.pdf` or `.md` summarizing methods and results
+- **PONER CORRECTAMENTE COMO SE MANDAN LOS ARCHIVOS AL PROFESOR**  
 
 📤 **Delivery:**
 
