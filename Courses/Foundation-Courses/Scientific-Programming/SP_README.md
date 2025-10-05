@@ -60,7 +60,7 @@
 
 ## Assignments for the 2025-26 Course
 
-| Assignment No. | Assignment                  | Statement Filename                      | Deadline                 |
+| Assignment | Assignment                  | Statement Filename                      | Deadline                 |
 |----------------|-----------------------------|---------------------------------------|--------------------------|
 | 1              | Direct and Inverse Function | P1-FUNCION-DIRECTA-INVERSA.D1         | Thursday, Sept 11, 2025  |
 | 2              | Center and Corner Submatrix | P2-SUBMATRIZ-CENTRO-ESQUINAS.D1       | Thursday, Sept 11, 2025  |
