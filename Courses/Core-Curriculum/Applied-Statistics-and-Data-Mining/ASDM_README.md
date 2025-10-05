@@ -41,7 +41,7 @@ The course aims to provide students with:
 2. Skills for **time series modeling**, **dimensionality reduction**, and **data clustering**.
 3. Understanding of **relationships among variables** and their interpretation.
 4. Ability to build predictive models for **classification and regression**.
-5. Experience using programming languages (**SAS**, **R**, **Python**) for real-world applications.
+5. Experience using programming languages (**R**, **Python**) for real-world applications.
 6. Solid foundation to tackle **data-driven decision-making** problems in science, industry, or society.
 
 ---
