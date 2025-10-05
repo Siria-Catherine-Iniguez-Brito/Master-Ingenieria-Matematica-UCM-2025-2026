@@ -1,5 +1,5 @@
 
-# 📦 Deterministic Models in Logistics - 604333
+# 📦 Deterministic Models in Logistics 
 
 This folder is part of the `Core-Curriculum` inside the `Courses` directory of the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Deterministic Models in Logistics** course and includes all relevant **assignments**, **objectives**, **competences**, and **submission guidelines** for the 2025-26 academic year.
 
@@ -24,7 +24,7 @@ This folder is part of the `Core-Curriculum` inside the `Courses` directory of t
 
 ### 📌 General Information
 
-- **Course:** MODELOS DETERMINÍSTICOS EN LOGÍSTICA (Code: 604333)  
+- **Course:** Deterministic Models in Logistics (Code: 604333)  
 - **Study Plan:** Master's Degree in Mathematical Engineering (2010–11)  
 - **Type:** Obligatory  
 - **ECTS:** 4.5  
