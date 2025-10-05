@@ -155,53 +155,24 @@ Applied-Statistics-Data-Mining/
     ├── ...
     └── Bibliography.md
 ```
----
-## 🖥️ Computing Environment
-
-The following software and tools are used throughout the course for data analysis, modeling, and reporting:
-
-### 🧩 Operating Systems
-
-- **Windows 10 / 11**
-- **macOS** (Monterey and above)
-- **Linux** (Ubuntu, Fedora, etc.)
-
-> *The environment may vary depending on the student's local setup. All tools used are cross-platform.*
 
 ---
 
-### 💻 Programming Languages
+## 🖥️ Environment Used
 
-- **R** (≥ version 4.x)
-- **Python** (≥ version 3.x)
+For developing and running the assignments and projects of the course, the following environment has been used:
 
----
+- **Operating System:** Windows 10 / macOS / Linux (varies by user)  
+- **Programming Languages:** R (version 4.x), Python (version 3.x), SAS (version may vary)  
+- **Editors / IDEs:** RStudio, Jupyter Notebooks, Visual Studio Code, SAS Studio (or local SAS installation)  
+- **Main Libraries and Tools:**  
+  - *R:* `tidyverse`, `caret`, `data.table`, `ggplot2`  
+  - *Python:* `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `numpy`  
+  - *SAS:* Base procedures and `SAS/STAT` for statistical modeling  
 
-### 🛠️ Development Environments / Editors
-
-- **RStudio** – for R scripting and analysis  
-- **Jupyter Notebooks** – for interactive Python/R workflows  
-- **Visual Studio Code** – for multi-language development  
-
----
-
-### 📦 Key Libraries & Packages
-
-#### 🔹 R
-- `tidyverse` – data wrangling and visualization  
-- `caret` – machine learning workflows  
-- `data.table` – high-performance data manipulation  
-- `ggplot2` – advanced plotting
-
-#### 🔹 Python
-- `pandas` – data manipulation  
-- `scikit-learn` – machine learning models  
-- `matplotlib` – plotting and visualization  
-- `seaborn` – statistical data visualization  
-- `numpy` – numerical computing
+> Installation and setup instructions are provided in each assignment’s `README.md`.
 
 ---
-
 ### 📥 Installation & Setup
 
 Detailed setup instructions, including package installation and environment configuration, are provided in the `README.md` file of each assignment folder.
