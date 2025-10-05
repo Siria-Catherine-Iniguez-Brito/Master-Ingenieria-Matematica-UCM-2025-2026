@@ -5,7 +5,8 @@ This folder contains content and documentation related to the **core curriculum*
 
 According to the [official syllabus](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), the core curriculum (Module 1: *Contenidos Fundamentales*) consists of **mandatory courses** in applied mathematics and computational methods, providing essential training for the rest of the program.
 
-These courses amount to a total of **39 ECTS credits** and lay the groundwork for advanced topics covered later in the program.
+They total **39 ECTS credits** and provide the mathematical and computational foundations for the rest of the program.
+
 
 ---
 
