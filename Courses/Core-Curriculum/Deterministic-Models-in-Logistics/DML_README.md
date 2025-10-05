@@ -86,7 +86,7 @@ This folder is part of the `Core-Curriculum` inside the `Courses` directory of t
 |--------------------------|------------------------------------------------------------------|-----------------------------|-----------------------|
 | Final Project            | Model implementation, algorithm development, and results analysis | `FinalProject/`             | 40%                   |
 | Exercises and Codes      | Exercises delivery and code submission                           | `Exercises/`                | 20%                   |
-| Midterms and Final Exam  | Written tests and exam (minimum 4/10 to count)                  | `Exams/`                    | 40%                   |
+| Midterms and Final Exam  | Written tests and exam                 | `Exams/`                    | 40%                   |
 
 > 📌 *Note: The final exam requires at least a 4/10 to be considered in the final grade weighting.*
 
