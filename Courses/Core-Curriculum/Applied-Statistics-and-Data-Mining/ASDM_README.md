@@ -159,41 +159,57 @@ Applied-Statistics-Data-Mining/
     └── Bibliography.md
 ```
 ---
+## 🖥️ Computing Environment
 
-## 🖥️ Environment Used
+The following software and tools are used throughout the course for data analysis, modeling, and reporting:
 
-Operating System: Windows 10 / macOS / Linux (varies)
+### 🧩 Operating Systems
 
-Programming Languages: 
-- R (version 4.x)
-- Python (version 3.x)
-- SAS (version depends on platform availability)
+- **Windows 10 / 11**
+- **macOS** (Monterey and above)
+- **Linux** (Ubuntu, Fedora, etc.)
 
-IDE/Editors: 
-- RStudio
-- Jupyter Notebooks
-- Visual Studio Code
-- SAS Studio (or local installation)
+> *The environment may vary depending on the student's local setup. All tools used are cross-platform.*
 
-Key Libraries:
+---
 
-R:
-- tidyverse
-- caret
-- data.table
-- ggplot2
+### 💻 Programming Languages
 
-Python:
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
-- numpy
+- **R** (≥ version 4.x)
+- **Python** (≥ version 3.x)
+- **SAS** (version depending on institutional or local availability)
 
-SAS:
-- Base SAS procedures
-- SAS/STAT for modeling
+---
 
-Installation and environment setup instructions are available in each assignment's `README.md`.
+### 🛠️ Development Environments / Editors
+
+- **RStudio** – for R scripting and analysis  
+- **Jupyter Notebooks** – for interactive Python/R workflows  
+- **Visual Studio Code** – for multi-language development  
+
+---
+
+### 📦 Key Libraries & Packages
+
+#### 🔹 R
+- `tidyverse` – data wrangling and visualization  
+- `caret` – machine learning workflows  
+- `data.table` – high-performance data manipulation  
+- `ggplot2` – advanced plotting
+
+#### 🔹 Python
+- `pandas` – data manipulation  
+- `scikit-learn` – machine learning models  
+- `matplotlib` – plotting and visualization  
+- `seaborn` – statistical data visualization  
+- `numpy` – numerical computing
+
+---
+
+### 📥 Installation & Setup
+
+Detailed setup instructions, including package installation and environment configuration, are provided in the `README.md` file of each assignment folder.
+
+> 💡 *Students are encouraged to set up virtual environments or use tools like `conda`, `renv` (R), or Docker if needed to isolate dependencies.*
 
 
