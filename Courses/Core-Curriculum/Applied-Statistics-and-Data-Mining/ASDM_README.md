@@ -31,7 +31,7 @@
 - **Semester:** 1st  
 - **Language:** Spanish  
 - **Requirements:** Basic knowledge of Probability and Statistics  
-- **Tools:** SAS / R / Python
+- **Tools:** R / Python
 
 ---
 
