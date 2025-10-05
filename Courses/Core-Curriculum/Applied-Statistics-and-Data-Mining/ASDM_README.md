@@ -133,12 +133,6 @@ The course aims to provide students with:
 
 - Submit via the **university virtual classroom** or channels defined by the instructor.
 
-⚠️ **Important rules:**
-
-- ❌ **Late submissions** may not be accepted or will be penalized.  
-- ❌ **Plagiarism** is strictly forbidden and may lead to failure or disciplinary action.  
-- ✔️ Follow individual or group rules as specified in each task.
-
 ---
 
 ## 🗂️ Structure of `Applied-Statistics-Data-Mining/`
