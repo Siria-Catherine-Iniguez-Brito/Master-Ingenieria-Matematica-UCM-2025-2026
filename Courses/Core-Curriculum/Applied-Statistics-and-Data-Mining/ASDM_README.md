@@ -11,7 +11,7 @@
   - [🎯 Course Objectives](#-course-objectives)  
   - [🧠 Competences](#-competences)  
   - [🔄 Course Structure](#-course-structure)  
-- [🧪 Assignments for the 2025-26 Course](#assignments-and-projects)  
+- [🧪 Assignments for the 2025-26 Course](#-assignments-for-the-2025-26-Course)  
 - [📊 Assignments Evaluation](#-assignments-evaluation)  
 - [📦 Submission and Evaluation Guidelines](#-submission-and-evaluation-guidelines)  
 - [🗂️ Structure of `Applied-Statistics-Data-Mining/`](#structure-of-applied-statistics-data-mining)  
