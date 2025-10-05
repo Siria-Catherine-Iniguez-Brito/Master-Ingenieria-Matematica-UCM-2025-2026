@@ -1,4 +1,4 @@
-# 🧮 Advanced Optimization Techniques
+# 🔍 Advanced Optimization Techniques
 
 📁 This sub-folder is part of the `Core-Curriculum` inside the `Courses` directory of the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Advanced Optimization Techniques** course and includes all relevant **assignments**, **objectives**, **competences**, and **submission guidelines**.
 
