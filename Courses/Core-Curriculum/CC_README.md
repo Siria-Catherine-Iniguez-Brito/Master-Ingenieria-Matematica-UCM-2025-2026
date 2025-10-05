@@ -86,7 +86,7 @@ Core-Curriculum/
 
 - [`ASDM_README.md`](./Applied-Statistics-and-Data-Mining/ASDM_README.md) – *Applied Statistics & Data Mining*  
 - [`ANM_README.md`](./Advanced-Numerical-Methods/ANM_README.md) – *Advanced Numerical Methods*  
-- [`MSDS_README.md`](./Modeling-Simulation-Dynamical-Systems/MSDS_README.md) – *Modeling & Simulation in Dynamical Systems*  
+- [`MSDS_README.md`](./Modeling-and-Simulation-in-Dynamical-Systems/MSDS_README.md) – *Modeling & Simulation in Dynamical Systems*  
 - [`DML_README.md`](./Deterministic-Models-Logistics/DML_README.md) – *Deterministic Models in Logistics*  
 - [`AOT_README.md`](./Advanced-Optimization-Techniques/AOT_README.md) – *Advanced Optimization Techniques*  
 - [`DB_README.md`](./Databases/DB_README.md) – *Databases*  
