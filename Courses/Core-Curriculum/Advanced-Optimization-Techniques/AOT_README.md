@@ -163,4 +163,3 @@ The course relies on the following environment and tools:
   - *Python:* numpy, scipy, pymprog, matplotlib  
   - *Fortran/C:* numerical libraries (e.g., LAPACK, BLAS)
 
-> 📌 Additional resources and software tools are available in the course virtual campus.
