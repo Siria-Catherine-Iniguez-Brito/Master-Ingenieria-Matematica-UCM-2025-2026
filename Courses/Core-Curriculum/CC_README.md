@@ -1,10 +1,11 @@
 # 📚 Core Curriculum
 
+
 This folder contains content and documentation related to the **core curriculum** of the **Master’s Degree in Mathematical Engineering** at the **Complutense University of Madrid (UCM)**.
 
-According to the [official syllabus of the program](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), the core curriculum (Module 1: *Contenidos Fundamentales*) includes **required courses** in applied mathematics and scientific computation that every student must complete.
+According to the [official syllabus](https://www.ucm.es/estudios/master-ingenieriamatematica-plan), the core curriculum (Module 1: *Contenidos Fundamentales*) consists of **mandatory courses** in applied mathematics and computational methods, providing essential training for the rest of the program.
 
-These courses are worth a total of **39 ECTS credits** and provide essential training in the mathematical and computational foundations of the program.
+These courses amount to a total of **39 ECTS credits** and lay the groundwork for advanced topics covered later in the program.
 
 ---
 
