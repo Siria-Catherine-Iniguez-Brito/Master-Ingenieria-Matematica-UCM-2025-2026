@@ -122,6 +122,7 @@ Financial-Mathematics/
 │   │   ├── data/                        # Input datasets if any
 │   │   ├── solutions.pdf                # Solutions document
 │   │   └── README.md
+│   └── AssignmentN/ 
 │
 └── Lectures/                            # Lecture notes and slides
     ├── Lecture1_InterestTheory.pdf
