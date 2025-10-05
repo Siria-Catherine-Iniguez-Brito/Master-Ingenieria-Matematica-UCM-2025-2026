@@ -149,7 +149,7 @@ Applied-Statistics-Data-Mining/
 │   ├── Assignment2/                    # Unsupervised Learning
 │   └── Assignment3/                    # Supervised Learning
 │
-└── Theory_SP/                          # Lecture notes and slides
+└── Theory_ASDM/                        # Lecture notes and slides
     ├── Lecture1_Intro.pdf
     ├── Lecture2_TimeSeries.pdf
     ├── Lecture3_Modeling.pdf
