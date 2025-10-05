@@ -50,23 +50,23 @@ This course aims to equip students with:
 
 ### 🔹 General
 
-- **CG1:** Apply acquired knowledge to new or multidisciplinary contexts.  
-- **CG2:** Formulate and justify hypotheses, arguments, and work plans.  
-- **CG3:** Make judgments based on standards, reflection, or external norms.  
-- **CG4:** Communicate results clearly to both expert and non-expert audiences.  
-- **CG7:** Abstract real-world problems into mathematical/statistical models.
+- **CG1:** Apply knowledge to new or multidisciplinary contexts.  
+- **CG2:** Formulate and justify hypotheses and plans.  
+- **CG3:** Make informed judgments based on standards or reflection.  
+- **CG4:** Communicate results clearly to expert and non-expert audiences.  
+- **CG7:** Abstract real problems into mathematical/statistical models.
 
 ### 🔹 Transversal
 
-- **CT1:** Professionally apply knowledge in case studies and problem-solving.  
-- **CT2:** Gather and interpret scientific and technical data with critical thinking.
+- **CT1:** Apply knowledge professionally in case studies and problem-solving.  
+- **CT2:** Gather and critically interpret scientific and technical data.
 
 ### 🔹 Specific
 
 - **CE1:** Solid training in statistics, stochastic models, and decision-making.  
-- **CE2:** Ability to plan solutions considering resources and constraints.  
-- **CE3:** Use of advanced computational tools for complex problems.  
-- **CE4:** Develop autonomous learning in statistics and mathematics.  
+- **CE2:** Plan solutions considering resources and constraints.  
+- **CE3:** Use advanced computational tools for complex problems.  
+- **CE4:** Foster autonomous learning in statistics and mathematics.  
 - **CE5:** Solve real-world statistical-computational problems.  
 - **CE7:** Manage and analyze large datasets using bibliographic resources.
 
@@ -76,18 +76,18 @@ This course aims to equip students with:
 
 ### 📚 Theoretical Classes
 
-- Expository presentation of statistical and data mining concepts.  
+- Presentation of statistical and data mining concepts.  
 - Topics: probability, inference, regression, clustering, classification, etc.
 
 ### 💻 Practical Sessions
 
 - Case studies and exercises using **R** or **Python**.  
-- Focus on interpretation and application of techniques.
+- Emphasis on interpretation and application.
 
 ### 🧪 Practices and Projects
 
-- Real-world datasets analyzed through individual or group work.  
-- Emphasis on **coding**, **report writing**, and **insight communication**.
+- Analysis of real datasets individually or in groups.  
+- Focus on coding, reporting, and communicating insights.
 
 ---
 
