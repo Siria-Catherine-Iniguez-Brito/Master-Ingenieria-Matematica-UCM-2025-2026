@@ -91,14 +91,13 @@ The course aims to provide students with:
 
 ---
 
-## 🧪 Assignments and Projects
+## 🧪 Assignments for the 2025-26 Course
 
 | Assignment/Project | Description                                | Folder / Files                    | Weight in Final Grade |
 |--------------------|--------------------------------------------|----------------------------------|------------------------|
 | 1                  | Time Series Analysis (TEMA 2)              | `Assignment1/`                   | 30%                   |
 | 2                  | Unsupervised Learning (TEMA 4)             | `Assignment2/`                   | 30%                   |
 | 3                  | Supervised Learning (TEMA 5)               | `Assignment3/`                   | 30%                   |
-| 4                  | Participation & Attendance                | -                                | 10%                   |
 
 > 📌 *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
 
