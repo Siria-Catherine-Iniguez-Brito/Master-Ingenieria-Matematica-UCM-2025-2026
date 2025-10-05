@@ -84,7 +84,7 @@ Core-Curriculum/
 ```
 > 📌 NOTE: Each subfolder includes a `XX_README.md` file that documents its internal structure and materials:
 
-- [`ASDM_README.md`](./Applied-Statistics-Data-Mining/ASDM_README.md) – *Applied Statistics & Data Mining*  
+- [`ASDM_README.md`](./Applied-Statistics-and-Data-Mining/ASDM_README.md) – *Applied Statistics & Data Mining*  
 - [`ANM_README.md`](./Advanced-Numerical-Methods/ANM_README.md) – *Advanced Numerical Methods*  
 - [`MSDS_README.md`](./Modeling-Simulation-Dynamical-Systems/MSDS_README.md) – *Modeling & Simulation in Dynamical Systems*  
 - [`DML_README.md`](./Deterministic-Models-Logistics/DML_README.md) – *Deterministic Models in Logistics*  
