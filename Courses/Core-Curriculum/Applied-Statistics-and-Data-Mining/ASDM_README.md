@@ -120,7 +120,7 @@ The course aims to provide students with:
 
 ✅ **Submission format:**
 
-- Scripts: `.R`, `.py`, or `.sas` depending on assignment.  
+- Scripts: `.R`, or `.py` depending on assignment.  
 - Dataset(s) used (e.g., `.csv`, `.txt`)  
 - Report: `.pdf` or `.md` summarizing methods and results  
 - Submission: Compressed folder named as  
