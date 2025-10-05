@@ -14,7 +14,7 @@
 - [🧪 Assignments for the 2025-26 Course](#-assignments-for-the-2025-26-Course)  
 - [📊 Assignments Evaluation](#-assignments-evaluation)  
 - [📦 Submission and Evaluation Guidelines](#-submission-and-evaluation-guidelines)  
-- [🗂️ Structure of `Applied-Statistics-Data-Mining/`](#structure-of-applied-statistics-data-mining)  
+- [🗂️ Structure of `Applied-Statistics-Data-Mining/`](#structure-applied-statistics-data-mining)
 - [🖥️ Environment Used](#️-environment-used)
 
 ---
@@ -132,7 +132,7 @@ The course aims to provide students with:
 
 ---
 
-## 🗂️ Structure of `Applied-Statistics-Data-Mining/`
+## 🗂️ Structure of `Applied-Statistics-Data-Mining/` <a id="structure-applied-statistics-data-mining"></a>
 
 ```plaintext
 Applied-Statistics-Data-Mining/
