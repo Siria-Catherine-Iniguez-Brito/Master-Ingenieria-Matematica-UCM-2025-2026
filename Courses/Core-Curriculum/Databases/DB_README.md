@@ -115,19 +115,15 @@ This course aims to provide students with:
 
 ## 📦 Submission and Evaluation Guidelines
 
-**Submission Format:**
+✅ **Submission Format:**
 
 - Scripts: `.sql`, `.py`, or equivalent if required  
 - Models: `.pdf`, `.png` or `.dbdiagram.io` exports  
 - Final Report: `.pdf` or `.md` explaining methods and decisions  
-- Final Delivery: Compressed folder named:  
-  `FinalProject_LastName_FirstName.zip`
 
-**Delivery:**
+📤 **Delivery:**
 
-- Upload via the **university virtual campus** (Aula Virtual)  
-- Deadlines will be communicated in class and published in advance.  
-- Late submissions may not be accepted unless justified and approved.
+- Submit via the **university virtual classroom** or channels defined by the instructor.
 
 ---
 
