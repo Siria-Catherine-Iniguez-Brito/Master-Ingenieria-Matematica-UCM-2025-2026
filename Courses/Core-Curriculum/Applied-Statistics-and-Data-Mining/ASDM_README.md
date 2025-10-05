@@ -1,6 +1,6 @@
 # 📊 Applied Statistics & Data Mining
 
-📁 This sub-folder belongs to the `Core-Curriculum` folder of the general repository for the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Applied Statistics & Data Mining** course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid). Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
+📁 This sub-folder belongs to the `Core-Curriculum` inside the `Courses` directory of the general repository for the Master's Degree in Mathematical Engineering (UCM). It corresponds to the **Applied Statistics & Data Mining** course of the Master's Degree in Mathematical Engineering (Complutense University of Madrid). Here, the **assignments**, **objectives**, **competences**, and **submission guidelines** for the course are collected.
 
 ---
 
