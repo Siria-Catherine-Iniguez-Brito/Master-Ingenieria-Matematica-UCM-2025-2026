@@ -102,7 +102,7 @@ The course aims to provide students with:
 | 3                  | Supervised Learning (TEMA 5)               | `Assignment3/`                   | 30%                   |
 | 4                  | Participation & Attendance                | -                                | 10%                   |
 
-📌 *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
+> 📌 *Students must pass each main component (1, 2, 3) independently to pass the course. Failing any requires completion in the extraordinary call.*
 
 ---
 
