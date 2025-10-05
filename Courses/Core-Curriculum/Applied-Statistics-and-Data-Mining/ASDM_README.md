@@ -81,7 +81,7 @@ The course aims to provide students with:
 
 ### 💻 Practical Sessions
 
-- Case studies and exercises using **R**, **Python**, or **SAS**.  
+- Case studies and exercises using **R** or **Python**.  
 - Focus on interpretation and application of techniques.
 
 ### 🧪 Practices and Projects
