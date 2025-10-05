@@ -38,6 +38,7 @@ Core-Curriculum/
 ├── Advanced-Optimization-Techniques/       # Advanced Optimization Techniques
 ├── Databases/                              # Databases
 └── Financial-Mathematics/                  # Foundations in Financial Mathematics
+```
 📌 NOTE:
 Each subfolder includes a course-specific `README.md` file explaining the internal structure and materials included for that subject.
 
