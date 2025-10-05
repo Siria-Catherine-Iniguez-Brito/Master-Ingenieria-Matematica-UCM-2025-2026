@@ -82,12 +82,19 @@ Core-Curriculum/
         └── [...]                           # (More files or subfolders inside)
 
 ```
->📌 NOTE: Each subfolder includes a `XX_README.md` file with a description of its internal organization and contents about the course.
+> 📌 NOTE: Each subfolder includes a `XX_README.md` file that documents its internal structure and materials:
 
+- [`ASDM_README.md`](./Applied-Statistics-Data-Mining/ASDM_README.md) – *Applied Statistics & Data Mining*  
+- [`ANM_README.md`](./Advanced-Numerical-Methods/ANM_README.md) – *Advanced Numerical Methods*  
+- [`MSDS_README.md`](./Modeling-Simulation-Dynamical-Systems/MSDS_README.md) – *Modeling & Simulation in Dynamical Systems*  
+- [`DML_README.md`](./Deterministic-Models-Logistics/DML_README.md) – *Deterministic Models in Logistics*  
+- [`AOT_README.md`](./Advanced-Optimization-Techniques/AOT_README.md) – *Advanced Optimization Techniques*  
+- [`DB_README.md`](./Databases/DB_README.md) – *Databases*  
+- [`FM_README.md`](./Financial-Mathematics/FM_README.md) – *Foundations in Financial Mathematics*
 
 ---
 
-## ✅ ENROLLED: All Core Courses Completed
+## ✅ ENROLLED: All Core Courses
 
 I have registered for all required courses under the core curriculum module, and each folder documents the content covered throughout the semester.
 
