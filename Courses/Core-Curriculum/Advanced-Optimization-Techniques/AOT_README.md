@@ -84,10 +84,18 @@ This course aims to enable students to:
 
 ## 🧪 Assignments for the 2025-26 Course
 
-| Assignment/Project | Description                                             | Folder / Files         | Weight in Final Grade |
-|--------------------|---------------------------------------------------------|------------------------|------------------------|
-| 1                  | Model implementation and problem solving with software  | `Assignment1/`         | 55%                   |
-| 2                  | Final project: Case modeling, implementation, analysis  | `Assignment2/`         | 45%                   |
+| Assignment | Assignment                        | Statement Filename                      | Deadline                 |
+|------------|------------------------------------|------------------------------------------|--------------------------|
+| 1          | Problema de Diversidad             | P1-DIVERSIDAD.D1                         | Thursday, Oct 16, 2025   |
+| 2          | Juegos                             | P2-JUEGOS.D1                             | Thursday, Oct 23, 2025   |
+| 3          | Cortes                             | P3-CORTES.D1                             | Thursday, Oct 30, 2025   |
+| 4          | Min-nvar                           | P3-MIN-NVAR.D1                           | Thursday, Oct 30, 2025   |
+| 5          | opt{f(x) | h(x)=0}                 | P4-OPT-FX-SUJETO-HX.D1                   | Thursday, Nov 6, 2025    |
+| 6          | Colección                          | P5-COLECCION.D1                          | Thursday, Nov 13, 2025   |
+| 7          | Cableado                           | P6-CABLEADO.D1                           | Thursday, Nov 20, 2025   |
+| 8          | Problema de Optimización           | P7-OPTIMIZACION.D1                       | Thursday, Nov 27, 2025   |
+| 9          | Actividad: Modelo                  | P8-ACTIVIDAD-MODELO.D1                   | Thursday, Dec 4, 2025    |
+| 2          | Final project: Case modeling, implementation, analysis  | `Assignment2/`         | 45%                   |
 
 > 📌 Note: *Each assignment must be completed to pass the course. Late submissions may be penalized or rejected.*
 
