@@ -90,7 +90,7 @@ This course aims to enable students to:
 | 2          | Juegos                             | P2-JUEGOS.D1                             | Thursday, Oct 23, 2025   |
 | 3          | Cortes                             | P3-CORTES.D1                             | Thursday, Oct 30, 2025   |
 | 4          | Min-nvar                           | P3-MIN-NVAR.D1                           | Thursday, Oct 30, 2025   |
-| 5          | opt{f(x) | h(x)=0}                 | P4-OPT-FX-SUJETO-HX.D1                   | Thursday, Nov 6, 2025    |
+| 5          | opt{f(x) tq h(x)=0}                 | P4-OPT-FX-SUJETO-HX.D1                   | Thursday, Nov 6, 2025    |
 | 6          | Colección                          | P5-COLECCION.D1                          | Thursday, Nov 13, 2025   |
 | 7          | Cableado                           | P6-CABLEADO.D1                           | Thursday, Nov 20, 2025   |
 | 8          | Problema de Optimización           | P7-OPTIMIZACION.D1                       | Thursday, Nov 27, 2025   |
