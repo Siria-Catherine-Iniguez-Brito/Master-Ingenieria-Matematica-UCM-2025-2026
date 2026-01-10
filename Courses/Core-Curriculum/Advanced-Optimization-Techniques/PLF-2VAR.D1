@@ -1,0 +1,29 @@
+   EJERCICIO  1: PROGRAMACION LINEAL FRACCIONAL 2 VARIABLES
+                 ==========================================
+
+   Dada la matriz A(4,2) y el vector b(4) resolver los siguientes problemas de
+   programacion lineal fraccional continua:
+
+      fmin = min { f(x) | x en S }
+
+      fmax = max { f(x) | x en S }
+
+   donde
+
+      f(x) = (103*x1 + 137*x2 + 36) / (3*x1 + 4*x2 + 1)
+
+      S = { x | Ax <= b }
+
+      A11 =      -5    A12 =      -7    b1 =       0
+      A21 =      -9    A22 =       1    b2 =    -136
+      A31 =      -3    A32 =      23    b3 =     136
+      A41 =       7    A42 =       3    b4 =     476
+
+   Obtener todas las soluciones optimas de ambos problemas mediante la resolucion
+   de las ecuaciones de Karush-Kuhn-Tucker.
+
+   fmin =
+   Minimos globales (con multiplicadores KKT):
+
+   fmax =
+   Maximos globales (con multiplicadores KKT):
