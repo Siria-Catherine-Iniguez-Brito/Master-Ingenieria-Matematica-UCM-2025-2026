@@ -1,0 +1,77 @@
+   PRACTICA   3: CORTE UNIDIMENSIONAL DE MATERIALES
+                 ==================================
+
+   Una empresa siderurgica fabrica planchas de acero de dimensiones fijas con
+   anchura A=1 y longitud LP. Puede cortarlas solo en sentido longitudinal a las
+   distancias que convenga y tiene que satisfacer una demanda de t tipos de piezas
+   todas de la misma anchura A=1. Una pieza del tipo i tiene longitud L(i) y la
+   demanda de este tipo de piezas es d(i), para i=1..t. La empresa quiere cortar
+   las planchas de forma que sea minima la superficie de los trozos sobrantes.
+
+   Un patron de corte es una forma de cortar una plancha en piezas con longitudes
+   L(i) y una parte sobrante no aprovechable.
+
+   Nota.- En este modelo se considera que el exceso de piezas cortadas sobre la
+   demanda es aprovechable, esto es, no forma parte de los trozos sobrantes.
+
+   Resolver el problema de cortes unidimensional para los datos A=1, LP, t, L(1:t),
+   d(1:t) indicados a continuacion. Encontrar todos los patrones posibles. Marcar
+   los patrones no dominados. Escribir una solucion optima en la tabla siguiente.
+
+                             ===========                       ========
+   Longitud de las planchas  |LP = 100 |     Tipos de piezas   |t = 6 |
+                             ===========                       ========
+
+       =================================================================
+       |tipo de pieza i|   1   |   2   |   3   |   4   |   5   |   6   |
+       |---------------------------------------------------------------|
+       |longitud (Li)  | 54.11 | 64.37 | 54.66 | 58.97 | 39.90 | 32.35 |
+       |---------------------------------------------------------------|
+       |demanda  (di)  |  17   |  14   |  18   |  16   |  16   |  18   |
+       =================================================================
+
+                                                   ========
+   SOLUCION OPTIMA:   Numero de patrones posibles  |      |
+   ===============                                 ========
+                   ==========                                  ========
+   Sobrante total  |        |     Numero de planchas cortadas  |      |
+                   ==========                                  ========
+
+       =================================================================
+       | Patron | Piezas que corta de cada tipo     | Sobrante |  Uso  |
+       |    j   |  1  |  2  |  3  |  4  |  5  |  6  |   Rj     |  xj   |
+       |===============================================================|
+       |    1   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    2   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    3   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    4   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    5   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    6   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    7   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    8   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |    9   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   10   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   11   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   12   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   13   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   14   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   15   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   16   |     |     |     |     |     |     |          |       |
+       |--------|-----|-----|-----|-----|-----|-----|----------|-------|
+       |   17   |     |     |     |     |     |     |          |       |
+       =================================================================
