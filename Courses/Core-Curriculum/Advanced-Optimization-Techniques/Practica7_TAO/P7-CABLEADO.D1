@@ -1,0 +1,62 @@
+   PRACTICA   7: CABLEADO
+                 ========
+
+   Se desea unir con un cable los puntos A y B de la figura siguiente pasando por
+   los puntos intermedios P y Q de forma que los tramos AP, PQ, QB sean rectos.
+   El coste de instalación de una unidad de longitud del cable en la zona facil
+   (rectangulo de base AR) es 1 euro, en la zona intermedia (rectangulo de base RS)
+   es m euros y en la zona dificil (rectangulo de base ST) es n euros, siendo
+   n > m > 1.
+
+   Se conoce la longitud de las anchuras de las bases AR, RS, ST y de la altura TB
+   de los rectangulos. Se quiere determinar la situacion de los puntos P y Q, esto
+   es, las longitudes RP y SQ, tales que el coste total del cable sea minimo.
+
+        ---------------------------------------- B
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |...........Q|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |         P|............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        |          |............|\\\\\\\\\\\\\\|
+        ----------------------------------------
+       A           R            S              T
+
+   Los datos m, n, AR, RS, ST, TB se consideran suficientemente precisos.
+   Resolver los casos siguientes. Expresar los resultados RP, SQ y el coste total
+   con 4 cifras decimales precisas con el formato de la tabla siguiente.
+
+   ================================================================================
+   |Caso |   m  |   n  |  AR  |  RS  |  ST  |  TB  |   RP   |   SQ   | coste total|
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   1 | 2.19 | 3.67 | 4.28 | 5.14 | 6.70 | 8.24 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   2 | 2.24 | 3.67 | 4.62 | 5.82 | 6.22 | 8.83 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   3 | 2.98 | 4.72 | 4.07 | 5.40 | 6.22 | 8.94 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   4 | 2.13 | 3.96 | 4.15 | 5.82 | 6.01 | 8.23 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   5 | 2.07 | 3.49 | 4.89 | 5.63 | 6.25 | 8.14 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   6 | 2.76 | 4.18 | 4.66 | 5.83 | 6.61 | 8.71 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   7 | 2.83 | 4.52 | 4.64 | 5.37 | 6.20 | 8.15 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   8 | 2.27 | 3.44 | 4.29 | 5.12 | 6.01 | 8.28 |        |        |            |
+   |-----|------|------|------|------|------|------|--------|--------|------------|
+   |   9 | 2.09 | 3.12 | 4.02 | 5.23 | 6.75 | 8.86 |        |        |            |
+   ================================================================================
+
+   En la calificacion de este ejercicio se valorara su resolucion con diferentes
+   tecnicas de optimizacion (univariable, multivariable sin o con restricciones) y
+   resolucion de ecuaciones o sistemas de ecuaciones no lineales.
+
+
